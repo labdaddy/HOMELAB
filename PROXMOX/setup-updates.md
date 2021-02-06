@@ -1,0 +1,6 @@
+- From the Proxmox web interface, click on the name of your server, then click the updates tab, then the refresh button to check for available software updates.
+- A window will pop up that shows the progress, it should end with TASK OK, go ahead and close that box.
+- Next, click the upgrade button.
+- A new browser window will open, detailing which updates are going to be installed, and prompting you to continue, you can just press enter here to kick things off.
+- When it has finished, you will be returned to the bash shell prompt and it’s safe to close this window out after you check to see if a reboot is required, there will be a message displayed at the end of the update if this is the case, as in the screenshot below.
+- If a reboot is required, you can use the reboot button to do so, any running VMs should automatically be cleanly shut down before the host reboots.
