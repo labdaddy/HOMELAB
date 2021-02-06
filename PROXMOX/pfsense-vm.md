@@ -11,7 +11,7 @@ Create a new VM, if you check the advanced box at the bottom you will have the o
 - Always check the box for discard, this will free up space from files deleted on the VM guest, if unchecked the free space will be available to the VM guest but still marked as used on the Proxmox host and storage device
 - Under the CPU tab, set the CPU cores for this VM, 1 should be just fine, and set CPU units to 2048. CPU units give each VM a priority for CPU time, so VMs that are less critical can just use the default value of 1024, and critical VMs should get a higher value so they get priority if there is a high demand for CPU usage.
 - For memory, 1024MiB is minimum required otherwsie you will get weird errors after installation. You can always use more if you want. 
-- Under the Network tab, choose VirtIO for the Model, and leave the Bridge on vmbr0, we will add the new network after the wizard is finished.
+- Under the Network tab, choose VirtIO for the Model, and leave the Bridge on vmbr0, we will add the new network after the wizard is finished. Also make sure the Model is VirtIO (paravirtualized).
 - Finish the setup wizard, then head over to Datacenter > (Name of your host) > pfSense > Hardware > Add > Network Device.
 - Choose vmbr1 for the bridge (our internal private network), and VirtIO for the model.
 - Then install pfsense: Click the start button in the top menu bar, and then click the console tab on the left to run through the installer for pfSense, the default install options should be fine.
