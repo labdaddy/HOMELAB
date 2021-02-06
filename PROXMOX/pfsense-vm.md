@@ -19,7 +19,7 @@ Create a new VM, if you check the advanced box at the bottom you will have the o
 ### Configure pfSense
 - After the bootup is finished, choose option 8 and press enter to open a shell session.
 - We need to disable the packet filter (firewall) temporarily so we can access the web interface from the WAN side which is disabled by default, use the command pfctl -d to accomplish this, and note the IP Address of the WAN interface shown above the menu options, you’ll need it in the next step.
-Note: You may get locked out a few times during the setup before we add a rule to allow the traffic, because changing certain settings will reload the packet filter and thus turn it back on, just go back to the console on Proxmox and run the pfctl -d command again. Disabling the packet filter will be required over and over again. Get used to it.
+- ### Note: You may get locked out a few times during the setup before we add a rule to allow the traffic, because changing certain settings will reload the packet filter and thus turn it back on, just go back to the console on Proxmox and run the pfctl -d command again. Disabling the packet filter will be required over and over again. Get used to it.
 - From a web browser, visit https://(IP address of pfSense), you’ll be greeted with the invalid SSL Certificate page, choose Advanced > Accept the risk and continue, or proceed to the website depending on which browser you are using. 
 - Then log in with the default credentials: Username: admin Password: pfsense
 - Click through the first couple of pages, then choose a hostname, domain, and DNS servers. You can use the same domain as your Proxmox host or a new one, and any public DNS servers you wish.
