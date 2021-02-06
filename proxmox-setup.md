@@ -1,4 +1,4 @@
-##PROXMOX ENVIRONMENT SETUP
+## PROXMOX ENVIRONMENT SETUP
 
 After installing proxmox we need to configure updates outside of the paid enterprise repository.
 First Login
