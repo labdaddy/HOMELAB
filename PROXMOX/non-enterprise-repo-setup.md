@@ -10,7 +10,7 @@ Create a configuration file for the Community repository
 Update APT’s package list
 Install all available software updates
 
--\- `cd /etc/apt/sources.list.d`
+- `cd /etc/apt/sources.list.d`
 - `mv pve-enterprise.list pve-enterprise.list.disabled`
 - `echo 'deb http://download.proxmox.com/debian/pve buster pve-no-subscription' > pve-community.list`
 - `apt update`
