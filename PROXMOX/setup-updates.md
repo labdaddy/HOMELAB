@@ -1,6 +1,20 @@
-- From the Proxmox web interface, click on the name of your server, then click the updates tab, then the refresh button to check for available software updates.
-- A window will pop up that shows the progress, it should end with TASK OK, go ahead and close that box.
-- Next, click the upgrade button.
-- A new browser window will open, detailing which updates are going to be installed, and prompting you to continue, you can just press enter here to kick things off.
-- When it has finished, you will be returned to the bash shell prompt and it’s safe to close this window out after you check to see if a reboot is required, there will be a message displayed at the end of the update if this is the case, as in the screenshot below.
-- If a reboot is required, you can use the reboot button to do so, any running VMs should automatically be cleanly shut down before the host reboots.
+Upon logging in, you will be presented with a “You do not have a valid subscription” warning, this will always pop up when you log in and that’s fine, we aren’t going to use the Enterprise Edition, we will use the free Community Edition, there are a few steps to get that set up.
+
+On the left column, click the name you chose for your server during the installation, then click the Shell button on the top right.
+
+A new window should open with a command line on the server. You will need to type in the five commands below to accomplish the following:
+
+    Move to the directory where Advanced Package Tool (APT) looks for software update repositories
+    Rename the Enterprise configuration file to have .disabled at the end so it is ignored by APT
+    Create a configuration file for the Community repository
+    Update APT’s package list
+    Install all available software updates
+    
+`cd /etc/apt/sources.list.d`
+`mv pve-enterprise.list pve-enterprise.list.disabled`
+`echo 'deb http://download.proxmox.com/debian/pve buster pve-no-subscription' > pve-community.list`
+`apt update`
+`apt -y dist-upgrade`
+
+You’ll want to reboot after installing the updates by clicking the reboot button on the web interface, feel free to choose shutdown here if you want to move the server computer somewhere else now that it’s all set up.
+    
