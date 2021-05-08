@@ -4,11 +4,11 @@ On the left column, click the name you chose for your server during the installa
 
 A new window should open with a command line on the server. You will need to type in the five commands below to accomplish the following:
 
-    Move to the directory where Advanced Package Tool (APT) looks for software update repositories
-    Rename the Enterprise configuration file to have .disabled at the end so it is ignored by APT
-    Create a configuration file for the Community repository
-    Update APT’s package list
-    Install all available software updates
+1. Move to the directory where Advanced Package Tool (APT) looks for software update repositories
+2. Rename the Enterprise configuration file to have .disabled at the end so it is ignored by APT
+3. 3. Create a configuration file for the Community repository
+4. Update APT’s package list
+5. Install all available software updates
     
 `cd /etc/apt/sources.list.d`
 `mv pve-enterprise.list pve-enterprise.list.disabled`
