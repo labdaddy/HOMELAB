@@ -38,3 +38,10 @@
 - [Powercli license management-1](http://vcloud-lab.com/entries/esxi-installation-and-configuration/powercli-one-liner-reporting-assigning-and-removing-licenses-on-esxi)
 - [Powercli license management-2](https://www.starwindsoftware.com/blog/managing-vmware-vcenter-esxi-license-keys-with-powercli)
 - [Powercli license management-3](https://github.com/kunaludapi/Powercli/blob/master/License%20Information/Set-EsxiLicenses.ps1)
+
+#### VMWARE PERFORMANCE
+- [Performance best practices](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/techpaper/performance/vsphere-esxi-vcenter-server-67-performance-best-practices.pdf)
+- [Should you use hyperthreading?](https://virtualizationreview.com/articles/2016/12/08/should-you-use-hyperthreading-with-vmware.aspx)
+- [Maximizing performance](https://www.heroix.com/blog/vmware-vcpu-over-allocation/)
+- [Resource optimization](https://www.thomaspreischl.de/vcenter-homelab/)
+- [CPU slecetion](https://searchservervirtualization.techtarget.com/feature/Picking-the-right-CPU-for-virtualization)
