@@ -45,9 +45,30 @@
 - [Intel CPU/ Socket Compendium (from JDM_WAAAT)](https://docs.google.com/spreadsheets/d/1LqQvwXoqhcft6dpMGgIF21XhqijBACOe9nU8cVK6Llk/htmlview)
 - [Intel NUC part numbers (William Lam)](https://lamw.github.io/intel-nuc-decoder/)
 - [Linuxbuff RedHad Labs](https://linuxbuff.wordpress.com/tag/homelab/)
+- [Lisenet-Homelab with Foreman and Katello](https://www.lisenet.com/2018/homelab-project-with-kvm-katello-and-puppet/)
+
+#### Pfsense
+- [Config recipes](https://docs.netgate.com/pfsense/en/latest/recipes/openvpn-ra.html)
+- [VPN's](https://docs.netgate.com/pfsense/en/latest/vpn/openvpn/index.html)
+- [OpenVPN](https://www.ceos3c.com/pfsense/openvpn-on-pfsense/)
+- [Configure Quad 9](https://linuxincluded.com/configuring-quad9-on-pfsense/)
+- [Configure PfblockerNG-devel](https://linuxincluded.com/block-ads-malvertising-on-pfsense-using-pfblockerng-dnsbl/)
+- [The hard truth about ransomware](https://doublepulsar.com/the-hard-truth-about-ransomware-we-arent-prepared-it-s-a-battle-with-new-rules-and-it-hasn-t-a93ad3030a54)
+
+#### General Security Stuff
+- [StrongDM.com](https://www.strongdm.com/blog)
+
+#### Networking
+- [Computer Networking a Top Down Approach](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
+- [Top down approach resources[(https://www.pearson.com/us/higher-education/program/Kurose-Pearson-e-Text-Computer-Networking-Access-Card-8th-Edition/PGM2877610.html?tab=resources)
+- [Computernetworkingnotes.com](https://www.computernetworkingnotes.com/)
+- [GNU Linux-Networking](https://gnulinux.guru/?Networking)
+- [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)
+- [Network calculators](https://www.subnetmask.info/)
 - 
 
 #### VMWARE Labs and Learning
+- [VMWARE Hands On Labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)
 - [VMWARE LABS 1-Nakivo Nested Lab](https://www.nakivo.com/blog/building-vmware-home-lab-complete/)
 - [VMWARE LABS 2-Microsft NSX-T Lab](https://blogs.vmware.com/customer-experience-and-success/files/2019/02/Nest-Lab-Tech-Doc-2.6.pdf)
 - [VMWARE LABS 3-VSphere 6.7 Search Results on Virtualizationhowto.com](https://www.virtualizationhowto.com/category/virtualization/vmware/vsphere-6-7/)
