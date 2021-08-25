@@ -67,4 +67,4 @@
 - [Should you use hyperthreading?](https://virtualizationreview.com/articles/2016/12/08/should-you-use-hyperthreading-with-vmware.aspx)
 - [Maximizing performance](https://www.heroix.com/blog/vmware-vcpu-over-allocation/)
 - [Resource optimization](https://www.thomaspreischl.de/vcenter-homelab/)
-- [CPU slecetion](https://searchservervirtualization.techtarget.com/feature/Picking-the-right-CPU-for-virtualization)
+- [CPU selection](https://searchservervirtualization.techtarget.com/feature/Picking-the-right-CPU-for-virtualization)
