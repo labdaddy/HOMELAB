@@ -27,12 +27,13 @@
 - [Intel CPU/ Socket Compendium (from JDM_WAAAT)](https://docs.google.com/spreadsheets/d/1LqQvwXoqhcft6dpMGgIF21XhqijBACOe9nU8cVK6Llk/htmlview)
 - [Intel NUC part numbers (William Lam)](https://lamw.github.io/intel-nuc-decoder/)
 
-#### VMWARE LABS
+#### VMWARE LABS and LEARNING
 - [VMWARE LABS 1-Nakivo Nested Lab](https://www.nakivo.com/blog/building-vmware-home-lab-complete/)
 - [VMWARE LABS 2-Microsft NSX-T Lab](https://blogs.vmware.com/customer-experience-and-success/files/2019/02/Nest-Lab-Tech-Doc-2.6.pdf)
 - [VMWARE LABS 3-VSphere 6.7 Search Results on Virtualizationhowto.com](https://www.virtualizationhowto.com/category/virtualization/vmware/vsphere-6-7/)
 - [VMWARE Labs 4-VSphere With Tanzu](https://williamlam.com/2020/11/complete-vsphere-with-tanzu-homelab-with-just-32gb-of-memory.html)
 - [VMWARE administration and backups from Nakivo](https://www.nakivo.com/blog/category/vmware-administration/)
+- [Altaro VMWARE articles](https://www.altaro.com/vmware/)
 
 #### VMWARE LICENSING
 - [Reset evaluation license-cron script](https://calvin.me/reset-esxi-evaluation-license)
