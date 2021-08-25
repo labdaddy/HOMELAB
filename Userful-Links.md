@@ -20,7 +20,9 @@
 - [Best RAID configurations](https://www.hostdime.com/blog/best-raid-configuration/)
 - [Selecting RAID Levels](https://docs.oracle.com/cd/E19871-01/820-1847-20/appendixf.html)
 - [Why 3-2-1 Backup Sucks](https://www.unitrends.com/blog/3-2-1-backup-sucks)
+- [Difference between NFS and iSCSI](https://www.usenix.org/legacy/publications/library/proceedings/fast04/tech/full_papers/radkov/radkov_html/node5.html)
+- [Difference between NVME and M.2](https://www.velocitymicro.com/blog/nvme-vs-m-2-vs-sata-whats-the-difference/)
 
-
-#### Homelab Servers and Such
+#### Homelabs and Servers and Such
+[Intel CPU/ Socket Compendium (from JDM_WAAAT)](https://docs.google.com/spreadsheets/d/1LqQvwXoqhcft6dpMGgIF21XhqijBACOe9nU8cVK6Llk/htmlview)
 [Intel NUC part numbers (William Lam)](https://lamw.github.io/intel-nuc-decoder/)
