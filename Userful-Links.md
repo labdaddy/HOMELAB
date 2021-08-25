@@ -9,7 +9,6 @@
 #### Logging
 - [Linux Logging](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
 - [Systemd/ Systemctl logging](https://www.loggly.com/ultimate-guide/using-systemctl/)
-- 
 
 #### Docker
 - [Docker Handbook](https://docker-handbook.farhan.dev/)
@@ -65,7 +64,6 @@
 - [GNU Linux-Networking](https://gnulinux.guru/?Networking)
 - [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)
 - [Network calculators](https://www.subnetmask.info/)
-- 
 
 #### VMWARE Labs and Learning
 - [VMWARE Hands On Labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)
