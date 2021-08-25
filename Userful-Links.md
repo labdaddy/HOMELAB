@@ -12,14 +12,15 @@
 - [Kubernetes the hard way, Virtualbox edition](https://github.com/sgargel/kubernetes-the-hard-way-virtualbox)
 
 #### Servers and Storage
+- [ZFS 101](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/)
+- [ZFS search results on dannyda.com](https://dannyda.com/?s=Zfs)
 - [RAID related links (old)](https://mangolassi.it/topic/121/raid-link-blast)
 - [More RAID info](https://www.steadfast.net/blog/almost-everything-you-need-know-about-raid)
 - [SnapRaid, Perfect Media Server](https://perfectmediaserver.com/tech-stack/snapraid.html)
-- [ZFS 101](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/)
 - [Best RAID configurations](https://www.hostdime.com/blog/best-raid-configuration/)
 - [Selecting RAID Levels](https://docs.oracle.com/cd/E19871-01/820-1847-20/appendixf.html)
 - [Why 3-2-1 Backup Sucks](https://www.unitrends.com/blog/3-2-1-backup-sucks)
-- [ZFS search results on dannyda.com](https://dannyda.com/?s=Zfs)
+
 
 #### Homelab Servers and Such
 [Intel NUC part numbers (William Lam)](https://lamw.github.io/intel-nuc-decoder/)
