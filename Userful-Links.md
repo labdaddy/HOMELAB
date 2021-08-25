@@ -32,9 +32,11 @@
 - [VMWARE LABS 2-Microsft NSX-T Lab](https://blogs.vmware.com/customer-experience-and-success/files/2019/02/Nest-Lab-Tech-Doc-2.6.pdf)
 - [VMWARE LABS 3-VSphere 6.7 Search Results on Virtualizationhowto.com](https://www.virtualizationhowto.com/category/virtualization/vmware/vsphere-6-7/)
 - [VMWARE Labs 4-VSphere With Tanzu](https://williamlam.com/2020/11/complete-vsphere-with-tanzu-homelab-with-just-32gb-of-memory.html)
+- [VMWARE administration and backups from Nakivo](https://www.nakivo.com/blog/category/vmware-administration/)
 
 #### VMWARE LICENSING
 - [Reset evaluation license-cron script](https://calvin.me/reset-esxi-evaluation-license)
+- [Release a license key](https://communities.vmware.com/t5/VMware-Workstation-Pro/Release-a-license-key-from-old-installation/td-p/2821903)
 - [Powercli license management-1](http://vcloud-lab.com/entries/esxi-installation-and-configuration/powercli-one-liner-reporting-assigning-and-removing-licenses-on-esxi)
 - [Powercli license management-2](https://www.starwindsoftware.com/blog/managing-vmware-vcenter-esxi-license-keys-with-powercli)
 - [Powercli license management-3](https://github.com/kunaludapi/Powercli/blob/master/License%20Information/Set-EsxiLicenses.ps1)
