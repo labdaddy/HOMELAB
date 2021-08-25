@@ -60,7 +60,7 @@
 
 #### Networking
 - [Computer Networking a Top Down Approach](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
-- [Top down approach resources[(https://www.pearson.com/us/higher-education/program/Kurose-Pearson-e-Text-Computer-Networking-Access-Card-8th-Edition/PGM2877610.html?tab=resources)
+- [Top down approach resources](https://www.pearson.com/us/higher-education/program/Kurose-Pearson-e-Text-Computer-Networking-Access-Card-8th-Edition/PGM2877610.html?tab=resources)
 - [Computernetworkingnotes.com](https://www.computernetworkingnotes.com/)
 - [GNU Linux-Networking](https://gnulinux.guru/?Networking)
 - [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)
