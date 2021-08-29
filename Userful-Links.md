@@ -52,10 +52,10 @@
 - [OpenVPN](https://www.ceos3c.com/pfsense/openvpn-on-pfsense/)
 - [Configure Quad 9](https://linuxincluded.com/configuring-quad9-on-pfsense/)
 - [Configure PfblockerNG-devel](https://linuxincluded.com/block-ads-malvertising-on-pfsense-using-pfblockerng-dnsbl/)
-- [The hard truth about ransomware](https://doublepulsar.com/the-hard-truth-about-ransomware-we-arent-prepared-it-s-a-battle-with-new-rules-and-it-hasn-t-a93ad3030a54)
 
 #### General Security Stuff
 - [StrongDM.com](https://www.strongdm.com/blog)
+- [The hard truth about ransomware](https://doublepulsar.com/the-hard-truth-about-ransomware-we-arent-prepared-it-s-a-battle-with-new-rules-and-it-hasn-t-a93ad3030a54)
 
 #### Networking
 - [Computer Networking a Top Down Approach](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
