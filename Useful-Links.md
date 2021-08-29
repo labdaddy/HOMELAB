@@ -73,10 +73,13 @@
 - [VMWARE LABS 1-Nakivo Nested Lab](https://www.nakivo.com/blog/building-vmware-home-lab-complete/)
 - [VMWARE LABS 2-Microsft NSX-T Lab](https://blogs.vmware.com/customer-experience-and-success/files/2019/02/Nest-Lab-Tech-Doc-2.6.pdf)
 - [VMWARE LANS 3-Nested ESXi Lab](https://www.virtualizationhowto.com/2020/09/nested-esxi-lab-build-networking-and-hardware/)
-- [VMWARE Labs 4-VSphere With Tanzu](https://williamlam.com/2020/11/complete-vsphere-with-tanzu-homelab-with-just-32gb-of-memory.html)
-- [VMWARE LABS 5-VSphere 6.7 Search Results on Virtualizationhowto.com](https://www.virtualizationhowto.com/category/virtualization/vmware/vsphere-6-7/)
-- [VMWARE administration and backups from Nakivo](https://www.nakivo.com/blog/category/vmware-administration/)
+- [VMWARE Labs 4-VSphere Lab With Tanzu](https://williamlam.com/2020/11/complete-vsphere-with-tanzu-homelab-with-just-32gb-of-memory.html)
+
+#### VMWARE General Information
+- [Vmware Workstation Pro vs Player](https://www.nakivo.com/blog/vmware-workstation-pro-vs-player/)
 - [Altaro VMWARE articles](https://www.altaro.com/vmware/)
+- [VMWARE administration and backups from Nakivo](https://www.nakivo.com/blog/category/vmware-administration/)
+- [VSphere 6.7 Search Results on Virtualizationhowto.com](https://www.virtualizationhowto.com/category/virtualization/vmware/vsphere-6-7/)
 
 #### VMWARE Licensing
 - [Reset evaluation license-cron script](https://calvin.me/reset-esxi-evaluation-license)
