@@ -5,6 +5,9 @@
 - [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
 - [Configure ZFS on Ubuntu](https://linuxconfig.org/configuring-zfs-on-ubuntu-20-04)
 
+#### Powershell
+- [Powershell documentation](https://docs.microsoft.com/en-us/powershell/)
+- 
 
 #### Logging
 - [Linux Logging](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
