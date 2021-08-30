@@ -82,6 +82,7 @@
 - [VSphere 6.7 Search Results on Virtualizationhowto.com](https://www.virtualizationhowto.com/category/virtualization/vmware/vsphere-6-7/)
 
 #### VMWARE Licensing
+- [Reset ESXi 6.7 Evaluation License](https://zewwy.ca/index.php/2019/09/19/reset-esxi-trial-license/)
 - [Reset evaluation license-cron script](https://calvin.me/reset-esxi-evaluation-license)
 - [Release a license key](https://communities.vmware.com/t5/VMware-Workstation-Pro/Release-a-license-key-from-old-installation/td-p/2821903)
 - [Powercli license management-1](http://vcloud-lab.com/entries/esxi-installation-and-configuration/powercli-one-liner-reporting-assigning-and-removing-licenses-on-esxi)
