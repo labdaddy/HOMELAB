@@ -49,12 +49,17 @@
 - [Linuxbuff RedHad Labs](https://linuxbuff.wordpress.com/tag/homelab/)
 - [Lisenet-Homelab with Foreman and Katello](https://www.lisenet.com/2018/homelab-project-with-kvm-katello-and-puppet/)
 
-#### Pfsense
+#### Pfsense Firewall
 - [Config recipes](https://docs.netgate.com/pfsense/en/latest/recipes/openvpn-ra.html)
+- [Install Pfsense on ESXi](https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-esxi.html)
+- [Install Pfsense on Proxmox](https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-proxmox-ve.html)
 - [VPN's](https://docs.netgate.com/pfsense/en/latest/vpn/openvpn/index.html)
 - [OpenVPN](https://www.ceos3c.com/pfsense/openvpn-on-pfsense/)
 - [Configure Quad 9](https://linuxincluded.com/configuring-quad9-on-pfsense/)
 - [Configure PfblockerNG-devel](https://linuxincluded.com/block-ads-malvertising-on-pfsense-using-pfblockerng-dnsbl/)
+
+#### Sophos UTM Firewall
+- [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
 
 #### General Security Stuff
 - [StrongDM.com](https://www.strongdm.com/blog)
