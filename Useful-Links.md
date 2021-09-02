@@ -1,9 +1,15 @@
 ### Some Useful Links - Sorted by Type
 
+#### General Learning Links
+- [Katacoda](https://www.katacoda.com/)
+- [Adam the automator](https://adamtheautomator.com/)
+- [Austin's Nerdy Things](https://austinsnerdythings.com/category/homelab/)
+
 #### Linux
 - [Linuxize Setups Series](https://linuxize.com/series/)
 - [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
 - [Configure ZFS on Ubuntu](https://linuxconfig.org/configuring-zfs-on-ubuntu-20-04)
+- [Linux shell scripting](https://adamtheautomator.com/linux-shell-scripting-tutorial/)
 
 #### Powershell
 - [Powershell documentation](https://docs.microsoft.com/en-us/powershell/)
@@ -34,6 +40,7 @@
 - [ZFS search results on dannyda.com](https://dannyda.com/?s=Zfs)
 - [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
 - [Configure ZFS on Ubuntu](https://linuxconfig.org/configuring-zfs-on-ubuntu-20-04)
+- [Battle testing mdadm, ZFS, BTRfs](https://www.unixsheikh.com/articles/battle-testing-data-integrity-verification-with-zfs-btrfs-and-mdadm-dm-integrity.html)
 - [RAID related links (old)](https://mangolassi.it/topic/121/raid-link-blast)
 - [More RAID info](https://www.steadfast.net/blog/almost-everything-you-need-know-about-raid)
 - [SnapRaid, Perfect Media Server](https://perfectmediaserver.com/tech-stack/snapraid.html)
