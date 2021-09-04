@@ -55,6 +55,7 @@
 - [Intel NUC part numbers (William Lam)](https://lamw.github.io/intel-nuc-decoder/)
 - [Linuxbuff RedHad Labs](https://linuxbuff.wordpress.com/tag/homelab/)
 - [Lisenet-Homelab with Foreman and Katello](https://www.lisenet.com/2018/homelab-project-with-kvm-katello-and-puppet/)
+- [How to homelab](https://www.dlford.io/tag/how-to-home-lab-series/)
 
 #### Pfsense Firewall
 - [Config recipes](https://docs.netgate.com/pfsense/en/latest/recipes/openvpn-ra.html)
