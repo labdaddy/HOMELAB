@@ -13,7 +13,7 @@
 
 #### Powershell
 - [Powershell documentation](https://docs.microsoft.com/en-us/powershell/)
-- 
+- [Powershell objects tutorial](https://adamtheautomator.com/powershell-objects/)
 
 #### Logging
 - [Linux Logging](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
