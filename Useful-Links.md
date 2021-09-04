@@ -11,7 +11,8 @@
 - [Configure ZFS on Ubuntu](https://linuxconfig.org/configuring-zfs-on-ubuntu-20-04)
 - [Linux shell scripting](https://adamtheautomator.com/linux-shell-scripting-tutorial/)
 
-#### Powershell
+#### Windows and Powershell
+- [Always run windows terminal as administrator](https://pureinfotech.com/always-run-windows-terminal-administrator-windows-10/)
 - [Powershell documentation](https://docs.microsoft.com/en-us/powershell/)
 - [Powershell objects tutorial](https://adamtheautomator.com/powershell-objects/)
 
