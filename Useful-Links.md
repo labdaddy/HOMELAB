@@ -72,6 +72,7 @@
 - [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
 
 #### General Security Stuff
+- [Secure Password Generator](https://passwordsgenerator.net/)
 - [StrongDM.com](https://www.strongdm.com/blog)
 - [The hard truth about ransomware](https://doublepulsar.com/the-hard-truth-about-ransomware-we-arent-prepared-it-s-a-battle-with-new-rules-and-it-hasn-t-a93ad3030a54)
 
