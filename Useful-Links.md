@@ -15,6 +15,7 @@
 - [Always run windows terminal as administrator](https://pureinfotech.com/always-run-windows-terminal-administrator-windows-10/)
 - [Powershell documentation](https://docs.microsoft.com/en-us/powershell/)
 - [Powershell objects tutorial](https://adamtheautomator.com/powershell-objects/)
+- [Execution policies](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.1)
 
 #### Logging
 - [Linux Logging](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
