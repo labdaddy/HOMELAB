@@ -58,6 +58,8 @@
 - [How to homelab](https://www.dlford.io/tag/how-to-home-lab-series/)
 
 #### Pfsense Firewall
+- [Converting single NIC mini-pc into pfSense router/firewall](https://www.joe0.com/2019/11/16/converting-single-nic-mini-pc-into-pfsense-router-firewall-by-using-virtual-lan-configuration-on-a-managed-switch/)
+- [Converting Intel NUC Mini-PC into state-of-the-art router running pfSense in VirtualBox](https://www.joe0.com/2019/11/07/converting-intel-nuc-mini-pc-into-state-of-the-art-router-running-pfsense-in-oracle-virtualbox/)
 - [Config recipes](https://docs.netgate.com/pfsense/en/latest/recipes/openvpn-ra.html)
 - [Install Pfsense on ESXi](https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-esxi.html)
 - [Install Pfsense on Proxmox](https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-proxmox-ve.html)
