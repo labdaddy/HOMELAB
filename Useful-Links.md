@@ -26,6 +26,9 @@
 - [Devops with Docker](https://devopswithdocker.com/)
 
 #### Kubernetes
+- [K8s at home](https://docs.k8s-at-home.com/)
+- [Kubernetes home lab](https://github.com/PhilipSchmid/k8s-home-lab)
+- [Kubernetes at home](https://github.com/k8s-at-home/awesome-home-kubernetes)
 - [Devops with Kubernetes](https://devopswithkubernetes.com/part-0)
 - [Kubeacademy](https://kube.academy/courses)
 - [Kubernetes by example](https://www.kubernetesbyexample.com/en/)
