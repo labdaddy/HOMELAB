@@ -106,6 +106,8 @@
 - [Powercli license management-3](https://github.com/kunaludapi/Powercli/blob/master/License%20Information/Set-EsxiLicenses.ps1)
 
 #### VMWARE Performance
+- [How to put vCenter on a RAM diet](https://www.reddit.com/r/homelab/comments/7p9kby/how_to_put_vcenter_on_a_ram_diet/)
+- [How to Install VMware VCSA 6.7 with less than 10GB RAM](https://mulcas.com/how-to-install-vmware-vcsa-6-7-with-less-than-10gb-ram/)
 - [Performance best practices](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/techpaper/performance/vsphere-esxi-vcenter-server-67-performance-best-practices.pdf)
 - [Should you use hyperthreading?](https://virtualizationreview.com/articles/2016/12/08/should-you-use-hyperthreading-with-vmware.aspx)
 - [Maximizing performance](https://www.heroix.com/blog/vmware-vcpu-over-allocation/)
