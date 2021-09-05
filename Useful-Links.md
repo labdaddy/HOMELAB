@@ -98,6 +98,8 @@
 - [VMWARE Labs 4-VSphere Lab With Tanzu](https://williamlam.com/2020/11/complete-vsphere-with-tanzu-homelab-with-just-32gb-of-memory.html)
 
 #### VMWARE General Information
+- [VMWare Workstation 16 Documentation](https://docs.vmware.com/en/VMware-Workstation-Pro/index.html)
+- [Install VMWare Tools Manually on Linux Guest](https://docs.vmware.com/en/VMware-Workstation-Pro/16.0/com.vmware.ws.using.doc/GUID-08BB9465-D40A-4E16-9E15-8C016CC8166F.html)
 - [Vmware Workstation Pro vs Player](https://www.nakivo.com/blog/vmware-workstation-pro-vs-player/)
 - [Altaro VMWARE articles](https://www.altaro.com/vmware/)
 - [VMWARE administration and backups from Nakivo](https://www.nakivo.com/blog/category/vmware-administration/)
