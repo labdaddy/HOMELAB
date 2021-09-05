@@ -12,6 +12,7 @@
 - [Linux shell scripting](https://adamtheautomator.com/linux-shell-scripting-tutorial/)
 
 #### Windows and Powershell
+- [Powershell management cmdlets](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/?view=powershell-5.1)
 - [Always run windows terminal as administrator](https://pureinfotech.com/always-run-windows-terminal-administrator-windows-10/)
 - [Powershell documentation](https://docs.microsoft.com/en-us/powershell/)
 - [Powershell objects tutorial](https://adamtheautomator.com/powershell-objects/)
