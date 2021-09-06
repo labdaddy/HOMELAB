@@ -97,10 +97,18 @@
 - [VMWARE LANS 3-Nested ESXi Lab](https://www.virtualizationhowto.com/2020/09/nested-esxi-lab-build-networking-and-hardware/)
 - [VMWARE Labs 4-VSphere Lab With Tanzu](https://williamlam.com/2020/11/complete-vsphere-with-tanzu-homelab-with-just-32gb-of-memory.html)
 
-#### VMWARE General Information
-- [VMWare Workstation 16 Documentation](https://docs.vmware.com/en/VMware-Workstation-Pro/index.html)
+#### VMWare Tools
+- [Install VMWare tools](https://www.nakivo.com/blog/how-to-install-vmware-tools-on-guest-os-overview/)
 - [Install VMWare Tools Manually on Linux Guest](https://docs.vmware.com/en/VMware-Workstation-Pro/16.0/com.vmware.ws.using.doc/GUID-08BB9465-D40A-4E16-9E15-8C016CC8166F.html)
 - [Install Perl on Centos 7 (required for VMWare tools)](https://www.cyberithub.com/how-to-install-perl-on-centos-7-7/)
+- [Install VMWare tools on Centos 7](https://vbrainstorm.com/install-vmware-tools-on-centos-7/)
+- [Install VMWare tools on Centos 7 VIDEO](https://www.youtube.com/watch?v=mfPdnuyVMmk)
+- [Install VMWare tools on Centos 7 VIDEO](https://www.youtube.com/watch?v=WNqHdceOq6Q)
+- [Install VMWare tools](https://kb.vmware.com/s/article/1018392)
+- [Download VMWare tools](https://customerconnect.vmware.com/downloads/details?downloadGroup=VMTOOLS1032&productId=745)
+
+#### VMWARE General Information
+- [VMWare Workstation 16 Documentation](https://docs.vmware.com/en/VMware-Workstation-Pro/index.html)
 - [Vmware Workstation Pro vs Player](https://www.nakivo.com/blog/vmware-workstation-pro-vs-player/)
 - [Altaro VMWARE articles](https://www.altaro.com/vmware/)
 - [VMWARE administration and backups from Nakivo](https://www.nakivo.com/blog/category/vmware-administration/)
