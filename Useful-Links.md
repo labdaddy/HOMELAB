@@ -100,6 +100,7 @@
 #### VMWare Tools
 - [Install VMWare tools](https://www.nakivo.com/blog/how-to-install-vmware-tools-on-guest-os-overview/)
 - [Install VMWare Tools Manually on Linux Guest](https://docs.vmware.com/en/VMware-Workstation-Pro/16.0/com.vmware.ws.using.doc/GUID-08BB9465-D40A-4E16-9E15-8C016CC8166F.html)
+- [Install and upgrade VMWare tools on Linux VM's](https://help.skytap.com/installing-and-upgrading-vmware-tools-on-linux-vms.html)
 - [Install Perl on Centos 7 (required for VMWare tools)](https://www.cyberithub.com/how-to-install-perl-on-centos-7-7/)
 - [Install VMWare tools on Centos 7](https://vbrainstorm.com/install-vmware-tools-on-centos-7/)
 - [Install VMWare tools on Centos 7 VIDEO](https://www.youtube.com/watch?v=mfPdnuyVMmk)
