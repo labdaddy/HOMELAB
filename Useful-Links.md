@@ -18,9 +18,11 @@
 - [Powershell objects tutorial](https://adamtheautomator.com/powershell-objects/)
 - [Execution policies](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.1)
 
-#### Logging
+#### Monitoring && Logging
 - [Linux Logging](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
 - [Systemd/ Systemctl logging](https://www.loggly.com/ultimate-guide/using-systemctl/)
+- [Zabbix install and setup](https://psychogun.github.io/docs/linux/Installing-and-using-Zabbix/)
+- [ELK stack for Pfsense](https://psychogun.github.io/docs/linux/ELK-stack-on-Ubuntu-with-pfSense/)
 
 #### Docker
 - [Docker Handbook](https://docker-handbook.farhan.dev/)
@@ -73,7 +75,13 @@
 - [OpenVPN](https://www.ceos3c.com/pfsense/openvpn-on-pfsense/)
 - [Configure Quad 9](https://linuxincluded.com/configuring-quad9-on-pfsense/)
 - [Configure PfblockerNG-devel](https://linuxincluded.com/block-ads-malvertising-on-pfsense-using-pfblockerng-dnsbl/)
-- [Snort VS Suricata](https://resources.infosecinstitute.com/topic/open-source-ids-snort-suricata/)
+- [Suricata configuration 1](https://psychogun.github.io/docs/pfsense/Suricata-installation-and-configuration/)
+- [Suricata configuration 2](https://resources.infosecinstitute.com/topic/configure-use-suricata-threat-detection/)
+- [Snort VS Suricata 1](https://www.reddit.com/r/PFSENSE/comments/kb45rs/snort_vs_suricata_what_is_your_experience_with/)
+- [Snort VS Suricata 2](https://resources.infosecinstitute.com/topic/open-source-ids-snort-suricata/)
+- [ELK stack for Pfsense](https://psychogun.github.io/docs/linux/ELK-stack-on-Ubuntu-with-pfSense/)
+- [Some Pfsense tutorials](https://psychogun.github.io/docs/pfsense)
+- [Network UPS Tool (NUT)](https://psychogun.github.io/docs/pfsense/Network-UPS-Tools/)
 
 #### Sophos UTM Firewall
 - [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
