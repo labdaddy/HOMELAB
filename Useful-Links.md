@@ -73,6 +73,7 @@
 - [OpenVPN](https://www.ceos3c.com/pfsense/openvpn-on-pfsense/)
 - [Configure Quad 9](https://linuxincluded.com/configuring-quad9-on-pfsense/)
 - [Configure PfblockerNG-devel](https://linuxincluded.com/block-ads-malvertising-on-pfsense-using-pfblockerng-dnsbl/)
+- [Snort VS Suricata](https://resources.infosecinstitute.com/topic/open-source-ids-snort-suricata/)
 
 #### Sophos UTM Firewall
 - [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
