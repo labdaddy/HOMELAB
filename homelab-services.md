@@ -3,6 +3,8 @@
 ### Firewall
 - Adblocker: pfblockerng-devel
 - VPN: OpenVPN
+- VPN: Wireguard 
+- VPN: mistborn (for wireguard)
 - IPS/ IDS: Suricata
 - Monitoring suite: ELK stack (via security onion)
 - Monitoring suite: TIG stack (alternative)
