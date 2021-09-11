@@ -74,6 +74,8 @@
 - [Install Pfsense on Proxmox](https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-proxmox-ve.html)
 - [VPN's](https://docs.netgate.com/pfsense/en/latest/vpn/openvpn/index.html)
 - [OpenVPN](https://www.ceos3c.com/pfsense/openvpn-on-pfsense/)
+- [Configure OpenVPN](https://www.ceos3c.com/pfsense/openvpn-on-pfsense/)
+- [Configure OpenVPN (Lawrence Systems)](https://www.youtube.com/watch?v=PgielyUFGeQ)
 - [Configure Quad 9](https://linuxincluded.com/configuring-quad9-on-pfsense/)
 - [Configure PfblockerNG-devel](https://linuxincluded.com/block-ads-malvertising-on-pfsense-using-pfblockerng-dnsbl/)
 - [Suricata configuration 1](https://psychogun.github.io/docs/pfsense/Suricata-installation-and-configuration/)
