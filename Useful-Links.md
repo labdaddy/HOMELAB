@@ -122,6 +122,7 @@
 - [Download VMWare tools](https://customerconnect.vmware.com/downloads/details?downloadGroup=VMTOOLS1032&productId=745)
 
 #### VMWARE General Information
+- [VMWare Documentation How-to-use](https://blog.thenetworknerd.com/2019/09/30/welcome-to-the-vmware-documentation-tour/)
 - [VMWare Workstation 16 Documentation](https://docs.vmware.com/en/VMware-Workstation-Pro/index.html)
 - [Vmware Workstation Pro vs Player](https://www.nakivo.com/blog/vmware-workstation-pro-vs-player/)
 - [Altaro VMWARE articles](https://www.altaro.com/vmware/)
