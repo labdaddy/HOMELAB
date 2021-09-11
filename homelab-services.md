@@ -18,11 +18,11 @@
 - VPC + much more: [mistborn](https://gitlab.com/cyber5k/mistborn)
 
 ### General 
-- Redundant storage: ZFS/ TrueNAS core
+- Storage: ZFS/ [TrueNAS core](https://www.truenas.com/docs/)
 - Certificate manager: smallstep/ acme
-- File sync: syncthing
-- Photo registry: photoprism
+- File sync: [syncthing](https://syncthing.net/)
+- Photo registry: [photoprism](https://photoprism.app/)
 - ISO registry
 - Docker registry
-- log storage
-- APC monitor: APCUPSD
+- log storage 
+- APC monitor: [APCUPSD](http://www.apcupsd.org/manual/manual.html)
