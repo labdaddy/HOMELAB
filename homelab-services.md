@@ -16,6 +16,7 @@
 - host probe & discovery: [arping](https://docs.netgate.com/pfsense/en/latest/packages/arping.html)
 - Dynamic DNS service: [duckDNS](https://www.duckdns.org/)
 - VPC + much more: [mistborn](https://gitlab.com/cyber5k/mistborn)
+- Private VPN: [pfsense in the cloud](
 
 ### General 
 - Storage: ZFS/ [TrueNAS core](https://www.truenas.com/docs/)
