@@ -5,6 +5,8 @@
 - Adblocker: [pfblockerng-devel](https://docs.netgate.com/pfsense/en/latest/packages/pfblocker.html)
 - VPN: [OpenVPN](https://docs.netgate.com/pfsense/en/latest/recipes/openvpn-ra.html)
 - VPN: OpenVPN, [Lawrence Systems Video](https://www.youtube.com/watch?v=PgielyUFGeQ)
+- [Setup OpenVPN](https://www.ceos3c.com/pfsense/openvpn-on-pfsense/)
+- [Setup OpenVPN2](https://www.sparklabs.com/)support/kb/article/setting-up-an-openvpn-server-with-pfsense-and-viscosity/
 - VPN: [mistborn (for wireguard)](https://gitlab.com/cyber5k/mistborn)
 - IPS/ IDS: Suricata
 - Monitoring suite: ELK stack (via security onion)
