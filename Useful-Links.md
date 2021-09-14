@@ -69,6 +69,7 @@
 #### Pfsense Firewall
 - [Converting single NIC mini-pc into pfSense router/firewall](https://www.joe0.com/2019/11/16/converting-single-nic-mini-pc-into-pfsense-router-firewall-by-using-virtual-lan-configuration-on-a-managed-switch/)
 - [Converting Intel NUC Mini-PC into state-of-the-art router running pfSense in VirtualBox](https://www.joe0.com/2019/11/07/converting-intel-nuc-mini-pc-into-state-of-the-art-router-running-pfsense-in-oracle-virtualbox/)
+- [Virtualize Pfsense on Esxi](https://glmdev.medium.com/how-to-set-up-virtualized-pfsense-on-vmware-esxi-6-x-2c2861b25931)
 - [Config recipes](https://docs.netgate.com/pfsense/en/latest/recipes/openvpn-ra.html)
 - [Install Pfsense on ESXi](https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-esxi.html)
 - [Install Pfsense on Proxmox](https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-proxmox-ve.html)
@@ -109,6 +110,7 @@
 - [VMWARE LABS 2-Microsft NSX-T Lab](https://blogs.vmware.com/customer-experience-and-success/files/2019/02/Nest-Lab-Tech-Doc-2.6.pdf)
 - [VMWARE LANS 3-Nested ESXi Lab](https://www.virtualizationhowto.com/2020/09/nested-esxi-lab-build-networking-and-hardware/)
 - [VMWARE Labs 4-VSphere Lab With Tanzu](https://williamlam.com/2020/11/complete-vsphere-with-tanzu-homelab-with-just-32gb-of-memory.html)
+- [Virtualize Pfsense on Esxi](https://glmdev.medium.com/how-to-set-up-virtualized-pfsense-on-vmware-esxi-6-x-2c2861b25931)
 
 #### VMWare Tools
 - [Install VMWare tools](https://www.nakivo.com/blog/how-to-install-vmware-tools-on-guest-os-overview/)
