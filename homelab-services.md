@@ -6,16 +6,13 @@
 - VPN: [OpenVPN](https://docs.netgate.com/pfsense/en/latest/recipes/openvpn-ra.html)
 - VPN: OpenVPN, [Lawrence Systems Video](https://www.youtube.com/watch?v=PgielyUFGeQ)
 - IPS/ IDS: [Suricata](https://suricata.readthedocs.io/en/suricata-6.0.3/)
-- Monitoring suite: ELK stack (via security onion)
-- Monitoring suite: TIG stack (alternative)
+- Monitoring suite: unknown
 - Forward proxy: [squid](https://docs.netgate.com/pfsense/en/latest/recipes/http-client-proxy.html)
 - Reverse proxy: [nginx](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/)
-- Reverse proxy: [traefik](https://traefik.io/traefik/)
-- ARP measuring tool: [arpwatch](https://en.wikipedia.org/wiki/Arpwatch)
+- ARP monitoring tool: [arpwatch](https://en.wikipedia.org/wiki/Arpwatch)
 - host probe & discovery: [arping](https://docs.netgate.com/pfsense/en/latest/packages/arping.html)
 - Dynamic DNS service: [duckDNS](https://www.duckdns.org/)
 - VPC + much more: [mistborn](https://gitlab.com/cyber5k/mistborn)
-- Private VPN: [pfsense in the cloud](
 
 ### General 
 - Storage: ZFS/ [TrueNAS core](https://www.truenas.com/docs/)
