@@ -1,6 +1,7 @@
 ### Some Useful Links - Sorted by Type
 
 #### General Learning Links
+- [Iximiuz, many articles](https://iximiuz.com/en/)
 - [Katacoda](https://www.katacoda.com/)
 - [Adam the automator](https://adamtheautomator.com/)
 - [Austin's Nerdy Things](https://austinsnerdythings.com/category/homelab/)
