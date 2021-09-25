@@ -105,6 +105,14 @@
 - [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)
 - [Network calculators](https://www.subnetmask.info/)
 
+#### Proxmox
+- [Proxmox Youtube Playlist](https://www.youtube.com/watch?v=df3BbdSyQx0&list=PL4i6XWPjbaYn1lPDYNjf-J4Cy_zEd2tOz)
+- [Delete VM's in Proxmox](https://bobcares.com/blog/proxmox-delete-virtual-machine/)
+- [Proxmox Networking 1](https://www.flomain.de/2015/05/how-to-proxmox-networking/)
+- [Linux Bridge vs OpenVSwitch](https://ioflood.com/blog/2021/07/08/linux-bridge-vs-openvswitch-how-to-improve-virtualization-network-performance/)
+- [Proxmox Networking 2 STH](https://www.servethehome.com/how-to-change-primary-proxmox-ve-ip-address/)
+- [Sophos on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
+
 #### VMWARE Labs and Learning
 - [VMWARE Hands On Labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)
 - [VMWARE LABS 1-Nakivo Nested Lab](https://www.nakivo.com/blog/building-vmware-home-lab-complete/)
