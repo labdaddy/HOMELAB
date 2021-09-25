@@ -59,6 +59,8 @@
 - [Why 3-2-1 Backup Sucks](https://www.unitrends.com/blog/3-2-1-backup-sucks)
 - [Difference between NFS and iSCSI](https://www.usenix.org/legacy/publications/library/proceedings/fast04/tech/full_papers/radkov/radkov_html/node5.html)
 - [Difference between NVME and M.2](https://www.velocitymicro.com/blog/nvme-vs-m-2-vs-sata-whats-the-difference/)
+- [HP Microserver CPU Info](https://n40l.fandom.com/wiki/Cpu_gen8)
+- [HP Microserver Links and General Info](https://homeservershow.com/forums/topic/5639-proliant-microserver-gen8-links/?/topic/5639-proliant-microserver-gen8-links/?p=62204)
 
 #### Homelabs and Servers and Such
 - [Intel CPU/ Socket Compendium (from JDM_WAAAT)](https://docs.google.com/spreadsheets/d/1LqQvwXoqhcft6dpMGgIF21XhqijBACOe9nU8cVK6Llk/htmlview)
