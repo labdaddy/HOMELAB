@@ -1,10 +1,11 @@
 ### Some Useful Links - Sorted by Type
 
-#### General Learning Links
+#### General Knowledge Links
 - [Iximiuz, many articles](https://iximiuz.com/en/)
 - [Katacoda](https://www.katacoda.com/)
 - [Adam the automator](https://adamtheautomator.com/)
 - [Austin's Nerdy Things](https://austinsnerdythings.com/category/homelab/)
+- [Web Browser Precesses and Threads](https://levelup.gitconnected.com/how-web-browsers-use-processes-and-threads-9f8f8fa23371)
 
 #### Linux
 - [Linuxize Setups Series](https://linuxize.com/series/)
@@ -19,6 +20,7 @@
 - [Powershell objects tutorial](https://adamtheautomator.com/powershell-objects/)
 - [About execution policies](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.1)
 - [Set-ExecutionPolicy](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.1)
+- [Learn X in Y minutes: Powershell](https://learnxinyminutes.com/docs/zfs/)
 
 #### Monitoring && Logging
 - [Linux Logging](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
@@ -45,7 +47,7 @@
 - [Kubernetes the hard way - Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [Kubernetes the hard way, Virtualbox edition](https://github.com/sgargel/kubernetes-the-hard-way-virtualbox)
 
-#### Servers and Storage
+#### Storage
 - [ZFS 101](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/)
 - [ZFS search results on dannyda.com](https://dannyda.com/?s=Zfs)
 - [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
@@ -59,8 +61,7 @@
 - [Why 3-2-1 Backup Sucks](https://www.unitrends.com/blog/3-2-1-backup-sucks)
 - [Difference between NFS and iSCSI](https://www.usenix.org/legacy/publications/library/proceedings/fast04/tech/full_papers/radkov/radkov_html/node5.html)
 - [Difference between NVME and M.2](https://www.velocitymicro.com/blog/nvme-vs-m-2-vs-sata-whats-the-difference/)
-- [HP Microserver CPU Info](https://n40l.fandom.com/wiki/Cpu_gen8)
-- [HP Microserver Links and General Info](https://homeservershow.com/forums/topic/5639-proliant-microserver-gen8-links/?/topic/5639-proliant-microserver-gen8-links/?p=62204)
+
 
 #### Homelabs and Servers and Such
 - [Intel CPU/ Socket Compendium (from JDM_WAAAT)](https://docs.google.com/spreadsheets/d/1LqQvwXoqhcft6dpMGgIF21XhqijBACOe9nU8cVK6Llk/htmlview)
@@ -68,6 +69,8 @@
 - [Linuxbuff RedHad Labs](https://linuxbuff.wordpress.com/tag/homelab/)
 - [Lisenet-Homelab with Foreman and Katello](https://www.lisenet.com/2018/homelab-project-with-kvm-katello-and-puppet/)
 - [How to homelab](https://www.dlford.io/tag/how-to-home-lab-series/)
+- [HP Microserver CPU Info](https://n40l.fandom.com/wiki/Cpu_gen8)
+- [HP Microserver Links and General Info](https://homeservershow.com/forums/topic/5639-proliant-microserver-gen8-links/?/topic/5639-proliant-microserver-gen8-links/?p=62204)
 
 #### Pfsense Firewall
 - [Converting single NIC mini-pc into pfSense router/firewall](https://www.joe0.com/2019/11/16/converting-single-nic-mini-pc-into-pfsense-router-firewall-by-using-virtual-lan-configuration-on-a-managed-switch/)
