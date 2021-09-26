@@ -12,6 +12,12 @@
 - [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
 - [Configure ZFS on Ubuntu](https://linuxconfig.org/configuring-zfs-on-ubuntu-20-04)
 - [Linux shell scripting](https://adamtheautomator.com/linux-shell-scripting-tutorial/)
+- [Ubuntu Server Docs](https://ubuntu.com/server/docs)
+- [Basic Shell Scripting](https://medium.com/nerd-for-tech/shell-scripting-e95af96aed1b)
+- [RHEL 8, recover root password](https://linuxconfig.org/redhat-8-recover-root-password)
+- [RHEL 8 general stuff](https://faun.pub/red-hat-enterprise-linux-8-rhcsa-636bffd1f1db)
+- [RHEL 8 LVM partitioning with Python](https://gursimar27.medium.com/automating-lvm-partition-using-python-script-b1ce3e55a031)
+- [RHEL 8 partitioning](https://gursimar27.medium.com/increase-or-decrease-the-size-of-static-partition-in-linux-c5f615b2bf04)
 
 #### Windows and Powershell
 - [Powershell management cmdlets](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/?view=powershell-5.1)
@@ -98,6 +104,7 @@
 - [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
 
 #### General Security Stuff
+- [How the best hackers learn their craft-video](https://www.youtube.com/watch?v=6vj96QetfTg)
 - [Secure Password Generator](https://passwordsgenerator.net/)
 - [StrongDM.com](https://www.strongdm.com/blog)
 - [The hard truth about ransomware](https://doublepulsar.com/the-hard-truth-about-ransomware-we-arent-prepared-it-s-a-battle-with-new-rules-and-it-hasn-t-a93ad3030a54)
