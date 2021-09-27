@@ -19,21 +19,6 @@
 - [RHEL 8 LVM partitioning with Python](https://gursimar27.medium.com/automating-lvm-partition-using-python-script-b1ce3e55a031)
 - [RHEL 8 partitioning](https://gursimar27.medium.com/increase-or-decrease-the-size-of-static-partition-in-linux-c5f615b2bf04)
 
-#### Windows and Powershell
-- [Powershell management cmdlets](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/?view=powershell-5.1)
-- [Always run windows terminal as administrator](https://pureinfotech.com/always-run-windows-terminal-administrator-windows-10/)
-- [Powershell documentation](https://docs.microsoft.com/en-us/powershell/)
-- [Powershell objects tutorial](https://adamtheautomator.com/powershell-objects/)
-- [About execution policies](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.1)
-- [Set-ExecutionPolicy](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.1)
-- [Learn X in Y minutes: Powershell](https://learnxinyminutes.com/docs/zfs/)
-
-#### Monitoring && Logging
-- [Linux Logging](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
-- [Systemd/ Systemctl logging](https://www.loggly.com/ultimate-guide/using-systemctl/)
-- [Zabbix install and setup](https://psychogun.github.io/docs/linux/Installing-and-using-Zabbix/)
-- [ELK stack for Pfsense](https://psychogun.github.io/docs/linux/ELK-stack-on-Ubuntu-with-pfSense/)
-
 #### Docker
 - [Docker Official Docs](https://docs.docker.com/)
 - [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
@@ -53,6 +38,21 @@
 - [Tools to learn Kubernetes at home](https://www.redhat.com/sysadmin/start-learning-kubernetes)
 - [Kubernetes the hard way - Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [Kubernetes the hard way, Virtualbox edition](https://github.com/sgargel/kubernetes-the-hard-way-virtualbox)
+
+#### Windows and Powershell
+- [Powershell management cmdlets](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/?view=powershell-5.1)
+- [Always run windows terminal as administrator](https://pureinfotech.com/always-run-windows-terminal-administrator-windows-10/)
+- [Powershell documentation](https://docs.microsoft.com/en-us/powershell/)
+- [Powershell objects tutorial](https://adamtheautomator.com/powershell-objects/)
+- [About execution policies](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.1)
+- [Set-ExecutionPolicy](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.1)
+- [Learn X in Y minutes: Powershell](https://learnxinyminutes.com/docs/zfs/)
+
+#### Monitoring && Logging
+- [Linux Logging](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
+- [Systemd/ Systemctl logging](https://www.loggly.com/ultimate-guide/using-systemctl/)
+- [Zabbix install and setup](https://psychogun.github.io/docs/linux/Installing-and-using-Zabbix/)
+- [ELK stack for Pfsense](https://psychogun.github.io/docs/linux/ELK-stack-on-Ubuntu-with-pfSense/)
 
 #### Storage
 - [ZFS 101](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/)
