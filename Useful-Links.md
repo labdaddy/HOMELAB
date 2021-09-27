@@ -100,6 +100,7 @@
 - [ELK stack for Pfsense](https://psychogun.github.io/docs/linux/ELK-stack-on-Ubuntu-with-pfSense/)
 - [Some Pfsense tutorials](https://psychogun.github.io/docs/pfsense)
 - [Network UPS Tool (NUT)](https://psychogun.github.io/docs/pfsense/Network-UPS-Tools/)
+- [Pfsense backup options-1](https://opensourcelibs.com/lib/breadspfsenseautobackup)
 
 #### Sophos UTM Firewall
 - [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
