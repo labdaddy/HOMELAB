@@ -145,7 +145,6 @@
 - [VMWare VCP Study Guide and Tutorial](https://www.vladan.fr/vcp6-7-dcv/)
 - [VMWare at Geek University](https://geek-university.com/vmware-esxi/vmware-vsphere-components/)
 - [Install VCSA in ESXi 6.7](https://www.wintips.org/how-to-install-vcenter-server-appliance-in-vmware-vsphere-hypervisor-esxi-6-7/)
-- [VCSA with reduced memory](https://mulcas.com/how-to-install-vmware-vcsa-6-7-with-less-than-10gb-ram/)
 - [VMWare hardware requirements for VCSA](https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vcenter.install.doc/GUID-D2121DC5-1FC8-48DC-A4BA-C3FD72D0BE77.html)
 
 #### VMWare Tools
@@ -179,6 +178,7 @@
 - [Powercli license management-3](https://github.com/kunaludapi/Powercli/blob/master/License%20Information/Set-EsxiLicenses.ps1)
 
 #### VMWARE Performance
+- [VCSA with reduced memory](https://mulcas.com/how-to-install-vmware-vcsa-6-7-with-less-than-10gb-ram/)
 - [How to put vCenter on a RAM diet](https://www.reddit.com/r/homelab/comments/7p9kby/how_to_put_vcenter_on_a_ram_diet/)
 - [How to Install VMware VCSA 6.7 with less than 10GB RAM](https://mulcas.com/how-to-install-vmware-vcsa-6-7-with-less-than-10gb-ram/)
 - [Performance best practices](https://www.vmware.com/content/dam/digitalmarketing/vmware/en/pdf/techpaper/performance/vsphere-esxi-vcenter-server-67-performance-best-practices.pdf)
