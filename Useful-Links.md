@@ -1,6 +1,7 @@
 ### Some Useful Links - Sorted by Type
 
 #### General Knowledge Links
+- [Ops School Curricilum](https://www.opsschool.org/sysadmin_101.html)
 - [Situational behavior impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/)
 - [Iximiuz, many articles](https://iximiuz.com/en/)
 - [Katacoda](https://www.katacoda.com/)
@@ -140,7 +141,15 @@
 - [VMWARE Labs 4-VSphere Lab With Tanzu](https://williamlam.com/2020/11/complete-vsphere-with-tanzu-homelab-with-just-32gb-of-memory.html)
 - [Virtualize Pfsense on Esxi](https://glmdev.medium.com/how-to-set-up-virtualized-pfsense-on-vmware-esxi-6-x-2c2861b25931)
 
+#### VMWare Training
+- [VMWare VCP Study Guide and Tutorial](https://www.vladan.fr/vcp6-7-dcv/)
+- [VMWare at Geek University](https://geek-university.com/vmware-esxi/vmware-vsphere-components/)
+- [Install VCSA in ESXi 6.7](https://www.wintips.org/how-to-install-vcenter-server-appliance-in-vmware-vsphere-hypervisor-esxi-6-7/)
+- [VCSA with reduced memory](https://mulcas.com/how-to-install-vmware-vcsa-6-7-with-less-than-10gb-ram/)
+- [VMWare hardware requirements for VCSA](https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vcenter.install.doc/GUID-D2121DC5-1FC8-48DC-A4BA-C3FD72D0BE77.html)
+
 #### VMWare Tools
+- [Install VMWare tools on Linux VM](https://kb.vmware.com/s/article/1018392)
 - [Install VMWare tools](https://www.nakivo.com/blog/how-to-install-vmware-tools-on-guest-os-overview/)
 - [Install VMWare Tools Manually on Linux Guest](https://docs.vmware.com/en/VMware-Workstation-Pro/16.0/com.vmware.ws.using.doc/GUID-08BB9465-D40A-4E16-9E15-8C016CC8166F.html)
 - [Install and upgrade VMWare tools on Linux VM's](https://help.skytap.com/installing-and-upgrading-vmware-tools-on-linux-vms.html)
