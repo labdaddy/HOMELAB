@@ -9,6 +9,7 @@
 - [Web Browser Precesses and Threads](https://levelup.gitconnected.com/how-web-browsers-use-processes-and-threads-9f8f8fa23371)
 
 #### Linux
+- [Ubuntu in Termux](https://github.com/MFDGaming/ubuntu-in-termux)
 - [Linuxize Setups Series](https://linuxize.com/series/)
 - [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
 - [Configure ZFS on Ubuntu](https://linuxconfig.org/configuring-zfs-on-ubuntu-20-04)
@@ -19,6 +20,9 @@
 - [RHEL 8 general stuff](https://faun.pub/red-hat-enterprise-linux-8-rhcsa-636bffd1f1db)
 - [RHEL 8 LVM partitioning with Python](https://gursimar27.medium.com/automating-lvm-partition-using-python-script-b1ce3e55a031)
 - [RHEL 8 partitioning](https://gursimar27.medium.com/increase-or-decrease-the-size-of-static-partition-in-linux-c5f615b2bf04)
+- [Rocky Linux SysAdmin Guide](https://docs.rockylinux.org/books/admin_guide/00-toc/)
+- [Rocky Linux-Server World Docs](https://www.server-world.info/en/note?os=Rocky_Linux_8&p=install)
+- [Rocky Linux Container](https://www.techrepublic.com/article/how-to-use-rocky-linux-as-a-docker-container-image/)
 
 #### Docker
 - [Docker Official Docs](https://docs.docker.com/)
