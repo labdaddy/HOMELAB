@@ -1,7 +1,6 @@
 ### Some Useful Links - Sorted by Type
 
 #### General Knowledge Links
-- [Ops School Curricilum](https://www.opsschool.org/sysadmin_101.html)
 - [Situational behavior impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/)
 - [Iximiuz, many articles](https://iximiuz.com/en/)
 - [Katacoda](https://www.katacoda.com/)
