@@ -10,6 +10,7 @@
 - [Web Browser Precesses and Threads](https://levelup.gitconnected.com/how-web-browsers-use-processes-and-threads-9f8f8fa23371)
 
 #### Linux
+- [Linux tldr pages, man pages simplified](https://tldr.sh/)
 - [Ubuntu in Termux](https://github.com/MFDGaming/ubuntu-in-termux)
 - [Linuxize Setups Series](https://linuxize.com/series/)
 - [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
