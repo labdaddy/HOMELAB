@@ -50,6 +50,10 @@
 - [Kubernetes the hard way - Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [Kubernetes the hard way, Virtualbox edition](https://github.com/sgargel/kubernetes-the-hard-way-virtualbox)
 
+#### DevOps
+- [Devops project ideas](https://www.tutorialworks.com/devops-project-ideas/)
+- [DevOps Roadmap](https://roadmap.sh/devops)
+
 #### Windows and Powershell
 - [Powershell management cmdlets](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/?view=powershell-5.1)
 - [Always run windows terminal as administrator](https://pureinfotech.com/always-run-windows-terminal-administrator-windows-10/)
