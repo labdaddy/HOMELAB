@@ -1,6 +1,7 @@
 ### Some Useful Links - Sorted by Type
 
 #### General Knowledge Links
+- [Ops School](https://www.opsschool.org/)
 - [Situational behavior impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/)
 - [Iximiuz, many articles](https://iximiuz.com/en/)
 - [Katacoda](https://www.katacoda.com/)
@@ -9,6 +10,8 @@
 - [Web Browser Precesses and Threads](https://levelup.gitconnected.com/how-web-browsers-use-processes-and-threads-9f8f8fa23371)
 
 #### Linux
+- [Rocky Linux SysAdmin Guide (official)](https://docs.rockylinux.org/books/admin_guide/00-toc/)
+- [Rocky Linux SysAdmin Guide (UNofficial)](https://www.server-world.info/en/note?os=CentOS_Stream_8&p=download)
 - [Linux tldr pages, man pages simplified](https://tldr.sh/)
 - [Ubuntu in Termux](https://github.com/MFDGaming/ubuntu-in-termux)
 - [Linuxize Setups Series](https://linuxize.com/series/)
@@ -24,11 +27,13 @@
 - [Rocky Linux SysAdmin Guide](https://docs.rockylinux.org/books/admin_guide/00-toc/)
 - [Rocky Linux-Server World Docs](https://www.server-world.info/en/note?os=Rocky_Linux_8&p=install)
 - [Rocky Linux Container](https://www.techrepublic.com/article/how-to-use-rocky-linux-as-a-docker-container-image/)
+- [Linux run out of inodes](https://www.ctrl.blog/entry/how-to-all-out-of-inodes.html)
 
 #### Docker
 - [Docker Official Docs](https://docs.docker.com/)
 - [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
 - [Devops with Docker](https://devopswithdocker.com/)
+- [Docker, OMV, Portainer, Letsencrypt](https://site.gothtech.co.uk/articles/omv-portainer-traefik-letsencrypt#h.cwxa2osrd843)
 
 #### Kubernetes
 - [K8s at home](https://docs.k8s-at-home.com/)
@@ -112,6 +117,10 @@
 - [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
 
 #### General Security Stuff
+- [US-Cert.CISA Alerts](https://us-cert.cisa.gov/ncas/alerts)
+- [US-Cert.CISA Activity](https://us-cert.cisa.gov/ncas/current-activity)
+- [US-Cert.CISA Tips](https://us-cert.cisa.gov/ncas/tips)
+- [US-Cert.CISA Resources](https://us-cert.cisa.gov/resources)
 - [How the best hackers learn their craft-video](https://www.youtube.com/watch?v=6vj96QetfTg)
 - [Secure Password Generator](https://passwordsgenerator.net/)
 - [StrongDM.com](https://www.strongdm.com/blog)
