@@ -139,7 +139,10 @@
 - [Network calculators](https://www.subnetmask.info/)
 
 #### Proxmox
-- [Proxmox Youtube Playlist](https://www.youtube.com/watch?v=df3BbdSyQx0&list=PL4i6XWPjbaYn1lPDYNjf-J4Cy_zEd2tOz)
+- [Proxmox playlist-learnlinuxtv](https://www.youtube.com/watch?v=LCjuiIswXGs&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
+- [Proxmox playlist-Practical IT](https://www.youtube.com/watch?v=Myl6nvPP9go&list=PLRR0y1Ha_dRc9CU7lRGP-0ayXaP-sVaIU)
+- [Proxmox playlist-Virtualize Everything](https://www.youtube.com/watch?v=df3BbdSyQx0&list=PL4i6XWPjbaYn1lPDYNjf-J4Cy_zEd2tOz)
+- [proxmox playlist-sportage12, includes ZFS](https://www.youtube.com/watch?v=wiK2pvOJCDE&list=PLQDoczDTdh1eRn5dI9I-SzbZTRBs0wTFh)
 - [Delete VM's in Proxmox](https://bobcares.com/blog/proxmox-delete-virtual-machine/)
 - [Proxmox Networking 1](https://www.flomain.de/2015/05/how-to-proxmox-networking/)
 - [Linux Bridge vs OpenVSwitch](https://ioflood.com/blog/2021/07/08/linux-bridge-vs-openvswitch-how-to-improve-virtualization-network-performance/)
