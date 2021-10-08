@@ -166,6 +166,7 @@
 
 #### VMWare Tools
 - [ACTUALLY install VMWare tools on Centos 8](https://www.youtube.com/watch?v=m1vU1wt3H3g)
+- [Install VMWare tools on different OS's](https://www.nakivo.com/blog/how-to-install-vmware-tools-on-guest-os-overview/)
 - [Install VMWare tools on Linux VM](https://kb.vmware.com/s/article/1018392)
 - [Install VMWare tools](https://www.nakivo.com/blog/how-to-install-vmware-tools-on-guest-os-overview/)
 - [Install VMWare Tools Manually on Linux Guest](https://docs.vmware.com/en/VMware-Workstation-Pro/16.0/com.vmware.ws.using.doc/GUID-08BB9465-D40A-4E16-9E15-8C016CC8166F.html)
