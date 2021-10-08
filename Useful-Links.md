@@ -9,10 +9,11 @@
 - [Adam the automator](https://adamtheautomator.com/)
 - [Austin's Nerdy Things](https://austinsnerdythings.com/category/homelab/)
 - [Web Browser Precesses and Threads](https://levelup.gitconnected.com/how-web-browsers-use-processes-and-threads-9f8f8fa23371)
+- [PhoenixNap KB](https://phoenixnap.com/kb/)
 
 #### Linux
 - [Rocky Linux SysAdmin Guide (official)](https://docs.rockylinux.org/books/admin_guide/00-toc/)
-- [Rocky Linux SysAdmin Guide (UNofficial)](https://www.server-world.info/en/note?os=CentOS_Stream_8&p=download)
+- [Rocky Linux SysAdmin Guide (UN-official)](https://www.server-world.info/en/note?os=CentOS_Stream_8&p=download)
 - [Linux tldr pages, man pages simplified](https://tldr.sh/)
 - [Ubuntu in Termux](https://github.com/MFDGaming/ubuntu-in-termux)
 - [Linuxize Setups Series](https://linuxize.com/series/)
@@ -98,6 +99,8 @@
 #### Pfsense Firewall
 - [Converting single NIC mini-pc into pfSense router/firewall](https://www.joe0.com/2019/11/16/converting-single-nic-mini-pc-into-pfsense-router-firewall-by-using-virtual-lan-configuration-on-a-managed-switch/)
 - [Converting Intel NUC Mini-PC into state-of-the-art router running pfSense in VirtualBox](https://www.joe0.com/2019/11/07/converting-intel-nuc-mini-pc-into-state-of-the-art-router-running-pfsense-in-oracle-virtualbox/)
+- [Pfsense high availability docs](https://docs.netgate.com/pfsense/en/latest/highavailability/index.html)
+- [Pfsense high availability recipe](https://docs.netgate.com/pfsense/en/latest/recipes/high-availability.html)
 - [Virtualize Pfsense on Esxi](https://glmdev.medium.com/how-to-set-up-virtualized-pfsense-on-vmware-esxi-6-x-2c2861b25931)
 - [Config recipes](https://docs.netgate.com/pfsense/en/latest/recipes/openvpn-ra.html)
 - [Install Pfsense on ESXi](https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-esxi.html)
@@ -122,6 +125,7 @@
 - [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
 
 #### General Security Stuff
+- [Hoppers Roppers](https://www.hoppersroppers.org/training.html)
 - [US-Cert.CISA Alerts](https://us-cert.cisa.gov/ncas/alerts)
 - [US-Cert.CISA Activity](https://us-cert.cisa.gov/ncas/current-activity)
 - [US-Cert.CISA Tips](https://us-cert.cisa.gov/ncas/tips)
@@ -130,6 +134,7 @@
 - [Secure Password Generator](https://passwordsgenerator.net/)
 - [StrongDM.com](https://www.strongdm.com/blog)
 - [The hard truth about ransomware](https://doublepulsar.com/the-hard-truth-about-ransomware-we-arent-prepared-it-s-a-battle-with-new-rules-and-it-hasn-t-a93ad3030a54)
+- [Intel techniques website](https://inteltechniques.com/)
 
 #### Networking
 - [Computer Networking a Top Down Approach](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
