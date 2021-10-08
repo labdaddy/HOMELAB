@@ -1,7 +1,7 @@
 ### Some Useful Links - Sorted by Type
 
 #### General Knowledge Links
-- [Learn to cloud](https://learntocloud.guide/)
+- [GPS: Learn to cloud!!!](https://learntocloud.guide/)
 - [Ops School](https://www.opsschool.org/)
 - [Situational behavior impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/)
 - [Iximiuz, many articles](https://iximiuz.com/en/)
