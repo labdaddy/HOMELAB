@@ -127,6 +127,7 @@
 
 #### General Security Stuff
 - [Hoppers Roppers](https://www.hoppersroppers.org/training.html)
+- [Amazing InfoSec Homelab Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building_A_Lab.md#general)
 - [US-Cert.CISA Alerts](https://us-cert.cisa.gov/ncas/alerts)
 - [US-Cert.CISA Activity](https://us-cert.cisa.gov/ncas/current-activity)
 - [US-Cert.CISA Tips](https://us-cert.cisa.gov/ncas/tips)
