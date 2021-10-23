@@ -139,7 +139,6 @@
 - [The hard truth about ransomware](https://doublepulsar.com/the-hard-truth-about-ransomware-we-arent-prepared-it-s-a-battle-with-new-rules-and-it-hasn-t-a93ad3030a54)
 - [Intel techniques website](https://inteltechniques.com/)
 - [Tor plus VPN](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN)
-- [
 
 #### Networking
 - [Computer Networking a Top Down Approach](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
