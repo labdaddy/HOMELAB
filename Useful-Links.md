@@ -26,8 +26,6 @@
 - [RHEL 8 general stuff](https://faun.pub/red-hat-enterprise-linux-8-rhcsa-636bffd1f1db)
 - [RHEL 8 LVM partitioning with Python](https://gursimar27.medium.com/automating-lvm-partition-using-python-script-b1ce3e55a031)
 - [RHEL 8 partitioning](https://gursimar27.medium.com/increase-or-decrease-the-size-of-static-partition-in-linux-c5f615b2bf04)
-- [Rocky Linux SysAdmin Guide](https://docs.rockylinux.org/books/admin_guide/00-toc/)
-- [Rocky Linux-Server World Docs](https://www.server-world.info/en/note?os=Rocky_Linux_8&p=install)
 - [Rocky Linux Container](https://www.techrepublic.com/article/how-to-use-rocky-linux-as-a-docker-container-image/)
 - [Linux run out of inodes](https://www.ctrl.blog/entry/how-to-all-out-of-inodes.html)
 
@@ -124,10 +122,13 @@
 
 #### Sophos UTM Firewall
 - [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
+- [Sophos XG How To Library (official)](https://www.sophos.com/en-us/support/products/xg-firewall/how-to-library.aspx#NetworkConfiguration)
 
 #### General Security Stuff
-- [Hoppers Roppers](https://www.hoppersroppers.org/training.html)
+- [Hoppers Roppers !!!](https://www.hoppersroppers.org/training.html)
 - [Amazing InfoSec Homelab Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building_A_Lab.md#general)
+- [More InfoSec Resources](https://github.com/rmusser01/Infosec_Reference)
+- [SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 - [US-Cert.CISA Alerts](https://us-cert.cisa.gov/ncas/alerts)
 - [US-Cert.CISA Activity](https://us-cert.cisa.gov/ncas/current-activity)
 - [US-Cert.CISA Tips](https://us-cert.cisa.gov/ncas/tips)
@@ -137,6 +138,8 @@
 - [StrongDM.com](https://www.strongdm.com/blog)
 - [The hard truth about ransomware](https://doublepulsar.com/the-hard-truth-about-ransomware-we-arent-prepared-it-s-a-battle-with-new-rules-and-it-hasn-t-a93ad3030a54)
 - [Intel techniques website](https://inteltechniques.com/)
+- [Tor plus VPN](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN)
+- [
 
 #### Networking
 - [Computer Networking a Top Down Approach](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
@@ -145,6 +148,7 @@
 - [GNU Linux-Networking](https://gnulinux.guru/?Networking)
 - [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)
 - [Network calculators](https://www.subnetmask.info/)
+- [HAProxy Docs](https://www.haproxy.org/#docs)
 
 #### Proxmox
 - [Proxmox playlist-learnlinuxtv](https://www.youtube.com/watch?v=LCjuiIswXGs&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
@@ -186,6 +190,7 @@
 - [Download VMWare tools](https://customerconnect.vmware.com/downloads/details?downloadGroup=VMTOOLS1032&productId=745)
 
 #### VMWARE General Information
+- [ESXi image customizer](https://github.com/VFrontDe/ESXi-Customizer-PS)
 - [Clone a VM-video](https://www.youtube.com/watch?v=VYf-ntSYJIw)
 - [Clone VM-article](https://www.tolgabagci.com/en/use-clone-vmware-workstation/)
 - [VMWare Documentation How-to-use](https://blog.thenetworknerd.com/2019/09/30/welcome-to-the-vmware-documentation-tour/)
