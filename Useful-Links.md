@@ -12,6 +12,10 @@
 - [PhoenixNap KB](https://phoenixnap.com/kb/)
 - [Prevent CPU overheating](https://askthemanager.com/2018/01/stop-new-dell-laptop-overheating-shutting/)
 - [Free Udemy Courses](https://idownloadcoupon.com/coupon/udemy-paid-courses-for-free-with-certificate/)
+- [Nginx Tutorials](https://techexpert.tips/nginx/enable-https-nginx/)
+- [Apache](https://techexpert.tips/category/apache/)
+- [TP-Link Tutorials](https://techexpert.tips/category/tp-link/)
+- [APC UPS Tutorials](https://techexpert.tips/category/apc/)
 
 #### Maker Stuff
 - [Adafruit Learning Center](https://learn.adafruit.com/)
@@ -38,6 +42,11 @@
 - [RHEL 8 partitioning](https://gursimar27.medium.com/increase-or-decrease-the-size-of-static-partition-in-linux-c5f615b2bf04)
 - [Rocky Linux Container](https://www.techrepublic.com/article/how-to-use-rocky-linux-as-a-docker-container-image/)
 - [Linux run out of inodes](https://www.ctrl.blog/entry/how-to-all-out-of-inodes.html)
+- [Ubuntu Tutorials](https://techexpert.tips/category/ubuntu/)
+
+#### Logging and Monitoring
+- [Zabbix Tutorials](https://techexpert.tips/zabbix/zabbix-monitor-vmware-esxi/)
+- 
 
 #### Docker
 - [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
@@ -73,6 +82,8 @@
 - [About execution policies](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-7.1)
 - [Set-ExecutionPolicy](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.1)
 - [Learn X in Y minutes: Powershell](https://learnxinyminutes.com/docs/zfs/)
+- [Windows Tutorials](https://techexpert.tips/category/windows/)
+- [Powershell Tutorials](https://techexpert.tips/category/powershell/)
 
 #### Monitoring && Logging
 - [Linux Logging](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
@@ -108,6 +119,7 @@
 #### Pfsense Firewall
 - [Converting single NIC mini-pc into pfSense router/firewall](https://www.joe0.com/2019/11/16/converting-single-nic-mini-pc-into-pfsense-router-firewall-by-using-virtual-lan-configuration-on-a-managed-switch/)
 - [Converting Intel NUC Mini-PC into state-of-the-art router running pfSense in VirtualBox](https://www.joe0.com/2019/11/07/converting-intel-nuc-mini-pc-into-state-of-the-art-router-running-pfsense-in-oracle-virtualbox/)
+- [General Pfsense tutorials](https://techexpert.tips/pfsense/pfsense-server-installation/)
 - [Pfsense high availability docs](https://docs.netgate.com/pfsense/en/latest/highavailability/index.html)
 - [Pfsense high availability recipe](https://docs.netgate.com/pfsense/en/latest/recipes/high-availability.html)
 - [Virtualize Pfsense on Esxi](https://glmdev.medium.com/how-to-set-up-virtualized-pfsense-on-vmware-esxi-6-x-2c2861b25931)
@@ -180,6 +192,7 @@
 
 #### VMWare Training
 - [VMWare VCP Study Guide and Tutorial](https://www.vladan.fr/vcp6-7-dcv/)
+- [VmWare Tutorials](https://techexpert.tips/vmware/vmware-esxi-server-installation/)
 - [VMWare at Geek University](https://geek-university.com/vmware-esxi/vmware-vsphere-components/)
 - [Install VCSA in ESXi 6.7](https://www.wintips.org/how-to-install-vcenter-server-appliance-in-vmware-vsphere-hypervisor-esxi-6-7/)
 - [VMWare hardware requirements for VCSA](https://docs.vmware.com/en/VMware-vSphere/6.7/com.vmware.vcenter.install.doc/GUID-D2121DC5-1FC8-48DC-A4BA-C3FD72D0BE77.html)
