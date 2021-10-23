@@ -1,7 +1,7 @@
 ### Some Useful Links - Sorted by Type
 
 #### General Knowledge Links
-- [GPS: Learn to cloud!!!](https://learntocloud.guide/)
+- [Mastermnd Academy](https://academy.mastermnd.io/)
 - [Ops School](https://www.opsschool.org/)
 - [Situational behavior impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/)
 - [Iximiuz, many articles](https://iximiuz.com/en/)
@@ -10,6 +10,16 @@
 - [Austin's Nerdy Things](https://austinsnerdythings.com/category/homelab/)
 - [Web Browser Precesses and Threads](https://levelup.gitconnected.com/how-web-browsers-use-processes-and-threads-9f8f8fa23371)
 - [PhoenixNap KB](https://phoenixnap.com/kb/)
+- [Prevent CPU overheating](https://askthemanager.com/2018/01/stop-new-dell-laptop-overheating-shutting/)
+- [Free Udemy Courses](https://idownloadcoupon.com/coupon/udemy-paid-courses-for-free-with-certificate/)
+
+#### Maker Stuff
+- [Adafruit Learning Center](https://learn.adafruit.com/)
+
+
+#### CLOUD
+- [GPS: Learn to cloud!!!](https://learntocloud.guide/)
+- [Cloud Resume](https://cloudirregular.substack.com/p/the-greatest-resume-ive-ever-seen)
 
 #### Linux
 - [Rocky Linux SysAdmin Guide (official)](https://docs.rockylinux.org/books/admin_guide/00-toc/)
