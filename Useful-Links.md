@@ -1,9 +1,11 @@
 ### Some Useful Links 
 #### Sections [create an anchor](#anchors-in-markdown)
-[General knowledge links](#General-Knowledge-Links)
-[Maker stuff](#maker-stuff)
-[Cloud](#cloud)
-[Linux](#linux)
+- [General knowledge links](#General-Knowledge-Links)
+- [Maker stuff](#maker-stuff)
+- [Cloud](#cloud)
+- [Linux](#linux)
+
+
 
 #### General Knowledge Links
 - [Mastermnd Academy](https://academy.mastermnd.io/)
