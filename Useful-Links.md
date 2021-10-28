@@ -1,4 +1,9 @@
-### Some Useful Links - Sorted by Type
+### Some Useful Links 
+#### Sections [create an anchor](#anchors-in-markdown)
+[General knowledge links](#General-Knowledge-Links)
+[Maker stuff](#maker-stuff)
+[Cloud](#cloud)
+[Linux](#linux)
 
 #### General Knowledge Links
 - [Mastermnd Academy](https://academy.mastermnd.io/)
@@ -144,11 +149,10 @@
 
 #### Sophos UTM Firewall
 - [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
-- [Sophos XG How To Library (official)](https://www.sophos.com/en-us/support/products/xg-firewall/how-to-library.aspx#NetworkConfiguration)
-- [Collect sophos logs for troubleshooting](https://support.sophos.com/support/s/article/KB-000041274?language=en_US&name=KB-000041274)
 - [Sophos XG how to library](https://www.sophos.com/en-us/support/products/xg-firewall/how-to-library.aspx)
-#### General Security Stuff
+- [Collect sophos logs for troubleshooting](https://support.sophos.com/support/s/article/KB-000041274?language=en_US&name=KB-000041274)
 
+#### General Security Stuff
 - [Hoppers Roppers !!!](https://www.hoppersroppers.org/training.html)
 - [Amazing InfoSec Homelab Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building_A_Lab.md#general)
 - [More InfoSec Resources](https://github.com/rmusser01/Infosec_Reference)
