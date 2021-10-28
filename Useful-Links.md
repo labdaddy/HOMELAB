@@ -49,8 +49,9 @@
 - [Cloud Resume](https://cloudirregular.substack.com/p/the-greatest-resume-ive-ever-seen)
 
 #### Linux
+- [Server World, ALL the linux configs ever](https://www.server-world.info/en/)
 - [Rocky Linux SysAdmin Guide (official)](https://docs.rockylinux.org/books/admin_guide/00-toc/)
-- [Rocky Linux SysAdmin Guide (UN-official)](https://www.server-world.info/en/note?os=CentOS_Stream_8&p=download)
+- [Rocky Linux SysAdmin Guide (UN-official)](https://www.server-world.info/en/note?os=Rocky_Linux_8&p=download)
 - [Linux tldr pages, man pages simplified](https://tldr.sh/)
 - [Ubuntu in Termux](https://github.com/MFDGaming/ubuntu-in-termux)
 - [Linuxize Setups Series](https://linuxize.com/series/)
