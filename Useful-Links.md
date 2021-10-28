@@ -4,7 +4,24 @@
 - [Maker stuff](#maker-stuff)
 - [Cloud](#cloud)
 - [Linux](#linux)
-
+- [Monitoring and logging](#monitoring-and-logging)
+- [Docker](#docker)
+- [Kubernetes](#kubernetes)
+- [Devops](#devops)
+- [Windows and powershell](#windows-and-powershell)
+- [Storage](#storage)
+- [Homelabs and servers](#homelabs-and-servers)
+- [Pfsense firewall](#pfsense-firewall)
+- [Sophos firewalls](#sophos-firewalls)
+- [General security stuff](#general-security-stuff)
+- [Networking](#networking)
+- [Proxmox](#proxmox)
+- [VMWare labs](#vmware-labs)
+- [VMWare training](#vmware-training)
+- [VMWare tools](#vmware-tools)
+- [VMWare general information](#vmware-general-information)
+- [VMWare licensing](#vmware-licensing)
+- [VMWare performance](#vmware-performance)
 
 
 #### General Knowledge Links
@@ -26,7 +43,6 @@
 
 #### Maker Stuff
 - [Adafruit Learning Center](https://learn.adafruit.com/)
-
 
 #### CLOUD
 - [GPS: Learn to cloud!!!](https://learntocloud.guide/)
@@ -51,9 +67,12 @@
 - [Linux run out of inodes](https://www.ctrl.blog/entry/how-to-all-out-of-inodes.html)
 - [Ubuntu Tutorials](https://techexpert.tips/category/ubuntu/)
 
-#### Logging and Monitoring
+#### Monitoring and Logging
+- [Linux Logging](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
+- [Systemd/ Systemctl logging](https://www.loggly.com/ultimate-guide/using-systemctl/)
+- [Zabbix install and setup](https://psychogun.github.io/docs/linux/Installing-and-using-Zabbix/)
+- [ELK stack for Pfsense](https://psychogun.github.io/docs/linux/ELK-stack-on-Ubuntu-with-pfSense/)
 - [Zabbix Tutorials](https://techexpert.tips/zabbix/zabbix-monitor-vmware-esxi/)
-- 
 
 #### Docker
 - [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
@@ -92,12 +111,6 @@
 - [Windows Tutorials](https://techexpert.tips/category/windows/)
 - [Powershell Tutorials](https://techexpert.tips/category/powershell/)
 
-#### Monitoring && Logging
-- [Linux Logging](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
-- [Systemd/ Systemctl logging](https://www.loggly.com/ultimate-guide/using-systemctl/)
-- [Zabbix install and setup](https://psychogun.github.io/docs/linux/Installing-and-using-Zabbix/)
-- [ELK stack for Pfsense](https://psychogun.github.io/docs/linux/ELK-stack-on-Ubuntu-with-pfSense/)
-
 #### Storage
 - [ZFS 101](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/)
 - [ZFS search results on dannyda.com](https://dannyda.com/?s=Zfs)
@@ -113,8 +126,7 @@
 - [Difference between NFS and iSCSI](https://www.usenix.org/legacy/publications/library/proceedings/fast04/tech/full_papers/radkov/radkov_html/node5.html)
 - [Difference between NVME and M.2](https://www.velocitymicro.com/blog/nvme-vs-m-2-vs-sata-whats-the-difference/)
 
-
-#### Homelabs and Servers and Such
+#### Homelabs and Servers
 - [Intel CPU/ Socket Compendium (from JDM_WAAAT)](https://docs.google.com/spreadsheets/d/1LqQvwXoqhcft6dpMGgIF21XhqijBACOe9nU8cVK6Llk/htmlview)
 - [Intel NUC part numbers (William Lam)](https://lamw.github.io/intel-nuc-decoder/)
 - [Linuxbuff RedHad Labs](https://linuxbuff.wordpress.com/tag/homelab/)
@@ -149,7 +161,7 @@
 - [Network UPS Tool (NUT)](https://psychogun.github.io/docs/pfsense/Network-UPS-Tools/)
 - [Pfsense backup options-1](https://opensourcelibs.com/lib/breadspfsenseautobackup)
 
-#### Sophos UTM Firewall
+#### Sophos Firewalls
 - [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
 - [Sophos XG how to library](https://www.sophos.com/en-us/support/products/xg-firewall/how-to-library.aspx)
 - [Collect sophos logs for troubleshooting](https://support.sophos.com/support/s/article/KB-000041274?language=en_US&name=KB-000041274)
@@ -190,7 +202,7 @@
 - [Proxmox Networking 2 STH](https://www.servethehome.com/how-to-change-primary-proxmox-ve-ip-address/)
 - [Sophos on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
 
-#### VMWARE Labs and Learning
+#### VMWARE Labs
 - [VMWARE Hands On Labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)
 - [VMWARE LABS 1-Nakivo Nested Lab](https://www.nakivo.com/blog/building-vmware-home-lab-complete/)
 - [VMWARE LABS 2-Microsft NSX-T Lab](https://blogs.vmware.com/customer-experience-and-success/files/2019/02/Nest-Lab-Tech-Doc-2.6.pdf)
