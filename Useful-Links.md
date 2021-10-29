@@ -117,6 +117,8 @@
 
 #### Storage
 - [RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/RAID_setup)
+- [More RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/RAID_setup)
+- [Even more RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/Hardware_issues)
 - [Battle testing mdadm, ZFS, BTRfs](https://www.unixsheikh.com/articles/battle-testing-data-integrity-verification-with-zfs-btrfs-and-mdadm-dm-integrity.html)
 - [Raid at the Archlinux Wiki](https://wiki.archlinux.org/title/RAID)
 
