@@ -116,6 +116,10 @@
 - [Powershell Tutorials](https://techexpert.tips/category/powershell/)
 
 #### Storage
+- [RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/RAID_setup)
+- [Battle testing mdadm, ZFS, BTRfs](https://www.unixsheikh.com/articles/battle-testing-data-integrity-verification-with-zfs-btrfs-and-mdadm-dm-integrity.html)
+- [Raid at the Archlinux Wiki](https://wiki.archlinux.org/title/RAID)
+
 - [ZFS 101](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/)
 - [ZFS search results on dannyda.com](https://dannyda.com/?s=Zfs)
 - [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
