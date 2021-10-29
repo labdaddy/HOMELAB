@@ -121,6 +121,8 @@
 - [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
 - [Configure ZFS on Ubuntu](https://linuxconfig.org/configuring-zfs-on-ubuntu-20-04)
 - [Battle testing mdadm, ZFS, BTRfs](https://www.unixsheikh.com/articles/battle-testing-data-integrity-verification-with-zfs-btrfs-and-mdadm-dm-integrity.html)
+- [Raid at the Archlinux Wiki](https://wiki.archlinux.org/title/RAID)
+- [Linux Software RAID at Thomas Krenn Blog](https://www.thomas-krenn.com/en/wiki/Linux_Software_RAID_Information)
 - [RAID related links (old)](https://mangolassi.it/topic/121/raid-link-blast)
 - [More RAID info](https://www.steadfast.net/blog/almost-everything-you-need-know-about-raid)
 - [SnapRaid, Perfect Media Server](https://perfectmediaserver.com/tech-stack/snapraid.html)
