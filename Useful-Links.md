@@ -22,7 +22,6 @@
 - [VMWare general information](#vmware-general-information)
 - [VMWare licensing](#vmware-licensing)
 - [VMWare performance](#vmware-performance)
-
 &nbsp;
 
 &nbsp;
@@ -34,12 +33,7 @@
 &nbsp;
 
 &nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
+
 
 #### General Knowledge Links
 - [Mastermnd Academy](https://academy.mastermnd.io/)
