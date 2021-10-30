@@ -126,6 +126,7 @@
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=sitertzn_homepage_learn-redirect-handsonlabs)
 - [Windows Lab Deployment Kit](https://docs.microsoft.com/en-us/microsoft-365/enterprise/modern-desktop-deployment-and-management-lab?view=o365-worldwide)
 - [Windows Server Free Trials](https://www.microsoft.com/en-us/windows-server/trial)
+- [Reset Windows Server EVAL License](https://www.hyper-v.io/reset-120-day-rds-grace-period-windows-server-2016-without-gui/)
 
 #### Storage
 - [RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/RAID_setup)
