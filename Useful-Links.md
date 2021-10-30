@@ -263,6 +263,7 @@
 
 #### VMWARE General Information
 - [VCSA 7 Installation](https://vmarena.com/how-to-install-vcsa-7-0-step-by-step/)
+- [VMWare OFFICIAL (and less helpful) VCSA 7 instructions](https://docs.vmware.com/en/VMware-vSphere/7.0/vsphere-vcenter-server-70-installation-guide.pdf)
 - [ESXi image customizer](https://github.com/VFrontDe/ESXi-Customizer-PS)
 - [Clone a VM-video](https://www.youtube.com/watch?v=VYf-ntSYJIw)
 - [Clone VM-article](https://www.tolgabagci.com/en/use-clone-vmware-workstation/)
