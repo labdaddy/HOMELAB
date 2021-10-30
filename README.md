@@ -45,7 +45,7 @@ Storage Server
 #### Domain Controller
 - Active Directory
 
-#### Network Security && Services
+#### Network Security and Services
 
 Firewall/ Router (DNS, DHCP)
 - Pfsense
