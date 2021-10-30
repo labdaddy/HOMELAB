@@ -123,6 +123,9 @@
 - [Powershell Tutorials](https://techexpert.tips/category/powershell/)
 - [Windows Containers](https://docs.microsoft.com/en-us/virtualization/windowscontainers/)
 - [Actual Windows Server Container (on Docker Hub)](https://hub.docker.com/_/microsoft-windows-servercore)
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=sitertzn_homepage_learn-redirect-handsonlabs)
+- [Windows Lab Deployment Kit](https://docs.microsoft.com/en-us/microsoft-365/enterprise/modern-desktop-deployment-and-management-lab?view=o365-worldwide)
+- [Windows Server Free Trials](https://www.microsoft.com/en-us/windows-server/trial)
 
 #### Storage
 - [RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/RAID_setup)
