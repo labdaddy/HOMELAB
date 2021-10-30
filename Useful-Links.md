@@ -32,9 +32,6 @@
 
 &nbsp;
 
-&nbsp;
-
-
 #### General Knowledge Links
 - [Mastermnd Academy](https://academy.mastermnd.io/)
 - [Ops School](https://www.opsschool.org/)
@@ -189,6 +186,7 @@
 - [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
 - [Sophos XG how to library](https://www.sophos.com/en-us/support/products/xg-firewall/how-to-library.aspx)
 - [Collect sophos logs for troubleshooting](https://support.sophos.com/support/s/article/KB-000041274?language=en_US&name=KB-000041274)
+- [Sophos UTM Tutorial Videos](https://www.youtube.com/watch?v=1D3ZrcaY_Xg&list=PLwg2VAdhWE9GrcKOKGgMaFR5CZHCK_oBK)
 
 #### General Security Stuff
 - [Hoppers Roppers !!!](https://www.hoppersroppers.org/training.html)
