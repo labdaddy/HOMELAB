@@ -1,10 +1,10 @@
 ## HOMELAB
 
 ### Homelab Hardware
-Firewall/ Router
-Dell Optiplex Optiplex 3020
-CPU: i5-4570, 4C/4T, 3.3ghz
-MEMORY:16gb ddr3, 1600mhz
+-Firewall/ Router
+- Dell Optiplex Optiplex 3020
+- CPU: i5-4570, 4C/4T, 3.3ghz
+- MEMORY:16gb ddr3, 1600mhz
 STORAGE: 120gb ssd
 SOFTWARE: pfsense (firewall, router, DNS, DHCP, IPS, VPN, Adblocker)
 ADDITIONAL PACKAGES: UPS monitor, load balancer, forward/ reverse proxy, network monitoring [arping, iperf, nmap]
