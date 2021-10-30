@@ -190,6 +190,7 @@
 - [Collect sophos logs for troubleshooting](https://support.sophos.com/support/s/article/KB-000041274?language=en_US&name=KB-000041274)
 
 #### General Security Stuff
+- [IDS, IPS, SIEM](https://www.bitlyft.com/resources/from-ids-and-ips-to-siem-everything-you-need-to-know)
 - [Hoppers Roppers !!!](https://www.hoppersroppers.org/training.html)
 - [Amazing InfoSec Homelab Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building_A_Lab.md#general)
 - [More InfoSec Resources](https://github.com/rmusser01/Infosec_Reference)
