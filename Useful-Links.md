@@ -126,6 +126,7 @@
 - [Microsoft Learn](https://docs.microsoft.com/en-us/learn/?WT.mc_id=sitertzn_homepage_learn-redirect-handsonlabs)
 - [Windows Lab Deployment Kit](https://docs.microsoft.com/en-us/microsoft-365/enterprise/modern-desktop-deployment-and-management-lab?view=o365-worldwide)
 - [Windows Server Free Trials](https://www.microsoft.com/en-us/windows-server/trial)
+- [Windows Server EVAL ISO Images](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
 - [Reset Windows Server EVAL License](https://www.hyper-v.io/reset-120-day-rds-grace-period-windows-server-2016-without-gui/)
 
 #### Storage
