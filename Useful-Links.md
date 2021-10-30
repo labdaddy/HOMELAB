@@ -262,6 +262,7 @@
 - [Download VMWare tools](https://customerconnect.vmware.com/downloads/details?downloadGroup=VMTOOLS1032&productId=745)
 
 #### VMWARE General Information
+- [VCSA 7 Installation](https://vmarena.com/how-to-install-vcsa-7-0-step-by-step/)
 - [ESXi image customizer](https://github.com/VFrontDe/ESXi-Customizer-PS)
 - [Clone a VM-video](https://www.youtube.com/watch?v=VYf-ntSYJIw)
 - [Clone VM-article](https://www.tolgabagci.com/en/use-clone-vmware-workstation/)
