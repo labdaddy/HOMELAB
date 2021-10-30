@@ -182,6 +182,7 @@
 - [Pfsense backup options-1](https://opensourcelibs.com/lib/breadspfsenseautobackup)
 
 #### Sophos Firewalls
+- [Sophos XG official Documentation](https://www.sophos.com/en-us/support/documentation/sophos-xg-firewall.aspx?platform=Sophos-Firewall-OS-version-18-0#Sophos-Firewall-OS-version-18-0)
 - [Sophos XG how to library](https://www.sophos.com/en-us/support/products/xg-firewall/how-to-library.aspx)
 - [Sophos XG Setup videos](https://www.youtube.com/watch?v=tAoytUMm9oo&list=PL_-Rmwi0NWsRza0_0boagqfguEUVSjeXG)
 - [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
