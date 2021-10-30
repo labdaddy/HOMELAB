@@ -231,8 +231,8 @@
 - [VMWARE Hands On Labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)
 - [VMWARE LABS 1-Nakivo Nested Lab](https://www.nakivo.com/blog/building-vmware-home-lab-complete/)
 - [VMWARE LABS 2-Microsft NSX-T Lab](https://blogs.vmware.com/customer-experience-and-success/files/2019/02/Nest-Lab-Tech-Doc-2.6.pdf)
-- [VMWARE LANS 3-Nested ESXi Lab](https://www.virtualizationhowto.com/2020/09/nested-esxi-lab-build-networking-and-hardware/)
-- [VMWARE Labs 4-VSphere Lab With Tanzu](https://williamlam.com/2020/11/complete-vsphere-with-tanzu-homelab-with-just-32gb-of-memory.html)
+- [VMWARE LABS 3-Nested ESXi Lab](https://www.virtualizationhowto.com/2020/09/nested-esxi-lab-build-networking-and-hardware/)
+- [VMWARE LABS 4-VSphere Lab With Tanzu](https://williamlam.com/2020/11/complete-vsphere-with-tanzu-homelab-with-just-32gb-of-memory.html)
 - [Virtualize Pfsense on Esxi](https://glmdev.medium.com/how-to-set-up-virtualized-pfsense-on-vmware-esxi-6-x-2c2861b25931)
 
 #### VMWare Training
