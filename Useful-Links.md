@@ -130,7 +130,6 @@
 - [Even more RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/Hardware_issues)
 - [Battle testing mdadm, ZFS, BTRfs](https://www.unixsheikh.com/articles/battle-testing-data-integrity-verification-with-zfs-btrfs-and-mdadm-dm-integrity.html)
 - [Raid at the Archlinux Wiki](https://wiki.archlinux.org/title/RAID)
-
 - [ZFS 101](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/)
 - [ZFS search results on dannyda.com](https://dannyda.com/?s=Zfs)
 - [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
@@ -183,10 +182,11 @@
 - [Pfsense backup options-1](https://opensourcelibs.com/lib/breadspfsenseautobackup)
 
 #### Sophos Firewalls
-- [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
 - [Sophos XG how to library](https://www.sophos.com/en-us/support/products/xg-firewall/how-to-library.aspx)
-- [Collect sophos logs for troubleshooting](https://support.sophos.com/support/s/article/KB-000041274?language=en_US&name=KB-000041274)
+- [Sophos XG Setup videos](https://www.youtube.com/watch?v=tAoytUMm9oo&list=PL_-Rmwi0NWsRza0_0boagqfguEUVSjeXG)
+- [Install Sophos UTM on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
 - [Sophos UTM Tutorial Videos](https://www.youtube.com/watch?v=1D3ZrcaY_Xg&list=PLwg2VAdhWE9GrcKOKGgMaFR5CZHCK_oBK)
+- [Collect sophos logs for troubleshooting](https://support.sophos.com/support/s/article/KB-000041274?language=en_US&name=KB-000041274)
 
 #### General Security Stuff
 - [Hoppers Roppers !!!](https://www.hoppersroppers.org/training.html)
