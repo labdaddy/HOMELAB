@@ -7,7 +7,7 @@ Firewall/ Router
 - MEMORY:16gb ddr3, 1600mhz
 - STORAGE: 120gb ssd
 - SOFTWARE: pfsense (firewall, router, DNS, DHCP, IPS, VPN, Adblocker)
-- ADDITIONAL PACKAGES: UPS monitor, load balancer, forward/ reverse proxy, network monitoring [arping, iperf, nmap]
+- ADDITIONAL PACKAGES: UPS monitor, load balancer, forward/ reverse proxy, network monitoring (arping, iperf, nmap)
  
 Virtualization Server
 - HP ProDesk 600 G3 SFF
