@@ -63,6 +63,8 @@
 - [Server World, ALL the linux configs ever](https://www.server-world.info/en/)
 - [Rocky Linux SysAdmin Guide (official)](https://docs.rockylinux.org/books/admin_guide/00-toc/)
 - [Rocky Linux SysAdmin Guide (UN-official)](https://www.server-world.info/en/note?os=Rocky_Linux_8&p=download)
+- [Rocky Linux Container](https://www.techrepublic.com/article/how-to-use-rocky-linux-as-a-docker-container-image/)
+- [Rocky Linux archives at Linux Shout](https://www.how2shout.com/linux/category/rocky-linux/)
 - [Linux tldr pages, man pages simplified](https://tldr.sh/)
 - [Ubuntu in Termux](https://github.com/MFDGaming/ubuntu-in-termux)
 - [Linuxize Setups Series](https://linuxize.com/series/)
@@ -75,7 +77,7 @@
 - [RHEL 8 general stuff](https://faun.pub/red-hat-enterprise-linux-8-rhcsa-636bffd1f1db)
 - [RHEL 8 LVM partitioning with Python](https://gursimar27.medium.com/automating-lvm-partition-using-python-script-b1ce3e55a031)
 - [RHEL 8 partitioning](https://gursimar27.medium.com/increase-or-decrease-the-size-of-static-partition-in-linux-c5f615b2bf04)
-- [Rocky Linux Container](https://www.techrepublic.com/article/how-to-use-rocky-linux-as-a-docker-container-image/)
+
 - [Linux run out of inodes](https://www.ctrl.blog/entry/how-to-all-out-of-inodes.html)
 - [Ubuntu Tutorials](https://techexpert.tips/category/ubuntu/)
 
@@ -122,6 +124,8 @@
 - [Learn X in Y minutes: Powershell](https://learnxinyminutes.com/docs/zfs/)
 - [Windows Tutorials](https://techexpert.tips/category/windows/)
 - [Powershell Tutorials](https://techexpert.tips/category/powershell/)
+- [Windows Containers](https://docs.microsoft.com/en-us/virtualization/windowscontainers/)
+- [Actual Windows Server Container (on Docker Hub)](https://hub.docker.com/_/microsoft-windows-servercore)
 
 #### Storage
 - [RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/RAID_setup)
@@ -212,6 +216,7 @@
 - [HAProxy Docs](https://www.haproxy.org/#docs)
 
 #### Proxmox
+- [Install proxmox and setup a ZFS pool](https://blog.quindorian.org/2019/08/how-to-install-proxmox-and-setup-a-zfs-pool.html/)
 - [Proxmox playlist-learnlinuxtv](https://www.youtube.com/watch?v=LCjuiIswXGs&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
 - [Proxmox playlist-Practical IT](https://www.youtube.com/watch?v=Myl6nvPP9go&list=PLRR0y1Ha_dRc9CU7lRGP-0ayXaP-sVaIU)
 - [Proxmox playlist-Virtualize Everything](https://www.youtube.com/watch?v=df3BbdSyQx0&list=PL4i6XWPjbaYn1lPDYNjf-J4Cy_zEd2tOz)
