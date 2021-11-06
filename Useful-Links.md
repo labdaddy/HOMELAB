@@ -195,6 +195,10 @@
 - [Collect sophos logs for troubleshooting](https://support.sophos.com/support/s/article/KB-000041274?language=en_US&name=KB-000041274)
 
 #### General Security Stuff
+- [MITRE ATT&CK](https://attack.mitre.org/)
+- [SANS Institute-Skills Roadmap](https://www.sans.org/cyber-security-skills-roadmap/?msc=main-nav)
+- [GIAC Certifications](https://www.giac.org/)
+- [Cybersecurity Roles](https://www.sans.org/cybersecurity-careers/20-coolest-cyber-security-careers/)
 - [IDS, IPS, SIEM](https://www.bitlyft.com/resources/from-ids-and-ips-to-siem-everything-you-need-to-know)
 - [Hoppers Roppers !!!](https://www.hoppersroppers.org/training.html)
 - [Amazing InfoSec Homelab Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building_A_Lab.md#general)
@@ -219,6 +223,7 @@
 - [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html)
 - [Network calculators](https://www.subnetmask.info/)
 - [HAProxy Docs](https://www.haproxy.org/#docs)
+- [Netbox, network documentation tool](https://netbox.readthedocs.io/en/stable/)
 
 #### Proxmox
 - [Install proxmox and setup a ZFS pool](https://blog.quindorian.org/2019/08/how-to-install-proxmox-and-setup-a-zfs-pool.html/)
