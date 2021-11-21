@@ -240,6 +240,10 @@
 - [Linux Bridge vs OpenVSwitch](https://ioflood.com/blog/2021/07/08/linux-bridge-vs-openvswitch-how-to-improve-virtualization-network-performance/)
 - [Proxmox Networking 2 STH](https://www.servethehome.com/how-to-change-primary-proxmox-ve-ip-address/)
 - [Sophos on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
+- [VMWare Esxi on Proxmox-1](https://dannyda.com/2020/12/17/how-to-install-use-test-vmware-vsphere-7-0-esxi-7-0-on-proxmox-ve-6-3-3-pve/)
+- [VMWare Esxi on Proxmox-2](https://gist.github.com/bgulla/2421b589de4b4b75e83ac79b17f0fc85)
+- [VMWare Esxi on Proxmox-3](https://pve.proxmox.com/wiki/Nested_Virtualization)
+- [CPU's that support nested virtualization](https://www.reddit.com/r/virtualization/comments/8jhao3/nested_virtualization_which_cpus_can_do_it_cant/)
 
 #### VMWARE Labs
 - [VMWARE Hands On Labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)
