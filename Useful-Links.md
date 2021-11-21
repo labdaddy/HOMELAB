@@ -42,12 +42,14 @@
 - [Austin's Nerdy Things](https://austinsnerdythings.com/category/homelab/)
 - [Web Browser Precesses and Threads](https://levelup.gitconnected.com/how-web-browsers-use-processes-and-threads-9f8f8fa23371)
 - [PhoenixNap KB](https://phoenixnap.com/kb/)
+- [Psychogun (linux, pfsense)](https://psychogun.github.io/)
 - [Prevent CPU overheating](https://askthemanager.com/2018/01/stop-new-dell-laptop-overheating-shutting/)
 - [Free Udemy Courses](https://idownloadcoupon.com/coupon/udemy-paid-courses-for-free-with-certificate/)
 - [Nginx Tutorials](https://techexpert.tips/nginx/enable-https-nginx/)
 - [Apache](https://techexpert.tips/category/apache/)
 - [TP-Link Tutorials](https://techexpert.tips/category/tp-link/)
 - [APC UPS Tutorials](https://techexpert.tips/category/apc/)
+- [Network UPS Tools](https://psychogun.github.io/docs/pfsense/Network-UPS-Tools/)
 
 #### Maker Stuff
 - [Adafruit Learning Center](https://learn.adafruit.com/)
@@ -90,6 +92,8 @@
 - [Docker Official Docs](https://docs.docker.com/)
 - [Devops with Docker](https://devopswithdocker.com/)
 - [Docker, OMV, Portainer, Letsencrypt](https://site.gothtech.co.uk/articles/omv-portainer-traefik-letsencrypt#h.cwxa2osrd843)
+- [Docker - Suricata](https://github.com/jasonish/docker-suricata)
+- [Docker - TPOT Cockpit/ Cyberchef/ ELK/ Elastichead/ Fatt/ Spiderfoot/ Suricata](https://hub.docker.com/r/dtagdevsec/suricata/)
 
 #### Kubernetes
 - [Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
