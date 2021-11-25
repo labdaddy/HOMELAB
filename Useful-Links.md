@@ -5,6 +5,7 @@
 - [Cloud](#cloud)
 - [Linux](#linux)
 - [Monitoring and logging](#monitoring-and-logging)
+- [CI/CD](#CI/CD)
 - [Docker](#docker)
 - [Kubernetes](#kubernetes)
 - [Devops](#devops)
@@ -87,6 +88,11 @@
 - [ELK stack for Pfsense](https://psychogun.github.io/docs/linux/ELK-stack-on-Ubuntu-with-pfSense/)
 - [Zabbix Tutorials](https://techexpert.tips/zabbix/zabbix-monitor-vmware-esxi/)
 - [ELK Stack on Docker](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-docker.html)
+https://www.katalon.com/resources-center/blog/ci-cd-tools/
+
+#### CI/CD
+- [14 CI/CD tools](https://www.katalon.com/resources-center/blog/ci-cd-tools/)
+- [Open Source CI/CD tools}(https://devops.com/7-popular-open-source-ci-cd-tools/)
 
 #### Docker
 - [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
