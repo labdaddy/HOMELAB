@@ -82,13 +82,13 @@
 - [Ubuntu Tutorials](https://techexpert.tips/category/ubuntu/)
 
 #### Monitoring and Logging
+- [Scalable monitoring tools (slides)](https://nsrc.org/workshops/2019/btnog6/nmm/netmgmt/en/futures/scalable-monitoring-tools.pdf)
 - [Linux Logging](https://www.loggly.com/ultimate-guide/linux-logging-basics/)
 - [Systemd/ Systemctl logging](https://www.loggly.com/ultimate-guide/using-systemctl/)
 - [Zabbix install and setup](https://psychogun.github.io/docs/linux/Installing-and-using-Zabbix/)
 - [ELK stack for Pfsense](https://psychogun.github.io/docs/linux/ELK-stack-on-Ubuntu-with-pfSense/)
 - [Zabbix Tutorials](https://techexpert.tips/zabbix/zabbix-monitor-vmware-esxi/)
 - [ELK Stack on Docker](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-docker.html)
-https://www.katalon.com/resources-center/blog/ci-cd-tools/
 
 #### CI/CD
 - [14 CI/CD tools](https://www.katalon.com/resources-center/blog/ci-cd-tools/)
