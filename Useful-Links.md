@@ -61,7 +61,9 @@
 
 #### Linux
 - [Server World, ALL the linux configs ever](https://www.server-world.info/en/)
-- [Rocky Linux SysAdmin Guide (official)](https://docs.rockylinux.org/books/admin_guide/00-toc/)
+- [Rocky linux Guides](https://docs.rockylinux.org/guides/)
+- [Rocky Linux books](https://docs.rockylinux.org/books/)
+- [Rocky Linux Gemstones](*https://docs.rockylinux.org/gemstones/)
 - [Rocky Linux SysAdmin Guide (UN-official)](https://www.server-world.info/en/note?os=Rocky_Linux_8&p=download)
 - [Rocky Linux Container](https://www.techrepublic.com/article/how-to-use-rocky-linux-as-a-docker-container-image/)
 - [Rocky Linux archives at Linux Shout](https://www.how2shout.com/linux/category/rocky-linux/)
