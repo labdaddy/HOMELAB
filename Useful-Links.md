@@ -92,6 +92,7 @@
 - [ELK stack for Pfsense](https://psychogun.github.io/docs/linux/ELK-stack-on-Ubuntu-with-pfSense/)
 - [Zabbix Tutorials](https://techexpert.tips/zabbix/zabbix-monitor-vmware-esxi/)
 - [ELK Stack on Docker](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-docker.html)
+- [Intro to graylog](https://www.cyberhuntingguide.net/graylog-start.html)
 
 #### CI/CD
 - [14 CI/CD tools](https://www.katalon.com/resources-center/blog/ci-cd-tools/)
