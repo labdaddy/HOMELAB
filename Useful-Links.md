@@ -93,6 +93,10 @@
 - [Zabbix Tutorials](https://techexpert.tips/zabbix/zabbix-monitor-vmware-esxi/)
 - [ELK Stack on Docker](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-docker.html)
 - [Intro to graylog](https://www.cyberhuntingguide.net/graylog-start.html)
+- [Getting started with Graylog](https://www.cyberhuntingguide.net/graylog-start.html)
+- [Graylog at scale](https://thehftguy.com/2016/09/12/250-gbday-of-logs-with-graylog-lessons-learned/)
+- [Graylog vs ELK](https://www.educba.com/graylog-vs-elk/)
+- [Network monitoring sample setup](https://corelight.com/blog/2020/04/08/enabling-soho-network-security-monitoring)
 
 #### CI/CD
 - [14 CI/CD tools](https://www.katalon.com/resources-center/blog/ci-cd-tools/)
@@ -150,6 +154,8 @@
 - [Even more RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/Hardware_issues)
 - [Battle testing mdadm, ZFS, BTRfs](https://www.unixsheikh.com/articles/battle-testing-data-integrity-verification-with-zfs-btrfs-and-mdadm-dm-integrity.html)
 - [Raid at the Archlinux Wiki](https://wiki.archlinux.org/title/RAID)
+- [Intro to ZFS (excellent)](https://www.truenas.com/community/resources/introduction-to-zfs.111/)
+- [ZREP, ZFS based real time sync and failover !](http://www.bolthole.com/solaris/zrep/)
 - [ZFS 101](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/)
 - [ZFS search results on dannyda.com](https://dannyda.com/?s=Zfs)
 - [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
@@ -229,6 +235,9 @@
 - [The hard truth about ransomware](https://doublepulsar.com/the-hard-truth-about-ransomware-we-arent-prepared-it-s-a-battle-with-new-rules-and-it-hasn-t-a93ad3030a54)
 - [Intel techniques website](https://inteltechniques.com/)
 - [Tor plus VPN](https://gitlab.torproject.org/legacy/trac/-/wikis/doc/TorPlusVPN)
+- [Security Onion(docs)](https://docs.securityonion.net/en/2.3/introduction.html)
+- [Suricata (docs)](https://suricata.io/documentation/)
+- [Suricata (setup example)](https://www.sealingtech.com/blog/adventures-in-suricata-part-1-low-cost-intrusion-detection-system/)
 
 #### Networking
 - [Computer Networking a Top Down Approach](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
