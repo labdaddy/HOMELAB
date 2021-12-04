@@ -58,6 +58,7 @@
 #### CLOUD
 - [GPS: Learn to cloud!!!](https://learntocloud.guide/)
 - [Cloud Resume](https://cloudirregular.substack.com/p/the-greatest-resume-ive-ever-seen)
+- [AWS Cloud Workshops (free AWS official projects)](https://workshops.aws/)
 
 #### Linux
 - [Server World, ALL the linux configs ever](https://www.server-world.info/en/)
