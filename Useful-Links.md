@@ -81,7 +81,6 @@
 - [RHEL 8 general stuff](https://faun.pub/red-hat-enterprise-linux-8-rhcsa-636bffd1f1db)
 - [RHEL 8 LVM partitioning with Python](https://gursimar27.medium.com/automating-lvm-partition-using-python-script-b1ce3e55a031)
 - [RHEL 8 partitioning](https://gursimar27.medium.com/increase-or-decrease-the-size-of-static-partition-in-linux-c5f615b2bf04)
-
 - [Linux run out of inodes](https://www.ctrl.blog/entry/how-to-all-out-of-inodes.html)
 - [Ubuntu Tutorials](https://techexpert.tips/category/ubuntu/)
 
@@ -244,6 +243,33 @@
 - [Security Onion(docs)](https://docs.securityonion.net/en/2.3/introduction.html)
 - [Suricata (docs)](https://suricata.io/documentation/)
 - [Suricata (setup example)](https://www.sealingtech.com/blog/adventures-in-suricata-part-1-low-cost-intrusion-detection-system/)
+- https://cloudsecurityalliance.org/research/guidance 
+- https://ea.cloudsecurityalliance.org/ 
+- https://cloudsecurityalliance.org/research/working-groups/cloud-controls-matrix/ 
+- https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/serviceorganization-smanagement 
+- https://www.cisecurity.org/  
+- https://www.halock.com/services/security-management/cis-ram/ 
+-https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro/cis-cat-faq/ 
+- https://public.cyber.mil/ 
+- https://ncp.nist.gov/repository
+- https://owasp.org/www-project-top-ten/
+- https://github.com/laramies/theHarvester
+- https://github.com/fwaeytens/dnsenum
+- https://github.com/vesche/scanless
+- https://curl.se/
+- https://www.wireshark.org/#learnWS
+- https://gitlab.com/wireshark/wireshark/-/wikis/home
+- https://monkey.org/~dugsong/dsniff/
+- https://www.ettercap-project.org/
+- https://scapy.net/
+- http://hping.org/
+- https://linux.die.net/man/1/tcpreplay
+- https://github.com/rek7/fireELF
+-https://github.com/threat9/routersploit
+- https://beefproject.com/
+- https://owasp.org/www-project-zap/
+- https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/
+- https://www.varonis.com/blog/netcat-commands/
 
 #### Networking
 - [Computer Networking a Top Down Approach](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
