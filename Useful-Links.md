@@ -329,6 +329,9 @@
 
 #### VMWARE General Information
 - [VMWare Networking](https://www.nakivo.com/blog/category/vmware-administration/networking-vmware-administration/)
+- [Starwind ESXi Blog](https://www.starwindsoftware.com/blog/tag/esxi)
+- [VMWARE administration and backups from Nakivo](https://www.nakivo.com/blog/category/vmware-administration/)
+- [Altaro VMWARE articles](https://www.altaro.com/vmware/)
 - [VCSA 7 Installation](https://vmarena.com/how-to-install-vcsa-7-0-step-by-step/)
 - [VMWare OFFICIAL (and less helpful) VCSA 7 instructions](https://docs.vmware.com/en/VMware-vSphere/7.0/vsphere-vcenter-server-70-installation-guide.pdf)
 - [ESXi image customizer](https://github.com/VFrontDe/ESXi-Customizer-PS)
@@ -337,8 +340,6 @@
 - [VMWare Documentation How-to-use](https://blog.thenetworknerd.com/2019/09/30/welcome-to-the-vmware-documentation-tour/)
 - [VMWare Workstation 16 Documentation](https://docs.vmware.com/en/VMware-Workstation-Pro/index.html)
 - [Vmware Workstation Pro vs Player](https://www.nakivo.com/blog/vmware-workstation-pro-vs-player/)
-- [Altaro VMWARE articles](https://www.altaro.com/vmware/)
-- [VMWARE administration and backups from Nakivo](https://www.nakivo.com/blog/category/vmware-administration/)
 - [VSphere 6.7 Search Results on Virtualizationhowto.com](https://www.virtualizationhowto.com/category/virtualization/vmware/vsphere-6-7/)
 
 #### VMWARE Licensing
