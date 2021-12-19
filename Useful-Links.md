@@ -307,7 +307,8 @@
 - [Virtualize Pfsense on Esxi](https://glmdev.medium.com/how-to-set-up-virtualized-pfsense-on-vmware-esxi-6-x-2c2861b25931)
 
 #### VMWare Training
-- [VMWare VCP Study Guide and Tutorial](https://www.vladan.fr/vcp6-7-dcv/)
+- [VMWare VCP Study Guide and Tutorial, 6.7](https://www.vladan.fr/vcp6-7-dcv/)
+- [VMWare VCP Study Guide and Tutorial. 7.0](https://www.vladan.fr/vcp7-dcv/)
 - [VmWare Tutorials](https://techexpert.tips/vmware/vmware-esxi-server-installation/)
 - [VMWare at Geek University](https://geek-university.com/vmware-esxi/vmware-vsphere-components/)
 - [Install VCSA in ESXi 6.7](https://www.wintips.org/how-to-install-vcenter-server-appliance-in-vmware-vsphere-hypervisor-esxi-6-7/)
