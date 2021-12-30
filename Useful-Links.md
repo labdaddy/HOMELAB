@@ -220,16 +220,17 @@
 - [Collect sophos logs for troubleshooting](https://support.sophos.com/support/s/article/KB-000041274?language=en_US&name=KB-000041274)
 
 #### General Security Stuff
+- [Hoppers Roppers !!!](https://www.hoppersroppers.org/training.html)
 - [Center for Internet Security](https://www.cisecurity.org/)
 - [MITRE ATT&CK](https://attack.mitre.org/)
+- [SANS Cyber Aces](https://tutorials.cyberaces.org/tutorials.html)
 - [SANS Institute-Skills Roadmap](https://www.sans.org/cyber-security-skills-roadmap/?msc=main-nav)
+- [SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 - [GIAC Certifications](https://www.giac.org/)
 - [Cybersecurity Roles](https://www.sans.org/cybersecurity-careers/20-coolest-cyber-security-careers/)
 - [IDS, IPS, SIEM](https://www.bitlyft.com/resources/from-ids-and-ips-to-siem-everything-you-need-to-know)
-- [Hoppers Roppers !!!](https://www.hoppersroppers.org/training.html)
 - [Amazing InfoSec Homelab Resources](https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Building_A_Lab.md#general)
 - [More InfoSec Resources](https://github.com/rmusser01/Infosec_Reference)
-- [SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 - [US-Cert.CISA Alerts](https://us-cert.cisa.gov/ncas/alerts)
 - [US-Cert.CISA Activity](https://us-cert.cisa.gov/ncas/current-activity)
 - [US-Cert.CISA Tips](https://us-cert.cisa.gov/ncas/tips)
@@ -249,7 +250,7 @@
 - https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/serviceorganization-smanagement 
 - https://www.cisecurity.org/  
 - https://www.halock.com/services/security-management/cis-ram/ 
--https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro/cis-cat-faq/ 
+- https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro/cis-cat-faq/ 
 - https://public.cyber.mil/ 
 - https://ncp.nist.gov/repository
 - https://owasp.org/www-project-top-ten/
@@ -265,7 +266,7 @@
 - http://hping.org/
 - https://linux.die.net/man/1/tcpreplay
 - https://github.com/rek7/fireELF
--https://github.com/threat9/routersploit
+- https://github.com/threat9/routersploit
 - https://beefproject.com/
 - https://owasp.org/www-project-zap/
 - https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/
