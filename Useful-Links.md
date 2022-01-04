@@ -11,7 +11,9 @@
 - [Devops](#devops)
 - [Windows and powershell](#windows-and-powershell)
 - [Storage](#storage)
-- [Homelabs and servers](#homelabs-and-servers)
+- [Homelabs](#homelabs)
+- [Servers](#servers)
+- [Self Hosting](#self-hosted)
 - [Pfsense firewall](#pfsense-firewall)
 - [Sophos firewalls](#sophos-firewalls)
 - [General security stuff](#general-security-stuff)
@@ -23,15 +25,7 @@
 - [VMWare general information](#vmware-general-information)
 - [VMWare licensing](#vmware-licensing)
 - [VMWare performance](#vmware-performance)
-&nbsp;
 
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 #### General Knowledge Links
 - [Mastermnd Academy](https://academy.mastermnd.io/)
@@ -129,6 +123,8 @@
 - [Tools to learn Kubernetes at home](https://www.redhat.com/sysadmin/start-learning-kubernetes)
 - [Kubernetes the hard way - Kelsey Hightower](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [Kubernetes the hard way, Virtualbox edition](https://github.com/sgargel/kubernetes-the-hard-way-virtualbox)
+- [Minimum viable kubernetes](https://eevans.co/blog/minimum-viable-kubernetes/)
+- [Deconstructing kubernetes networking](https://eevans.co/blog/deconstructing-kubernetes-networking/)
 
 #### DevOps
 - [Devops project ideas](https://www.tutorialworks.com/devops-project-ideas/)
@@ -176,14 +172,21 @@
 - [Difference between NFS and iSCSI](https://www.usenix.org/legacy/publications/library/proceedings/fast04/tech/full_papers/radkov/radkov_html/node5.html)
 - [Difference between NVME and M.2](https://www.velocitymicro.com/blog/nvme-vs-m-2-vs-sata-whats-the-difference/)
 
-#### Homelabs and Servers
-- [Intel CPU/ Socket Compendium (from JDM_WAAAT)](https://docs.google.com/spreadsheets/d/1LqQvwXoqhcft6dpMGgIF21XhqijBACOe9nU8cVK6Llk/htmlview)
-- [Intel NUC part numbers (William Lam)](https://lamw.github.io/intel-nuc-decoder/)
-- [Linuxbuff RedHad Labs](https://linuxbuff.wordpress.com/tag/homelab/)
+#### Homelabs
+- [Linuxbuff RedHat Labs](https://linuxbuff.wordpress.com/tag/homelab/)
 - [Lisenet-Homelab with Foreman and Katello](https://www.lisenet.com/2018/homelab-project-with-kvm-katello-and-puppet/)
 - [How to homelab](https://www.dlford.io/tag/how-to-home-lab-series/)
+- [Self Hosted Blog](https://eevans.co/blog/garage/)
+
+
+#### Servers
+- [Intel CPU/ Socket Compendium (from JDM_WAAAT)](https://docs.google.com/spreadsheets/d/1LqQvwXoqhcft6dpMGgIF21XhqijBACOe9nU8cVK6Llk/htmlview)
 - [HP Microserver CPU Info](https://n40l.fandom.com/wiki/Cpu_gen8)
 - [HP Microserver Links and General Info](https://homeservershow.com/forums/topic/5639-proliant-microserver-gen8-links/?/topic/5639-proliant-microserver-gen8-links/?p=62204)
+
+#### Self Hosted
+- [Intro to self hosting](https://georgev.design/blog/intro-to-self-hosting-how-to-get-started-hosting-your-applications)
+
 
 #### Pfsense Firewall
 - [Converting single NIC mini-pc into pfSense router/firewall](https://www.joe0.com/2019/11/16/converting-single-nic-mini-pc-into-pfsense-router-firewall-by-using-virtual-lan-configuration-on-a-managed-switch/)
@@ -220,12 +223,14 @@
 - [Collect sophos logs for troubleshooting](https://support.sophos.com/support/s/article/KB-000041274?language=en_US&name=KB-000041274)
 
 #### General Security Stuff
+- [Mistborn suite](https://gitlab.com/cyber5k/mistborn)
 - [Hoppers Roppers !!!](https://www.hoppersroppers.org/training.html)
 - [Center for Internet Security](https://www.cisecurity.org/)
 - [MITRE ATT&CK](https://attack.mitre.org/)
 - [SANS Cyber Aces](https://tutorials.cyberaces.org/tutorials.html)
 - [SANS Institute-Skills Roadmap](https://www.sans.org/cyber-security-skills-roadmap/?msc=main-nav)
 - [SANS Cheat Sheets](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+- [Other security cheat sheets](https://github.com/cyberphor/oscp)
 - [GIAC Certifications](https://www.giac.org/)
 - [Cybersecurity Roles](https://www.sans.org/cybersecurity-careers/20-coolest-cyber-security-careers/)
 - [IDS, IPS, SIEM](https://www.bitlyft.com/resources/from-ids-and-ips-to-siem-everything-you-need-to-know)
@@ -244,6 +249,7 @@
 - [Security Onion(docs)](https://docs.securityonion.net/en/2.3/introduction.html)
 - [Suricata (docs)](https://suricata.io/documentation/)
 - [Suricata (setup example)](https://www.sealingtech.com/blog/adventures-in-suricata-part-1-low-cost-intrusion-detection-system/)
+- [What is a SIEM?](https://www.tripwire.com/state-of-security/incident-detection/log-management-siem/what-is-a-siem/) 
 - https://cloudsecurityalliance.org/research/guidance 
 - https://ea.cloudsecurityalliance.org/ 
 - https://cloudsecurityalliance.org/research/working-groups/cloud-controls-matrix/ 
@@ -330,6 +336,8 @@
 - [Download VMWare tools](https://customerconnect.vmware.com/downloads/details?downloadGroup=VMTOOLS1032&productId=745)
 
 #### VMWARE General Information
+- [ESXi storage changes between 6.7 & 7.0](https://core.vmware.com/resource/esxi-system-storage-changes#section3)
+- [Wiert corner](https://wiert.me/category/power-user/vmware/)
 - [VMWare Networking](https://www.nakivo.com/blog/category/vmware-administration/networking-vmware-administration/)
 - [Starwind ESXi Blog](https://www.starwindsoftware.com/blog/tag/esxi)
 - [VMWARE administration and backups from Nakivo](https://www.nakivo.com/blog/category/vmware-administration/)
@@ -343,7 +351,8 @@
 - [VMWare Workstation 16 Documentation](https://docs.vmware.com/en/VMware-Workstation-Pro/index.html)
 - [Vmware Workstation Pro vs Player](https://www.nakivo.com/blog/vmware-workstation-pro-vs-player/)
 - [VSphere 6.7 Search Results on Virtualizationhowto.com](https://www.virtualizationhowto.com/category/virtualization/vmware/vsphere-6-7/)
-
+- [William Lam, nested ESXi section](https://williamlam.com/nested-virtualization)
+- [Vsphere client 2021](https://vmiss.net/vmware-vsphere-client/)
 #### VMWARE Licensing
 - [Reset ESXi 6.7 Evaluation License](https://zewwy.ca/index.php/2019/09/19/reset-esxi-trial-license/)
 - [Reset evaluation license-cron script](https://calvin.me/reset-esxi-evaluation-license)
