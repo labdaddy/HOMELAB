@@ -149,6 +149,7 @@
 - [Reset Windows Server EVAL License](https://www.hyper-v.io/reset-120-day-rds-grace-period-windows-server-2016-without-gui/)
 
 #### Storage
+- [RAID calculator](https://www.raid-calculator.com/default.aspx)
 - [RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/RAID_setup)
 - [More RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/RAID_setup)
 - [Even more RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/Hardware_issues)
