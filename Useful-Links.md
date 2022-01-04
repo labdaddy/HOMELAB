@@ -189,6 +189,7 @@
 
 #### Self Hosted
 - [Intro to self hosting](https://georgev.design/blog/intro-to-self-hosting-how-to-get-started-hosting-your-applications)
+- [Phone backups with Syncthing](https://jonathanmenahem.digital/setting-up-truenas-to-backup-files-from-android-phone-using-syncthing/)
 
 
 #### Pfsense Firewall
