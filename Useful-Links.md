@@ -172,6 +172,7 @@
 - [Why 3-2-1 Backup Sucks](https://www.unitrends.com/blog/3-2-1-backup-sucks)
 - [Difference between NFS and iSCSI](https://www.usenix.org/legacy/publications/library/proceedings/fast04/tech/full_papers/radkov/radkov_html/node5.html)
 - [Difference between NVME and M.2](https://www.velocitymicro.com/blog/nvme-vs-m-2-vs-sata-whats-the-difference/)
+- [NFS vs iSCSI](https://www.promax.com/blog/whats-the-difference-nfs-vs-iscsi)
 
 #### Homelabs
 - [Linuxbuff RedHat Labs](https://linuxbuff.wordpress.com/tag/homelab/)
