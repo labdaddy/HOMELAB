@@ -187,6 +187,7 @@
 - [HP Microserver CPU Info](https://n40l.fandom.com/wiki/Cpu_gen8)
 - [HP Microserver Links and General Info](https://homeservershow.com/forums/topic/5639-proliant-microserver-gen8-links/?/topic/5639-proliant-microserver-gen8-links/?p=62204)
 - [DIY EconoNAS](https://blog.briancmoses.com/2020/12/diy-nas-econonas-2020.html)
+- [SuperMicro X9SRI-F, Wiert corner blog](https://wiert.me/category/power-user/hardware/mainboards/supermicro/x9sri-3f/)
 
 #### Self Hosted
 - [Intro to self hosting](https://georgev.design/blog/intro-to-self-hosting-how-to-get-started-hosting-your-applications)
