@@ -300,6 +300,7 @@
 - [Netbox, network documentation tool](https://netbox.readthedocs.io/en/stable/)
 
 #### Proxmox
+- [Proxmox on ESXi](https://blog.gnu-designs.com/howto-run-proxmox-6-3-under-vmware-esxi-with-networked-guest-instances/)
 - [Install proxmox and setup a ZFS pool](https://blog.quindorian.org/2019/08/how-to-install-proxmox-and-setup-a-zfs-pool.html/)
 - [Proxmox playlist-learnlinuxtv](https://www.youtube.com/watch?v=LCjuiIswXGs&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
 - [Proxmox playlist-Practical IT](https://www.youtube.com/watch?v=Myl6nvPP9go&list=PLRR0y1Ha_dRc9CU7lRGP-0ayXaP-sVaIU)
