@@ -98,7 +98,7 @@
 
 #### CI/CD
 - [14 CI/CD tools](https://www.katalon.com/resources-center/blog/ci-cd-tools/)
-- [Open Source CI/CD tools}(https://devops.com/7-popular-open-source-ci-cd-tools/)
+- [Open Source CI/CD tools](https://devops.com/7-popular-open-source-ci-cd-tools/)
 
 #### Docker
 - [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
