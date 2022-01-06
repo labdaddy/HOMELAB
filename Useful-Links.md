@@ -19,6 +19,7 @@
 - [General security stuff](#general-security-stuff)
 - [Networking](#networking)
 - [Proxmox](#proxmox)
+- [Nested Virtualization](#nested-virtualization)
 - [VMWare labs](#vmware-labs)
 - [VMWare training](#vmware-training)
 - [VMWare tools](#vmware-tools)
@@ -300,17 +301,8 @@
 - [Netbox, network documentation tool](https://netbox.readthedocs.io/en/stable/)
 
 #### Proxmox
-- [Proxmox on ESXi](https://blog.gnu-designs.com/howto-run-proxmox-6-3-under-vmware-esxi-with-networked-guest-instances/)
-- [Proxmox on ESXi, additional](https://forum.proxmox.com/threads/trying-to-run-vms-on-nested-esxi-6-7-under-proxmox-6-2-getting-this-host-does-not-support-intel-vt-x.83036/)
-- [Nested virtualization](https://pve.proxmox.com/wiki/Nested_Virtualization)
-
-- [VMWare Esxi on Proxmox-1](https://dannyda.com/2020/12/17/how-to-install-use-test-vmware-vsphere-7-0-esxi-7-0-on-proxmox-ve-6-3-3-pve/)
-- [VMWare Esxi on Proxmox-2](https://gist.github.com/bgulla/2421b589de4b4b75e83ac79b17f0fc85)
-- [VMWare Esxi on Proxmox-3](https://pve.proxmox.com/wiki/Nested_Virtualization)
 - [Firewall on Proxmox with single nic pc](https://forum.proxmox.com/threads/setting-up-pfsense-with-one-nic.68179/)
 - [Firewall on Proxmox with single nic, additional](https://forum.proxmox.com/threads/proxmox-running-pfsense-fw-with-single-nic.63807/)
-- [CPU's that support nested virtualization](https://www.reddit.com/r/virtualization/comments/8jhao3/nested_virtualization_which_cpus_can_do_it_cant/)
-
 - [Install proxmox and setup a ZFS pool](https://blog.quindorian.org/2019/08/how-to-install-proxmox-and-setup-a-zfs-pool.html/)
 - [Proxmox playlist-learnlinuxtv](https://www.youtube.com/watch?v=LCjuiIswXGs&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
 - [Proxmox playlist-Practical IT](https://www.youtube.com/watch?v=Myl6nvPP9go&list=PLRR0y1Ha_dRc9CU7lRGP-0ayXaP-sVaIU)
@@ -321,6 +313,15 @@
 - [Linux Bridge vs OpenVSwitch](https://ioflood.com/blog/2021/07/08/linux-bridge-vs-openvswitch-how-to-improve-virtualization-network-performance/)
 - [Proxmox Networking 2 STH](https://www.servethehome.com/how-to-change-primary-proxmox-ve-ip-address/)
 - [Sophos on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
+
+#### Nested Virtualization
+- [Proxmox on ESXi](https://blog.gnu-designs.com/howto-run-proxmox-6-3-under-vmware-esxi-with-networked-guest-instances/)
+- [Proxmox on ESXi, additional](https://forum.proxmox.com/threads/trying-to-run-vms-on-nested-esxi-6-7-under-proxmox-6-2-getting-this-host-does-not-support-intel-vt-x.83036/)
+- [Nested virtualization](https://pve.proxmox.com/wiki/Nested_Virtualization)
+- [VMWare Esxi on Proxmox-1](https://dannyda.com/2020/12/17/how-to-install-use-test-vmware-vsphere-7-0-esxi-7-0-on-proxmox-ve-6-3-3-pve/)
+- [VMWare Esxi on Proxmox-2](https://gist.github.com/bgulla/2421b589de4b4b75e83ac79b17f0fc85)
+- [VMWare Esxi on Proxmox-3](https://pve.proxmox.com/wiki/Nested_Virtualization)
+- [CPU's that support nested virtualization](https://www.reddit.com/r/virtualization/comments/8jhao3/nested_virtualization_which_cpus_can_do_it_cant/)
 
 #### VMWARE Labs
 - [VMWARE Hands On Labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)
