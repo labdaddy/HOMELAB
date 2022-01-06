@@ -307,6 +307,7 @@
 - [VMWare Esxi on Proxmox-2](https://gist.github.com/bgulla/2421b589de4b4b75e83ac79b17f0fc85)
 - [VMWare Esxi on Proxmox-3](https://pve.proxmox.com/wiki/Nested_Virtualization)
 - [Firewall on Proxmox with single nic pc](https://forum.proxmox.com/threads/setting-up-pfsense-with-one-nic.68179/)
+- [Firewall on Proxmox with single nic, additional](https://forum.proxmox.com/threads/proxmox-running-pfsense-fw-with-single-nic.63807/)
 - [CPU's that support nested virtualization](https://www.reddit.com/r/virtualization/comments/8jhao3/nested_virtualization_which_cpus_can_do_it_cant/)
 
 - [Install proxmox and setup a ZFS pool](https://blog.quindorian.org/2019/08/how-to-install-proxmox-and-setup-a-zfs-pool.html/)
