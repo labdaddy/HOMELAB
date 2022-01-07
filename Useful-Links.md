@@ -20,6 +20,7 @@
 - [Networking](#networking)
 - [Proxmox](#proxmox)
 - [Nested Virtualization](#nested-virtualization)
+- [VMWare Workstation](#vmware-workstation)
 - [VMWare labs](#vmware-labs)
 - [VMWare training](#vmware-training)
 - [VMWare tools](#vmware-tools)
