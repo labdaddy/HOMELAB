@@ -1,5 +1,5 @@
 ## Useful Links 
-### Sections [create an anchor](#anchors-in-markdown)
+### Sections
 - [General knowledge links](#general-knowledge-links)
 - [Maker stuff](#maker-stuff)
 - [Cloud](#cloud)
