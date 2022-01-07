@@ -324,13 +324,18 @@
 - [VMWare Esxi on Proxmox-3](https://pve.proxmox.com/wiki/Nested_Virtualization)
 - [CPU's that support nested virtualization](https://www.reddit.com/r/virtualization/comments/8jhao3/nested_virtualization_which_cpus_can_do_it_cant/)
 
-#### VMWARE Labs
-- [VMWARE Hands On Labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)
+#### VMWare Workstation
+- [Install VMware ESXi VMvisor on VMware Workstation](https://systemzone.net/how-to-install-vmware-esxi-vmvisor-on-vmware-workstation/)
+- [Installing ESXi 7.0 on VMware Workstation 16](https://vinfrastructure.it/2020/04/installing-esxi-7-0-on-vmware-workstation/)
 - [VMWARE LABS 1-Nakivo Nested Lab](https://www.nakivo.com/blog/how-to-build-a-vsphere-7-0-home-lab/)
 - [VMWare LABS 2-Excellent Full Walkthrough, 10 Parts, VSpere 7](https://www.vmwarensxcloud.com/2021/05/Home%20Lab%20Step-by-Step%20Part-1.html)
 - [VMWare LABS 3-Another Excellent Full Walkthrough, 13 Parts, VSPhere 6](https://mgvmlabs.in/how-to-create-vmware-vsphere-6-home-lab/)
-- [VMWARE LABS 4-VSphere Lab With Tanzu](https://williamlam.com/2020/11/complete-vsphere-with-tanzu-homelab-with-just-32gb-of-memory.html)
 - [VMWare LABS 5-Nested lab, Jeffrey Kusters-Youtube](https://www.youtube.com/watch?v=7d1fwsVlOLI&list=PLF5eL3jdkBq7CAuCd-Eo8qiupcn7chfEX)
+- 
+
+#### VMWARE Labs
+- [VMWARE Hands On Labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)
+- [VMWARE LABS-VSphere Lab With Tanzu](https://williamlam.com/2020/11/complete-vsphere-with-tanzu-homelab-with-just-32gb-of-memory.html)
 - [Virtualize Pfsense on Esxi](https://glmdev.medium.com/how-to-set-up-virtualized-pfsense-on-vmware-esxi-6-x-2c2861b25931)
 
 #### VMWare Training
@@ -380,6 +385,8 @@
 - [Powercli license management-1](http://vcloud-lab.com/entries/esxi-installation-and-configuration/powercli-one-liner-reporting-assigning-and-removing-licenses-on-esxi)
 - [Powercli license management-2](https://www.starwindsoftware.com/blog/managing-vmware-vcenter-esxi-license-keys-with-powercli)
 - [Powercli license management-3](https://github.com/kunaludapi/Powercli/blob/master/License%20Information/Set-EsxiLicenses.ps1)
+- [Editing the .vmx file of a VMWare workstation machine](https://kb.vmware.com/s/article/2057902)
+- [Locating a hosted virtual machine's files](https://kb.vmware.com/s/article/1003880)
 
 #### VMWARE Performance
 - [VCSA with reduced memory](https://mulcas.com/how-to-install-vmware-vcsa-6-7-with-less-than-10gb-ram/)
