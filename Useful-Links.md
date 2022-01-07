@@ -331,7 +331,8 @@
 - [VMWare LABS 2-Excellent Full Walkthrough, 10 Parts, VSpere 7](https://www.vmwarensxcloud.com/2021/05/Home%20Lab%20Step-by-Step%20Part-1.html)
 - [VMWare LABS 3-Another Excellent Full Walkthrough, 13 Parts, VSPhere 6](https://mgvmlabs.in/how-to-create-vmware-vsphere-6-home-lab/)
 - [VMWare LABS 5-Nested lab, Jeffrey Kusters-Youtube](https://www.youtube.com/watch?v=7d1fwsVlOLI&list=PLF5eL3jdkBq7CAuCd-Eo8qiupcn7chfEX)
-- 
+- [Install VMWare Workstation on Rocky Linux 8](https://techviewleo.com/install-vmware-player-workstation-on-rocky-linux/)
+- [Install VMWare Workstation 16.x Pro on CentOS 8](https://computingforgeeks.com/install-vmware-workstation-on-centos/)
 
 #### VMWARE Labs
 - [VMWARE Hands On Labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)
