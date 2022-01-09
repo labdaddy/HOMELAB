@@ -182,6 +182,8 @@
 - [Lisenet-Homelab with Foreman and Katello](https://www.lisenet.com/2018/homelab-project-with-kvm-katello-and-puppet/)
 - [Linuxbuff RedHat Labs](https://linuxbuff.wordpress.com/tag/homelab/)
 - [STH: Homelab part one](https://www.servethehome.com/building-a-lab-part-1-planning-with-truenas-and-vmware-esxi/)
+- [STH: Homelab part two](https://www.servethehome.com/building-a-lab-part-2-building-our-network/)
+- [STH: Homelab part three](https://www.servethehome.com/building-a-lab-part-3-configuring-vmware-esxi-and-truenas-core/)
 - [SIEM Lab at home series](https://unicornsec.com/home/siem-home-lab-series-part-1)
 - [Self Hosted Blog](https://eevans.co/blog/garage/)
 
