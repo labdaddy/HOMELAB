@@ -177,9 +177,12 @@
 - [NFS vs iSCSI](https://www.promax.com/blog/whats-the-difference-nfs-vs-iscsi)
 
 #### Homelabs
-- [Linuxbuff RedHat Labs](https://linuxbuff.wordpress.com/tag/homelab/)
-- [Lisenet-Homelab with Foreman and Katello](https://www.lisenet.com/2018/homelab-project-with-kvm-katello-and-puppet/)
+- [Linux Upskill Challenge, Start here !](https://github.com/livialima/linuxupskillchallenge)
 - [How to homelab](https://www.dlford.io/tag/how-to-home-lab-series/)
+- [Lisenet-Homelab with Foreman and Katello](https://www.lisenet.com/2018/homelab-project-with-kvm-katello-and-puppet/)
+- [Linuxbuff RedHat Labs](https://linuxbuff.wordpress.com/tag/homelab/)
+- [STH: Homelab part one](https://www.servethehome.com/building-a-lab-part-1-planning-with-truenas-and-vmware-esxi/)
+- [SIEM Lab at home series](https://unicornsec.com/home/siem-home-lab-series-part-1)
 - [Self Hosted Blog](https://eevans.co/blog/garage/)
 
 
