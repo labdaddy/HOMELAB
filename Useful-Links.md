@@ -307,6 +307,7 @@
 - [Netbox, network documentation tool](https://netbox.readthedocs.io/en/stable/)
 
 #### Proxmox
+- [Fix cannot shutdown VM in Proxmox](https://dannyda.com/2020/05/11/how-to-fix-proxmox-pve-cant-lock-file-var-lock-qemu-server-lock-xxx-conf-got-timeout-proxmox-cant-shutdown-virtual-machine/)
 - [Firewall on Proxmox with single nic pc](https://forum.proxmox.com/threads/setting-up-pfsense-with-one-nic.68179/)
 - [Firewall on Proxmox with single nic, additional](https://forum.proxmox.com/threads/proxmox-running-pfsense-fw-with-single-nic.63807/)
 - [Install proxmox and setup a ZFS pool](https://blog.quindorian.org/2019/08/how-to-install-proxmox-and-setup-a-zfs-pool.html/)
