@@ -14,7 +14,7 @@
 - [ZFS](#zfs)
 - [Storage](#storage)
 - [Homelabs](#homelab-labs)
-- [Servers](#servers-and-gear)
+- [Servers and Gear](#servers-and-gear)
 - [CCTV](#cctv)
 - [Self Hosting](#self-hosted)
 - [Pfsense firewall](#pfsense-firewall)
