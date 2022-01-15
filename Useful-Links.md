@@ -10,9 +10,12 @@
 - [Kubernetes](#kubernetes)
 - [Devops](#devops)
 - [Windows and powershell](#windows-and-powershell)
+- [RAID](#raid)
+- [ZFS](#zfs)
 - [Storage](#storage)
-- [Homelabs](#homelabs)
-- [Servers](#servers)
+- [Homelabs](#homelab-labs)
+- [Servers](#servers-and-gear)
+- [CCTV](#cctv)
 - [Self Hosting](#self-hosted)
 - [Pfsense firewall](#pfsense-firewall)
 - [Sophos firewalls](#sophos-firewalls)
@@ -150,34 +153,39 @@
 - [Windows Server EVAL ISO Images](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
 - [Reset Windows Server EVAL License](https://www.hyper-v.io/reset-120-day-rds-grace-period-windows-server-2016-without-gui/)
 
-#### Storage
+#### RAID
 - [RAID calculator](https://www.raid-calculator.com/default.aspx)
 - [RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/RAID_setup)
 - [More RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/RAID_setup)
 - [Even more RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/Hardware_issues)
-- [Battle testing mdadm, ZFS, BTRfs](https://www.unixsheikh.com/articles/battle-testing-data-integrity-verification-with-zfs-btrfs-and-mdadm-dm-integrity.html)
 - [Raid at the Archlinux Wiki](https://wiki.archlinux.org/title/RAID)
+- [More RAID info](https://www.steadfast.net/blog/almost-everything-you-need-know-about-raid)
+- [SnapRaid, Perfect Media Server](https://perfectmediaserver.com/tech-stack/snapraid.html)
+- [Best RAID configurations](https://www.hostdime.com/blog/best-raid-configuration/)
+- [Understanding RAID](https://arstechnica.com/information-technology/2020/04/understanding-raid-how-performance-scales-from-one-disk-to-eight/)
+- [Selecting RAID Levels](https://docs.oracle.com/cd/E19871-01/820-1847-20/appendixf.html)
+- [Linux Software RAID at Thomas Krenn Blog](https://www.thomas-krenn.com/en/wiki/Linux_Software_RAID_Information)
+- [RAID related links (old)](https://mangolassi.it/topic/121/raid-link-blast)
+
+#### ZFS
+- [Battle testing mdadm, ZFS, BTRfs](https://www.unixsheikh.com/articles/battle-testing-data-integrity-verification-with-zfs-btrfs-and-mdadm-dm-integrity.html)
+- [More battle testing ZFS and mdadm](https://arstechnica.com/gadgets/2020/05/zfs-versus-raid-eight-ironwolf-disks-two-filesystems-one-winner/)
 - [Intro to ZFS (excellent)](https://www.truenas.com/community/resources/introduction-to-zfs.111/)
 - [ZREP, ZFS based real time sync and failover !](http://www.bolthole.com/solaris/zrep/)
 - [ZFS 101](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/)
-- [Understanding RAID](https://arstechnica.com/information-technology/2020/04/understanding-raid-how-performance-scales-from-one-disk-to-eight/)
 - [ZFS search results on dannyda.com](https://dannyda.com/?s=Zfs)
 - [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
 - [Configure ZFS on Ubuntu](https://linuxconfig.org/configuring-zfs-on-ubuntu-20-04)
 - [Battle testing mdadm, ZFS, BTRfs](https://www.unixsheikh.com/articles/battle-testing-data-integrity-verification-with-zfs-btrfs-and-mdadm-dm-integrity.html)
-- [Raid at the Archlinux Wiki](https://wiki.archlinux.org/title/RAID)
-- [Linux Software RAID at Thomas Krenn Blog](https://www.thomas-krenn.com/en/wiki/Linux_Software_RAID_Information)
-- [RAID related links (old)](https://mangolassi.it/topic/121/raid-link-blast)
-- [More RAID info](https://www.steadfast.net/blog/almost-everything-you-need-know-about-raid)
-- [SnapRaid, Perfect Media Server](https://perfectmediaserver.com/tech-stack/snapraid.html)
-- [Best RAID configurations](https://www.hostdime.com/blog/best-raid-configuration/)
-- [Selecting RAID Levels](https://docs.oracle.com/cd/E19871-01/820-1847-20/appendixf.html)
+
+#### Storage
+- [TrueNAS at home](https://www.johnkeen.tech/truenas-12-esxi-home-lab-storage-design/)
 - [Why 3-2-1 Backup Sucks](https://www.unitrends.com/blog/3-2-1-backup-sucks)
 - [Difference between NFS and iSCSI](https://www.usenix.org/legacy/publications/library/proceedings/fast04/tech/full_papers/radkov/radkov_html/node5.html)
 - [Difference between NVME and M.2](https://www.velocitymicro.com/blog/nvme-vs-m-2-vs-sata-whats-the-difference/)
 - [NFS vs iSCSI](https://www.promax.com/blog/whats-the-difference-nfs-vs-iscsi)
 
-#### Homelabs
+#### Homelab LABS
 - [Linux Upskill Challenge, Start here !](https://github.com/livialima/linuxupskillchallenge)
 - [How to homelab](https://www.dlford.io/tag/how-to-home-lab-series/)
 - [Lisenet-Homelab with Foreman and Katello](https://www.lisenet.com/2018/homelab-project-with-kvm-katello-and-puppet/)
@@ -188,15 +196,19 @@
 - [SIEM Lab at home series](https://unicornsec.com/home/siem-home-lab-series-part-1)
 - [Self Hosted Blog](https://eevans.co/blog/garage/)
 
-
-#### Servers
+#### Servers and Gear
 - [Intel CPU/ Socket Compendium (from JDM_WAAAT)](https://docs.google.com/spreadsheets/d/1LqQvwXoqhcft6dpMGgIF21XhqijBACOe9nU8cVK6Llk/htmlview)
 - [Understanding AMD processor names](https://glennsqlperformance.com/2020/07/22/understanding-amd-processor-names/)
 - [HP Microserver Gen8 additional drives upgrade](https://homeservershow.com/forums/topic/5960-hp-ms-g8-25-drive-bracket-revision-history-new-rev-35-and-rev-4-info/page/01/)
 - [HP Microserver CPU Info](https://n40l.fandom.com/wiki/Cpu_gen8)
+- [HP Microserver compatibility guide](https://blog.voina.org/hp-microserver-gen8-compatibility-list/)
 - [HP Microserver Links and General Info](https://homeservershow.com/forums/topic/5639-proliant-microserver-gen8-links/?/topic/5639-proliant-microserver-gen8-links/?p=62204)
 - [DIY EconoNAS](https://blog.briancmoses.com/2020/12/diy-nas-econonas-2020.html)
 - [SuperMicro X9SRI-F, Wiert corner blog](https://wiert.me/category/power-user/hardware/mainboards/supermicro/x9sri-3f/)
+
+#### CCTV
+- [NVR Storage calculator](https://www.getscw.com/cctv-record-time-calculator.php)
+- 
 
 #### Self Hosted
 - [Intro to self hosting](https://georgev.design/blog/intro-to-self-hosting-how-to-get-started-hosting-your-applications)
