@@ -160,6 +160,7 @@
 - [Intro to ZFS (excellent)](https://www.truenas.com/community/resources/introduction-to-zfs.111/)
 - [ZREP, ZFS based real time sync and failover !](http://www.bolthole.com/solaris/zrep/)
 - [ZFS 101](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/)
+- [Understanding RAID](https://arstechnica.com/information-technology/2020/04/understanding-raid-how-performance-scales-from-one-disk-to-eight/)
 - [ZFS search results on dannyda.com](https://dannyda.com/?s=Zfs)
 - [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
 - [Configure ZFS on Ubuntu](https://linuxconfig.org/configuring-zfs-on-ubuntu-20-04)
