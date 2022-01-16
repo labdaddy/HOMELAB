@@ -13,7 +13,7 @@
 - [RAID](#raid)
 - [ZFS](#zfs)
 - [Storage](#storage)
-- [Homelabs](#homelab-labs)
+- [Homelabs General](#homelabs-general)
 - [VMWare labs](#vmware-labs)
 - [Servers and Gear](#servers-and-gear)
 - [CCTV](#cctv)
@@ -186,7 +186,7 @@
 - [Difference between NVME and M.2](https://www.velocitymicro.com/blog/nvme-vs-m-2-vs-sata-whats-the-difference/)
 - [NFS vs iSCSI](https://www.promax.com/blog/whats-the-difference-nfs-vs-iscsi)
 
-#### Homelab LABS
+#### Homelabs General
 - [Linux Upskill Challenge, Start here !](https://github.com/livialima/linuxupskillchallenge)
 - [How to homelab](https://www.dlford.io/tag/how-to-home-lab-series/)
 - [Lisenet-Homelab with Foreman and Katello](https://www.lisenet.com/2018/homelab-project-with-kvm-katello-and-puppet/)
