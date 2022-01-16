@@ -219,7 +219,6 @@
 
 #### CCTV
 - [NVR Storage calculator](https://www.getscw.com/cctv-record-time-calculator.php)
-- 
 
 #### Self Hosted
 - [Intro to self hosting](https://georgev.design/blog/intro-to-self-hosting-how-to-get-started-hosting-your-applications)
