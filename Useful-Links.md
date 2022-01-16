@@ -14,7 +14,7 @@
 - [ZFS](#zfs)
 - [Storage](#storage)
 - [Homelabs General](#homelabs-general)
-- [VMWare labs](#vmware-labs)
+- [Homelabs VMWare](#homelabs-vmware)
 - [Servers and Gear](#servers-and-gear)
 - [CCTV](#cctv)
 - [Self Hosting](#self-hosted)
@@ -197,7 +197,7 @@
 - [SIEM Lab at home series](https://unicornsec.com/home/siem-home-lab-series-part-1)
 - [Self Hosted Blog](https://eevans.co/blog/garage/)
 
-#### VMWARE Labs
+#### Homelabs VMWare
 - [William Lam Homelab Considerations](https://williamlam.com/2020/03/homelab-considerations-for-vsphere-7.html)
 - [VMWARE LABS 1-Nakivo Nested Lab](https://www.nakivo.com/blog/how-to-build-a-vsphere-7-0-home-lab/)
 - [VMWare LABS 2-Excellent Full Walkthrough, 10 Parts, VSpere 7](https://www.vmwarensxcloud.com/2021/05/Home%20Lab%20Step-by-Step%20Part-1.html)
