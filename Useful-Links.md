@@ -347,15 +347,15 @@
 #### VMWare Workstation
 - [Install VMware ESXi VMvisor on VMware Workstation](https://systemzone.net/how-to-install-vmware-esxi-vmvisor-on-vmware-workstation/)
 - [Installing ESXi 7.0 on VMware Workstation 16](https://vinfrastructure.it/2020/04/installing-esxi-7-0-on-vmware-workstation/)
-- [VMWARE LABS 1-Nakivo Nested Lab](https://www.nakivo.com/blog/how-to-build-a-vsphere-7-0-home-lab/)
-- [VMWare LABS 2-Excellent Full Walkthrough, 10 Parts, VSpere 7](https://www.vmwarensxcloud.com/2021/05/Home%20Lab%20Step-by-Step%20Part-1.html)
-- [VMWare LABS 3-Another Excellent Full Walkthrough, 13 Parts, VSPhere 6](https://mgvmlabs.in/how-to-create-vmware-vsphere-6-home-lab/)
-- [VMWare LABS 5-Nested lab, Jeffrey Kusters-Youtube](https://www.youtube.com/watch?v=7d1fwsVlOLI&list=PLF5eL3jdkBq7CAuCd-Eo8qiupcn7chfEX)
 - [Install VMWare Workstation on Rocky Linux 8](https://techviewleo.com/install-vmware-player-workstation-on-rocky-linux/)
 - [Install VMWare Workstation 16.x Pro on CentOS 8](https://computingforgeeks.com/install-vmware-workstation-on-centos/)
 
 #### VMWARE Labs
 - [William Lam Homelab Considerations](https://williamlam.com/2020/03/homelab-considerations-for-vsphere-7.html)
+- [VMWARE LABS 1-Nakivo Nested Lab](https://www.nakivo.com/blog/how-to-build-a-vsphere-7-0-home-lab/)
+- [VMWare LABS 2-Excellent Full Walkthrough, 10 Parts, VSpere 7](https://www.vmwarensxcloud.com/2021/05/Home%20Lab%20Step-by-Step%20Part-1.html)
+- [VMWare LABS 3-Another Excellent Full Walkthrough, 13 Parts, VSPhere 6](https://mgvmlabs.in/how-to-create-vmware-vsphere-6-home-lab/)
+- [VMWare LABS 5-Nested lab, Jeffrey Kusters-Youtube](https://www.youtube.com/watch?v=7d1fwsVlOLI&list=PLF5eL3jdkBq7CAuCd-Eo8qiupcn7chfEX)
 - [VMWARE Hands On Labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)
 - [VMWARE LABS-VSphere Lab With Tanzu](https://williamlam.com/2020/11/complete-vsphere-with-tanzu-homelab-with-just-32gb-of-memory.html)
 - [Virtualize Pfsense on Esxi](https://glmdev.medium.com/how-to-set-up-virtualized-pfsense-on-vmware-esxi-6-x-2c2861b25931)
@@ -400,6 +400,7 @@
 - [VSphere 6.7 Search Results on Virtualizationhowto.com](https://www.virtualizationhowto.com/category/virtualization/vmware/vsphere-6-7/)
 - [William Lam, nested ESXi section](https://williamlam.com/nested-virtualization)
 - [Vsphere client 2021](https://vmiss.net/vmware-vsphere-client/)
+- 
 #### VMWARE Licensing
 - [Reset ESXi 6.7 Evaluation License](https://zewwy.ca/index.php/2019/09/19/reset-esxi-trial-license/)
 - [Reset evaluation license-cron script](https://calvin.me/reset-esxi-evaluation-license)
