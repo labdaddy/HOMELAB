@@ -220,15 +220,14 @@
 
 #### CCTV
 - [NVR Storage calculator](https://www.getscw.com/cctv-record-time-calculator.php)
-
-#### Self Hosted
-- [Intro to self hosting](https://georgev.design/blog/intro-to-self-hosting-how-to-get-started-hosting-your-applications)
-- [Phone backups with Syncthing](https://jonathanmenahem.digital/setting-up-truenas-to-backup-files-from-android-phone-using-syncthing/)
 - [Camera storage calculator](https://www.westerndigital.com/tools/surveillance-capacity-calculator)
 - [Open source CCTV software](https://learncctv.com/open-source-cctv-software/)
 - [Even more open source CCTV software](https://medevel.com/10-cctv-open-source-solutions/)
 - [Zoneminder, Motioneye, Shinobi comparison](https://community.home-assistant.io/t/my-opinion-zoneminder-vs-motioneye-vs-shinobi/316831)
 
+#### Self Hosted
+- [Intro to self hosting](https://georgev.design/blog/intro-to-self-hosting-how-to-get-started-hosting-your-applications)
+- [Phone backups with Syncthing](https://jonathanmenahem.digital/setting-up-truenas-to-backup-files-from-android-phone-using-syncthing/)
 
 #### Pfsense Firewall
 - [Converting single NIC mini-pc into pfSense router/firewall](https://www.joe0.com/2019/11/16/converting-single-nic-mini-pc-into-pfsense-router-firewall-by-using-virtual-lan-configuration-on-a-managed-switch/)
