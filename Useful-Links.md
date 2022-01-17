@@ -36,6 +36,7 @@
 #### General Knowledge Links
 - [Mastermnd Academy](https://academy.mastermnd.io/)
 - [Ops School](https://www.opsschool.org/)
+- [Amazing, bite sized tutorials on everything !](https://techexpert.tips/tutorial/)
 - [Situational behavior impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/)
 - [Iximiuz, many articles](https://iximiuz.com/en/)
 - [Katacoda](https://www.katacoda.com/)
@@ -348,6 +349,7 @@
 - [Proxmox on ESXi](https://blog.gnu-designs.com/howto-run-proxmox-6-3-under-vmware-esxi-with-networked-guest-instances/)
 - [Proxmox on ESXi, additional](https://forum.proxmox.com/threads/trying-to-run-vms-on-nested-esxi-6-7-under-proxmox-6-2-getting-this-host-does-not-support-intel-vt-x.83036/)
 - [Nested virtualization](https://pve.proxmox.com/wiki/Nested_Virtualization)
+- [Nested ESXi Virtual Appliance](https://williamlam.com/nested-virtualization/nested-esxi-virtual-appliance)
 - [Enable nested virtualization on proxmox](https://dannyda.com/2020/09/21/how-to-enable-nested-hypervisor-virtualization-on-proxmox-ve-pve/)
 - [VMWare Esxi on Proxmox-1](https://dannyda.com/2020/12/17/how-to-install-use-test-vmware-vsphere-7-0-esxi-7-0-on-proxmox-ve-6-3-3-pve/)
 - [VMWare Esxi on Proxmox-2](https://gist.github.com/bgulla/2421b589de4b4b75e83ac79b17f0fc85)
