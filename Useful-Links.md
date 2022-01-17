@@ -229,6 +229,7 @@
 #### Self Hosted
 - [Intro to self hosting](https://georgev.design/blog/intro-to-self-hosting-how-to-get-started-hosting-your-applications)
 - [Phone backups with Syncthing](https://jonathanmenahem.digital/setting-up-truenas-to-backup-files-from-android-phone-using-syncthing/)
+- [Set Up Your Own Nextcloud Server](https://kiramclean.com/blog/how-to-set-up-your-own-nextcloud-server/)
 
 #### Pfsense Firewall
 - [Converting single NIC mini-pc into pfSense router/firewall](https://www.joe0.com/2019/11/16/converting-single-nic-mini-pc-into-pfsense-router-firewall-by-using-virtual-lan-configuration-on-a-managed-switch/)
