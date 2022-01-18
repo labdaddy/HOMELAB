@@ -170,6 +170,9 @@
 - [RAID related links (old)](https://mangolassi.it/topic/121/raid-link-blast)
 
 #### ZFS
+- [Jen Peterson ZFS Blog](https://jenpeterson.net/zfs-blog/)
+- [DIY Tech Guru, ZFS archives](https://www.diytechguru.com/tag/zfs/)
+- [Finally figured out ZFS on proxmox](https://www.reddit.com/r/Proxmox/comments/qj1qxn/finally_figured_out_zfs_on_proxmox/)
 - [Battle testing mdadm, ZFS, BTRfs](https://www.unixsheikh.com/articles/battle-testing-data-integrity-verification-with-zfs-btrfs-and-mdadm-dm-integrity.html)
 - [More battle testing ZFS and mdadm](https://arstechnica.com/gadgets/2020/05/zfs-versus-raid-eight-ironwolf-disks-two-filesystems-one-winner/)
 - [Intro to ZFS (excellent)](https://www.truenas.com/community/resources/introduction-to-zfs.111/)
@@ -220,6 +223,7 @@
 - [SuperMicro X9SRI-F, Wiert corner blog](https://wiert.me/category/power-user/hardware/mainboards/supermicro/x9sri-3f/)
 
 #### CCTV
+- [What is ONVIF](https://learncctv.com/what-is-onvif/)
 - [NVR Storage calculator](https://www.getscw.com/cctv-record-time-calculator.php)
 - [Camera storage calculator](https://www.westerndigital.com/tools/surveillance-capacity-calculator)
 - [Open source CCTV software](https://learncctv.com/open-source-cctv-software/)
@@ -345,6 +349,7 @@
 - [Linux Bridge vs OpenVSwitch](https://ioflood.com/blog/2021/07/08/linux-bridge-vs-openvswitch-how-to-improve-virtualization-network-performance/)
 - [Proxmox Networking 2 STH](https://www.servethehome.com/how-to-change-primary-proxmox-ve-ip-address/)
 - [Sophos on Proxmox](https://warroom.rsmus.com/building-a-lab-network-in-proxmox/)
+- [DannyDA proxmox archives](https://dannyda.com/category/technology/operating-system/proxmox/)
 
 #### Nested Virtualization
 - [Proxmox on ESXi](https://blog.gnu-designs.com/howto-run-proxmox-6-3-under-vmware-esxi-with-networked-guest-instances/)
