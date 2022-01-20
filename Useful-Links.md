@@ -184,6 +184,8 @@
 - [Battle testing mdadm, ZFS, BTRfs](https://www.unixsheikh.com/articles/battle-testing-data-integrity-verification-with-zfs-btrfs-and-mdadm-dm-integrity.html)
 
 #### Storage
+- [Storage training (free!) youtube channel](https://www.youtube.com/c/Reclaime/playlists)
+- [Storage training (free!) website](http://www.data.recovery.training/)
 - [TrueNAS at home](https://www.johnkeen.tech/truenas-12-esxi-home-lab-storage-design/)
 - [TrueNAS for phone backups](https://jonathanmenahem.digital/setting-up-truenas-to-backup-files-from-android-phone-using-syncthing/)
 - [Why 3-2-1 Backup Sucks](https://www.unitrends.com/blog/3-2-1-backup-sucks)
