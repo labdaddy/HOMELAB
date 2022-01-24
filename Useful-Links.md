@@ -1,6 +1,7 @@
 # Useful Links 
 ## Sections
 - [General knowledge links](#general-knowledge-links)
+- [Programming Stuff](#programming-stuff)
 - [Maker stuff](#maker-stuff)
 - [Cloud](#cloud)
 - [Linux](#linux)
@@ -52,6 +53,14 @@
 - [TP-Link Tutorials](https://techexpert.tips/category/tp-link/)
 - [APC UPS Tutorials](https://techexpert.tips/category/apc/)
 - [Network UPS Tools](https://psychogun.github.io/docs/pfsense/Network-UPS-Tools/)
+
+#### Programming Stuff
+- [Composing Programs](https://composingprograms.com/)
+- [Reddit Learn Programming Sub](https://www.reddit.com/r/learnprogramming/wiki/faq/)
+- [OSSU github](https://github.com/ossu/computer-science)
+- [Teach Yourself CS](https://teachyourselfcs.com/)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md)
+- [Imposters Handbook reference links](https://gist.github.com/milmazz/0e5a98e47143ee1cda90f62d75f15056)
 
 #### Maker Stuff
 - [Raspberyy Pi](https://www.raspberrypi.org/)
