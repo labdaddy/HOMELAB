@@ -13,6 +13,7 @@
 - [Windows and powershell](#windows-and-powershell)
 - [RAID](#raid)
 - [ZFS](#zfs)
+- [TrueNAS](#truenas)
 - [Storage](#storage)
 - [Homelabs General](#homelabs-general)
 - [Homelabs VMWare](#homelabs-vmware)
@@ -191,6 +192,20 @@
 - [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
 - [Configure ZFS on Ubuntu](https://linuxconfig.org/configuring-zfs-on-ubuntu-20-04)
 - [Battle testing mdadm, ZFS, BTRfs](https://www.unixsheikh.com/articles/battle-testing-data-integrity-verification-with-zfs-btrfs-and-mdadm-dm-integrity.html)
+
+#### TrueNAS
+- [Link to useful threads](https://www.truenas.com/community/resources/links-to-useful-threads.108/)
+- [SCALE hardware guide](https://www.truenas.com/docs/scale/introduction/scalehardwareguide/)
+- [Explanatory slideshow](https://www.truenas.com/community/threads/slideshow-explaining-vdev-zpool-zil-and-l2arc-for-noobs.7775/)
+- [The hidden cost of using ZFS](https://louwrentius.com/the-hidden-cost-of-using-zfs-for-your-home-nas.html)
+- [ZFS terminology](https://www.truenas.com/community/threads/terminology-and-abbreviations-primer.28174/)
+- [Power supply sizing and details](https://www.truenas.com/community/threads/proper-power-supply-sizing-guidance.38811/)
+- [SAS drive info](https://www.truenas.com/community/resources/dont-be-afraid-to-be-sas-sy-a-primer-on-basic-sas-and-sata.48/)
+- [LSI card info](https://www.truenas.com/community/threads/confused-about-that-lsi-card-join-the-crowd.11901/)
+- [Building, burn in and testing](https://www.truenas.com/community/resources/building-burn-in-and-testing-your-freenas-system.38/)
+- [Github repo FreeNAS/ TrueNAS scripts](https://www.truenas.com/community/resources/github-repository-for-freenas-scripts-including-disk-burnin-and-rsync-support.28/)
+- [Some commands (may or may not be useful](https://www.truenas.com/community/threads/useful-commands.30314/#post-195192)
+- [Hard drive troubleshooting](https://www.truenas.com/community/resources/hard-drive-troubleshooting-guide-all-versions-of-freenas.17/)
 
 #### Storage
 - [Storage training (free!) youtube channel](https://www.youtube.com/c/Reclaime/playlists)
