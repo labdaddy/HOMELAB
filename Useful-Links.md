@@ -206,12 +206,12 @@
 - [Github repo FreeNAS/ TrueNAS scripts](https://www.truenas.com/community/resources/github-repository-for-freenas-scripts-including-disk-burnin-and-rsync-support.28/)
 - [Some commands (may or may not be useful](https://www.truenas.com/community/threads/useful-commands.30314/#post-195192)
 - [Hard drive troubleshooting](https://www.truenas.com/community/resources/hard-drive-troubleshooting-guide-all-versions-of-freenas.17/)
+- [TrueNAS at home](https://www.johnkeen.tech/truenas-12-esxi-home-lab-storage-design/)
+- [TrueNAS for phone backups](https://jonathanmenahem.digital/setting-up-truenas-to-backup-files-from-android-phone-using-syncthing/)
 
 #### Storage
 - [Storage training (free!) youtube channel](https://www.youtube.com/c/Reclaime/playlists)
 - [Storage training (free!) website](http://www.data.recovery.training/)
-- [TrueNAS at home](https://www.johnkeen.tech/truenas-12-esxi-home-lab-storage-design/)
-- [TrueNAS for phone backups](https://jonathanmenahem.digital/setting-up-truenas-to-backup-files-from-android-phone-using-syncthing/)
 - [Why 3-2-1 Backup Sucks](https://www.unitrends.com/blog/3-2-1-backup-sucks)
 - [Difference between NFS and iSCSI](https://www.usenix.org/legacy/publications/library/proceedings/fast04/tech/full_papers/radkov/radkov_html/node5.html)
 - [Difference between NVME and M.2](https://www.velocitymicro.com/blog/nvme-vs-m-2-vs-sata-whats-the-difference/)
