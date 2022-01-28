@@ -165,7 +165,7 @@
 - [Reset Windows Server EVAL License](https://www.hyper-v.io/reset-120-day-rds-grace-period-windows-server-2016-without-gui/)
 
 #### RAID
-- [RAID calculator](https://www.raid-calculator.com/default.aspx)
+- [RAID capacity calculator](https://wintelguy.com/raidcalc.pl)
 - [RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/RAID_setup)
 - [More RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/RAID_setup)
 - [Even more RAID info from RAID wiki](https://raid.wiki.kernel.org/index.php/Hardware_issues)
@@ -179,6 +179,7 @@
 - [RAID related links (old)](https://mangolassi.it/topic/121/raid-link-blast)
 
 #### ZFS
+- [ZFS capacity calculator](https://wintelguy.com/zfs-calc.pl)
 - [Jen Peterson ZFS Blog](https://jenpeterson.net/zfs-blog/)
 - [DIY Tech Guru, ZFS archives](https://www.diytechguru.com/tag/zfs/)
 - [Finally figured out ZFS on proxmox](https://www.reddit.com/r/Proxmox/comments/qj1qxn/finally_figured_out_zfs_on_proxmox/)
