@@ -177,6 +177,10 @@
 - [Selecting RAID Levels](https://docs.oracle.com/cd/E19871-01/820-1847-20/appendixf.html)
 - [Linux Software RAID at Thomas Krenn Blog](https://www.thomas-krenn.com/en/wiki/Linux_Software_RAID_Information)
 - [RAID related links (old)](https://mangolassi.it/topic/121/raid-link-blast)
+- [mdadm man page](https://www.supermicro.com/products/motherboard/xeon/c202_c204/x9scm-f.cfm)
+- [mdadm guide](https://raid.wiki.kernel.org/index.php/A_guide_to_mdadm)
+- [mdadm cheat sheet](https://www.ducea.com/2009/03/08/mdadm-cheat-sheet/)
+
 
 #### ZFS
 - [ZFS capacity calculator](https://wintelguy.com/zfs-calc.pl)
