@@ -179,8 +179,8 @@
 - [RAID related links (old)](https://mangolassi.it/topic/121/raid-link-blast)
 - [mdadm man page](https://www.supermicro.com/products/motherboard/xeon/c202_c204/x9scm-f.cfm)
 - [mdadm guide](https://raid.wiki.kernel.org/index.php/A_guide_to_mdadm)
-- [mdadm cheat sheet](https://www.ducea.com/2009/03/08/mdadm-cheat-sheet/)
-- [mdadm cheat sheet (newer)](https://cheatography.com/drapja/cheat-sheets/linux-raid-with-mdadm/)
+
+- [mdadm cheat sheet](https://cheatography.com/drapja/cheat-sheets/linux-raid-with-mdadm/)
 - [Digital Ocean, intro to RAID](https://www.digitalocean.com/community/tutorials/an-introduction-to-raid-terminology-and-concepts)
 - [Digital Ocean, creating RAID arrays with mdadm](https://www.digitalocean.com/community/tutorials/how-to-create-raid-arrays-with-mdadm-on-ubuntu-16-04)
 - [Digital Ocean, managing RAID arrays in mdadm]()
