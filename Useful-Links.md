@@ -93,6 +93,7 @@
 - [RHEL 8 partitioning](https://gursimar27.medium.com/increase-or-decrease-the-size-of-static-partition-in-linux-c5f615b2bf04)
 - [Linux run out of inodes](https://www.ctrl.blog/entry/how-to-all-out-of-inodes.html)
 - [Ubuntu Tutorials](https://techexpert.tips/category/ubuntu/)
+- [Calomel, linux and BSD stuff](https://calomel.org/)
 
 #### Observability
 - [Setting up Zabbix](https://ogdenslake.ca/2021/03/04/setting-up-zabbix/)
@@ -187,19 +188,13 @@
 
 
 ### ZFS
-- [ZFS capacity calculator](https://wintelguy.com/zfs-calc.pl)
-- [Jen Peterson ZFS Blog](https://jenpeterson.net/zfs-blog/)
-- [DIY Tech Guru, ZFS archives](https://www.diytechguru.com/tag/zfs/)
-- [Finally figured out ZFS on proxmox](https://www.reddit.com/r/Proxmox/comments/qj1qxn/finally_figured_out_zfs_on_proxmox/)
-- [Battle testing mdadm, ZFS, BTRfs](https://www.unixsheikh.com/articles/battle-testing-data-integrity-verification-with-zfs-btrfs-and-mdadm-dm-integrity.html)
-- [More battle testing ZFS and mdadm](https://arstechnica.com/gadgets/2020/05/zfs-versus-raid-eight-ironwolf-disks-two-filesystems-one-winner/)
-- [Intro to ZFS (excellent)](https://www.truenas.com/community/resources/introduction-to-zfs.111/)
-- [ZREP, ZFS based real time sync and failover !](http://www.bolthole.com/solaris/zrep/)
 - [ZFS 101](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/)
+- [Intro to ZFS (excellent)](https://www.truenas.com/community/resources/introduction-to-zfs.111/)
+- [Jen Peterson ZFS tutorial](https://jenpeterson.net/zfs-blog/)
+- [Chris's blog (some ZFS entries)](https://utcc.utoronto.ca/~cks/space/blog/solaris/)
+- [ZFS capacity calculator](https://wintelguy.com/zfs-calc.pl)
+- [ZREP, ZFS based real time sync and failover !](http://www.bolthole.com/solaris/zrep/)
 - [ZFS search results on dannyda.com](https://dannyda.com/?s=Zfs)
-- [Ubuntu with ZFS](https://linuxconfig.org/install-ubuntu-20-04-with-zfs)
-- [Configure ZFS on Ubuntu](https://linuxconfig.org/configuring-zfs-on-ubuntu-20-04)
-- [Battle testing mdadm, ZFS, BTRfs](https://www.unixsheikh.com/articles/battle-testing-data-integrity-verification-with-zfs-btrfs-and-mdadm-dm-integrity.html)
 
 #### TrueNAS
 - [Link to useful threads](https://www.truenas.com/community/resources/links-to-useful-threads.108/)
