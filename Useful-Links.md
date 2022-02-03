@@ -12,6 +12,7 @@
 - [Devops](#devops)
 - [Windows and powershell](#windows-and-powershell)
 - [RAID](#raid)
+- [MDADM](#mdadm)
 - [ZFS](#zfs)
 - [TrueNAS](#truenas)
 - [Storage](#storage)
@@ -178,23 +179,29 @@
 - [Selecting RAID Levels](https://docs.oracle.com/cd/E19871-01/820-1847-20/appendixf.html)
 - [Linux Software RAID at Thomas Krenn Blog](https://www.thomas-krenn.com/en/wiki/Linux_Software_RAID_Information)
 - [RAID related links (old)](https://mangolassi.it/topic/121/raid-link-blast)
-- [mdadm man page](https://www.supermicro.com/products/motherboard/xeon/c202_c204/x9scm-f.cfm)
-- [mdadm guide](https://raid.wiki.kernel.org/index.php/A_guide_to_mdadm)
 
+#### MDADM
+- [mdadm man page](https://linux.die.net/man/8/mdadm)
+- [mdadm guide](https://raid.wiki.kernel.org/index.php/A_guide_to_mdadm)
+- [Linux RAID (mdadm)](https://raid.wiki.kernel.org/index.php/Linux_Raid#Overview)
 - [mdadm cheat sheet](https://cheatography.com/drapja/cheat-sheets/linux-raid-with-mdadm/)
+- [Digital Ocean, intro to storage terminology and concepts](https://www.digitalocean.com/community/tutorials/an-introduction-to-storage-terminology-and-concepts-in-linux)
 - [Digital Ocean, intro to RAID](https://www.digitalocean.com/community/tutorials/an-introduction-to-raid-terminology-and-concepts)
-- [Digital Ocean, creating RAID arrays with mdadm](https://www.digitalocean.com/community/tutorials/how-to-create-raid-arrays-with-mdadm-on-ubuntu-16-04)
-- [Digital Ocean, managing RAID arrays in mdadm]()
+- [Digital Ocean, creating RAID arrays with mdadm, Ubuntu 16](https://www.digitalocean.com/community/tutorials/how-to-create-raid-arrays-with-mdadm-on-ubuntu-16-04)
+- [Digital Ocean, creating RAID arrays with mdadm, Ubuntu 18 (newer)](https://www.digitalocean.com/community/tutorials/how-to-create-raid-arrays-with-mdadm-on-ubuntu-18-04)
+- [Digital Ocean, creating RAID arrays with mdadm, Debian 9](https://www.digitalocean.com/community/tutorials/how-to-create-raid-arrays-with-mdadm-on-debian-9)
+- [Digital Ocean, managing RAID arrays in mdadm, Ubuntu 16](https://www.digitalocean.com/community/tutorials/how-to-manage-raid-arrays-with-mdadm-on-ubuntu-16-04)
 
 
 ### ZFS
+- [ZFS capacity calculator](https://wintelguy.com/zfs-calc.pl)
 - [ZFS 101](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/)
 - [Intro to ZFS (excellent)](https://www.truenas.com/community/resources/introduction-to-zfs.111/)
 - [Jen Peterson ZFS tutorial](https://jenpeterson.net/zfs-blog/)
 - [Chris's blog (some ZFS entries)](https://utcc.utoronto.ca/~cks/space/blog/solaris/)
-- [ZFS capacity calculator](https://wintelguy.com/zfs-calc.pl)
-- [ZREP, ZFS based real time sync and failover !](http://www.bolthole.com/solaris/zrep/)
 - [ZFS search results on dannyda.com](https://dannyda.com/?s=Zfs)
+- [ZREP, ZFS based real time sync and failover !](http://www.bolthole.com/solaris/zrep/)
+- [ZFS technical writeup](https://www.delphix.com/blog/delphix-engineering/zfs-raidz-stripe-width-or-how-i-learned-stop-worrying-and-love-raidz)
 
 #### TrueNAS
 - [Link to useful threads](https://www.truenas.com/community/resources/links-to-useful-threads.108/)
