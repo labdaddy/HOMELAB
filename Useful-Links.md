@@ -269,6 +269,10 @@
 - [Open source CCTV software](https://learncctv.com/open-source-cctv-software/)
 - [Even more open source CCTV software](https://medevel.com/10-cctv-open-source-solutions/)
 - [Zoneminder, Motioneye, Shinobi comparison](https://community.home-assistant.io/t/my-opinion-zoneminder-vs-motioneye-vs-shinobi/316831)
+- [Codec types explained](https://www.getscw.com/knowledge-base/mjpeg-h-264-h-265)
+- [H.264 vs H.265](https://securitycamcenter.com/h-264-h-265-cctv-systems/)
+- [CCTV lens calculator](https://www.jvsg.com/calculators/cctv-lens-calculator/)
+- [Exacqvision calculator](https://exacq.com/config/)
 
 #### Self Hosted
 - [Sample Self Hosted Infrastructure](https://github.com/khuedoan/homelab)
