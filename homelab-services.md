@@ -5,8 +5,8 @@ HP Microserver Gen8
 - DISKS: 1x 500GB SSD, 4x 6TB HDD
 - SOFTWARE: Rocky Linux (with KVM for VM's), pfsense firewall (with add on packages), mdadm for RAID management
 - SERVICES: 
-- Firewall/ IPS/ DNS/ DHCP/ Adblocking/ Proxying/ Certificates/ various monitoring
-- Storage for logs/ ISO & Container images/ Personal photos/ Security cameras
+Firewall/ IPS/ DNS/ DHCP/ Adblocking/ Proxying/ Certificates/ various monitoring
+Storage for logs/ ISO & Container images/ Personal photos/ Security cameras
 
 
 #### Security services on firewall 
