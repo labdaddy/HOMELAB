@@ -71,6 +71,8 @@
 - [GPS: Learn to cloud!!!](https://learntocloud.guide/)
 - [Cloud Resume](https://cloudirregular.substack.com/p/the-greatest-resume-ive-ever-seen)
 - [AWS Cloud Workshops (free AWS official projects)](https://workshops.aws/)
+- [Cloud Security Screwups](https://github.com/SummitRoute/csp_security_mistakes)
+- [Other AWS stuff from the person above (Summit Routes repos)](https://github.com/orgs/SummitRoute/repositories)
 
 #### Linux
 - [Server World, ALL the linux configs ever](https://www.server-world.info/en/)
@@ -128,6 +130,7 @@
 
 #### Kubernetes
 - [Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
+- [School of Kubernetes](https://www.infracloud.io/kubernetes-school/)
 - [K8s at home](https://docs.k8s-at-home.com/)
 - [Kubernetes home lab](https://github.com/PhilipSchmid/k8s-home-lab)
 - [Kubernetes at home](https://github.com/k8s-at-home/awesome-home-kubernetes)
