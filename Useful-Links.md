@@ -34,7 +34,6 @@
 - [VMWare licensing](#vmware-licensing)
 - [VMWare performance](#vmware-performance)
 
-
 #### General Knowledge Links
 - [Mastermnd Academy](https://academy.mastermnd.io/)
 - [Ops School](https://www.opsschool.org/)
@@ -239,6 +238,7 @@
 - [STH: Homelab part two](https://www.servethehome.com/building-a-lab-part-2-building-our-network/)
 - [STH: Homelab part three](https://www.servethehome.com/building-a-lab-part-3-configuring-vmware-esxi-and-truenas-core/)
 - [SIEM Lab at home series](https://unicornsec.com/home/siem-home-lab-series-part-1)
+- [Build a World-Class Monitoring System for Enterprise, Small Office or Home (from 2016)](https://www.austintaylor.io/suricata/elasticsearch/logstash/continuous/monitoring/intrusion/detection/system/2016/12/17/build-a-world-class-monitoring-system-enterprise-small-office-home/)
 - [Self Hosted Blog](https://eevans.co/blog/garage/)
 
 #### Homelabs VMWare
