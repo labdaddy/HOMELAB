@@ -40,7 +40,7 @@
 - [Amazing, bite sized tutorials on everything !](https://techexpert.tips/tutorial/)
 - [Fabianlee, KVM/ Ansible/ Containers/ Monitoring, Python](https://fabianlee.org/)
 - [Situational behavior impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/)
-- [Iximiuz, many articles](https://iximiuz.com/en/)
+- [Iximiuz, Linux/ Networking/ Containers](https://iximiuz.com/en/)
 - [Katacoda](https://www.katacoda.com/)
 - [Adam the automator](https://adamtheautomator.com/)
 - [Austin's Nerdy Things](https://austinsnerdythings.com/category/homelab/)
