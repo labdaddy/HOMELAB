@@ -405,6 +405,7 @@
 - [VMWare Esxi on Proxmox-1](https://dannyda.com/2020/12/17/how-to-install-use-test-vmware-vsphere-7-0-esxi-7-0-on-proxmox-ve-6-3-3-pve/)
 - [VMWare Esxi on Proxmox-2](https://gist.github.com/bgulla/2421b589de4b4b75e83ac79b17f0fc85)
 - [VMWare Esxi on Proxmox-3](https://pve.proxmox.com/wiki/Nested_Virtualization)
+- [VMWare Esxi on KVM](https://fabianlee.org/2021/11/18/kvm-deploying-a-nested-version-of-vmware-esxi-7-0-on-kvm/)
 - [CPU's that support nested virtualization](https://www.reddit.com/r/virtualization/comments/8jhao3/nested_virtualization_which_cpus_can_do_it_cant/)
 
 #### VMWare Workstation
