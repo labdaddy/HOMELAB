@@ -38,7 +38,7 @@
 - [Mastermnd Academy](https://academy.mastermnd.io/)
 - [Ops School](https://www.opsschool.org/)
 - [Amazing, bite sized tutorials on everything !](https://techexpert.tips/tutorial/)
-- [Fabianlee](https://fabianlee.org/)
+- [Fabianlee, KVM/ Ansible/ Containers/ Monitoring](https://fabianlee.org/)
 - [Situational behavior impact](https://www.ccl.org/articles/leading-effectively-articles/closing-the-gap-between-intent-vs-impact-sbii/)
 - [Iximiuz, many articles](https://iximiuz.com/en/)
 - [Katacoda](https://www.katacoda.com/)
