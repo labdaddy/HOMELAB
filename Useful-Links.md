@@ -71,6 +71,7 @@
 - [GPS: Learn to cloud!!!](https://learntocloud.guide/)
 - [Cloud Resume](https://cloudirregular.substack.com/p/the-greatest-resume-ive-ever-seen)
 - [AWS Cloud Workshops (free AWS official projects)](https://workshops.aws/)
+- [Hands on Cloud Learning Platforms](https://iximiuz.com/en/posts/learn-by-doing-platforms/)
 - [Cloud Security Screwups](https://github.com/SummitRoute/csp_security_mistakes)
 - [Other AWS stuff from the person above (Summit Routes repos)](https://github.com/orgs/SummitRoute/repositories)
 
