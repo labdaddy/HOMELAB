@@ -357,6 +357,10 @@
 - https://www.cisecurity.org/  
 - https://www.halock.com/services/security-management/cis-ram/ 
 - https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro/cis-cat-faq/ 
+- [Practical Cryptography](https://cryptobook.nakov.com/)
+- [Cryptohack](https://cryptohack.org/)
+- [CryptoTool](https://www.cryptool.org/en/)
+- [CryptoBench, not HTTPS !!](http://www.addario.org/cryptobench/)
 - https://public.cyber.mil/ 
 - https://ncp.nist.gov/repository
 - https://owasp.org/www-project-top-ten/
