@@ -109,13 +109,18 @@
 - [Monitoring Your Machine(s) With TIG](https://blog.devgenius.io/monitoring-your-machine-s-with-tig-a9ef39cd0eec)
 - [Quickly collect syslogs with containerized “TIG” stack](https://iosonounrouter.wordpress.com/2020/10/29/quickly-collect-syslogs-with-containerized-tig-stack/)
 - [Intro to TIG stack](https://hackmd.io/@lnu-iot/tig-stack)
+- [More TIG stack](https://aiven.io/blog/tig-stack-using-telegraf-influxdb-and-grafana-on-aiven)
 - [ELK stack for Pfsense](https://psychogun.github.io/docs/linux/ELK-stack-on-Ubuntu-with-pfSense/)
 - [ELK Stack on Docker](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-docker.html)
 - [Intro to graylog](https://www.cyberhuntingguide.net/graylog-start.html)
 - [Getting started with Graylog](https://www.cyberhuntingguide.net/graylog-start.html)
 - [Graylog at scale](https://thehftguy.com/2016/09/12/250-gbday-of-logs-with-graylog-lessons-learned/)
 - [Graylog vs ELK](https://www.educba.com/graylog-vs-elk/)
+- [Logging options](https://sematext.com/blog/logstash-alternatives/)
+- [More logging options](https://sematext.com/blog/best-log-management-tools/#toc-13-graylog-12)
 - [Network monitoring sample setup](https://corelight.com/blog/2020/04/08/enabling-soho-network-security-monitoring)
+- [Open Source Logging](https://geekflare.com/open-source-centralized-logging/)
+- 
 
 #### CI/CD
 - [14 CI/CD tools](https://www.katalon.com/resources-center/blog/ci-cd-tools/)
@@ -270,6 +275,7 @@
 - [Camera storage calculator](https://www.westerndigital.com/tools/surveillance-capacity-calculator)
 - [Open source CCTV software](https://learncctv.com/open-source-cctv-software/)
 - [Even more open source CCTV software](https://medevel.com/10-cctv-open-source-solutions/)
+- [Frigate, AI for CCTV](https://frigate.video/)
 - [Zoneminder, Motioneye, Shinobi comparison](https://community.home-assistant.io/t/my-opinion-zoneminder-vs-motioneye-vs-shinobi/316831)
 - [Codec types explained](https://www.getscw.com/knowledge-base/mjpeg-h-264-h-265)
 - [H.264 vs H.265](https://securitycamcenter.com/h-264-h-265-cctv-systems/)
