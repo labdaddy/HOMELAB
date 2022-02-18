@@ -137,6 +137,7 @@
 #### Kubernetes
 - [Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 - [School of Kubernetes](https://www.infracloud.io/kubernetes-school/)
+- [Killer Shell (Kubernetes playground environments)](https://killer.sh/)
 - [K8s at home](https://docs.k8s-at-home.com/)
 - [Kubernetes home lab](https://github.com/PhilipSchmid/k8s-home-lab)
 - [Kubernetes at home](https://github.com/k8s-at-home/awesome-home-kubernetes)
