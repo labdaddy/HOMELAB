@@ -118,8 +118,15 @@
 - [Graylog vs ELK](https://www.educba.com/graylog-vs-elk/)
 - [Logging options](https://sematext.com/blog/logstash-alternatives/)
 - [More logging options](https://sematext.com/blog/best-log-management-tools/#toc-13-graylog-12)
+- [Even more logging options](https://sematext.com/guides/log-management/)
 - [Network monitoring sample setup](https://corelight.com/blog/2020/04/08/enabling-soho-network-security-monitoring)
 - [Open Source Logging](https://geekflare.com/open-source-centralized-logging/)
+- [Sematext, logging best practices](https://sematext.com/blog/best-practices-for-efficient-log-management-and-monitoring/)
+- [Sematext. logging with Journald](https://sematext.com/blog/journald-logging-tutorial/)
+- [Sematext, log analysis](https://sematext.com/blog/log-analysis/)
+- [Sematext, linux logging](https://sematext.com/blog/linux-logs/)
+- [Sematext, logging vs monitoring](https://sematext.com/blog/apm-vs-log-management/)
+- [Sematext, log management](https://sematext.com/guides/log-management/)
 - 
 
 #### CI/CD
