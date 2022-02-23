@@ -35,6 +35,7 @@
 - [VMWare performance](#vmware-performance)
 
 #### General Knowledge Links
+- [Ryans tutorials](https://ryanstutorials.net/)
 - [Mastermnd Academy](https://academy.mastermnd.io/)
 - [Ops School](https://www.opsschool.org/)
 - [Amazing, bite sized tutorials on everything !](https://techexpert.tips/tutorial/)
@@ -134,6 +135,8 @@
 - [Open Source CI/CD tools](https://devops.com/7-popular-open-source-ci-cd-tools/)
 
 #### Docker
+- [Detailed docker on Ubuntu](https://dianahomelab.cf/dockerubuntu/)
+- [Portainer (for docker mgmt)](https://dianahomelab.cf/dockerportainer/)
 - [Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)
 - [Docker Official Docs](https://docs.docker.com/)
 - [Devops with Docker](https://devopswithdocker.com/)
