@@ -264,6 +264,8 @@
 - [VMWARE LABS 1-Nakivo Nested Lab, Vpshere 7](https://www.nakivo.com/blog/how-to-build-a-vsphere-7-0-home-lab/)
 - [VMWare LABS 2-Excellent Full Walkthrough, 10 Parts, VSpere 7](https://www.vmwarensxcloud.com/2021/05/Home%20Lab%20Step-by-Step%20Part-1.html)
 - [VMWare LABS 3-Another Excellent Full Walkthrough, 13 Parts, VSPhere 6](https://mgvmlabs.in/how-to-create-vmware-vsphere-6-home-lab/)
+- [VMWare LABS 4 - Nested Lab, part 1](https://anthonyspiteri.net/homelab-nested-esxi-1/)
+- [VMWare LABS 4 - Nested Lab, part 2](https://anthonyspiteri.net/homelab-nested-esxi-2/)
 - [VMWare LABS 5-Nested lab, Jeffrey Kusters-Youtube](https://www.youtube.com/watch?v=7d1fwsVlOLI&list=PLF5eL3jdkBq7CAuCd-Eo8qiupcn7chfEX)
 - [VMWARE Hands On Labs](https://www.vmware.com/try-vmware/try-hands-on-labs.html)
 - [VMWARE LABS-VSphere Lab With Tanzu](https://williamlam.com/2020/11/complete-vsphere-with-tanzu-homelab-with-just-32gb-of-memory.html)
