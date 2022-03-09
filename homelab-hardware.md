@@ -4,7 +4,7 @@
 #### Firewall/ Router
 - HP T620 plus
 - CPU: AMD GX-420CA APU, 4c/4t, 2.0ghz, 25W
-- MEMORY:16gb ddr3, 1600mhz
+- MEMORY: 16gb ddr3, 1600mhz
 - STORAGE: 120gb ssd
 - SOFTWARE: Proxmox host OS with 2 x pfsense instances in HA mode(firewall, router, DNS, DHCP, IPS, VPN, Adblocker)
 - ADDITIONAL PACKAGES: UPS monitor, load balancer, forward/ reverse proxy, network monitoring (arping, iperf, nmap)
