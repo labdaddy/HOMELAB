@@ -7,7 +7,8 @@
 - MEMORY: 16gb ddr3, 1600mhz
 - STORAGE: 120gb ssd
 - SOFTWARE: Proxmox host OS with 2 x pfsense instances in HA mode (firewall, router, DNS, DHCP)
-- ADDITIONAL PACKAGES: IPS, VPN, Adblocker, UPS monitor, load balancer, forward/ reverse proxy, network monitoring (arping, iperf, nmap)
+- ADDITIONAL PACKAGES: IPS, VPN, Adblocker, UPS monitor, network monitoring (arping, iperf, nmap)
+- POSSIBLE PACKAGES: load balancer, forward/ reverse proxy
  
 #### Virtualization Server
 - HP ProDesk 600 G3 SFF
