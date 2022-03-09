@@ -20,5 +20,5 @@
 - HP Proliant Microserver Gen8
 - CPU: Xeon E3-1220LV2, 2C/4T, 2.3ghz
 - MEMORY: 16gb ddr3 ECC, 1600mhz
-- STORAGE: 500gb ssd, 4 x 2tb hdd
+- STORAGE: 500gb SSD, 4 x 6tb HDD
 - SOFTWARE: TrueNAS host OS
