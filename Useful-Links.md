@@ -111,6 +111,7 @@
 - [Quickly collect syslogs with containerized “TIG” stack](https://iosonounrouter.wordpress.com/2020/10/29/quickly-collect-syslogs-with-containerized-tig-stack/)
 - [Intro to TIG stack](https://hackmd.io/@lnu-iot/tig-stack)
 - [More TIG stack](https://aiven.io/blog/tig-stack-using-telegraf-influxdb-and-grafana-on-aiven)
+- [ELK stack on Ubuntu 20.04](https://www.xmodulo.com/install-elk-stack-ubuntu.html)
 - [ELK stack for Pfsense](https://psychogun.github.io/docs/linux/ELK-stack-on-Ubuntu-with-pfSense/)
 - [ELK Stack on Docker](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-docker.html)
 - [Intro to graylog](https://www.cyberhuntingguide.net/graylog-start.html)
@@ -211,6 +212,8 @@
 - [Digital Ocean, creating RAID arrays with mdadm, Ubuntu 18 (newer)](https://www.digitalocean.com/community/tutorials/how-to-create-raid-arrays-with-mdadm-on-ubuntu-18-04)
 - [Digital Ocean, creating RAID arrays with mdadm, Debian 9](https://www.digitalocean.com/community/tutorials/how-to-create-raid-arrays-with-mdadm-on-debian-9)
 - [Digital Ocean, managing RAID arrays in mdadm, Ubuntu 16](https://www.digitalocean.com/community/tutorials/how-to-manage-raid-arrays-with-mdadm-on-ubuntu-16-04)
+- [mdadm info xmodulo, getting started](https://www.xmodulo.com/create-software-raid1-array-mdadm-linux.html)
+- [mdadm info xmodulo, setting up fault tolerance](https://www.xmodulo.com/setup-raid10-linux.html)
 
 
 ### ZFS
