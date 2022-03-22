@@ -179,6 +179,7 @@
 - [DevOps Roadmap](https://roadmap.sh/devops)
 
 #### Windows and Powershell
+- [Youtube:Robert McMillen](https://www.youtube.com/user/clickx3/playlists)
 - [Powershell management cmdlets](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/?view=powershell-5.1)
 - [Always run windows terminal as administrator](https://pureinfotech.com/always-run-windows-terminal-administrator-windows-10/)
 - [Powershell documentation](https://docs.microsoft.com/en-us/powershell/)
