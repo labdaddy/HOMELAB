@@ -6,6 +6,7 @@
 - [Cloud](#cloud)
 - [Linux](#linux)
 - [Observability](#observability)
+- [Automation](#automation)
 - [CI/CD](#CI/CD)
 - [Docker](#docker)
 - [Kubernetes](#kubernetes)
@@ -35,6 +36,7 @@
 - [VMWare performance](#vmware-performance)
 
 #### General Knowledge Links
+- [Excalidraw, visualitation tool](https://excalidraw.com/)
 - [Ryans tutorials](https://ryanstutorials.net/)
 - [Mastermnd Academy](https://academy.mastermnd.io/)
 - [Ops School](https://www.opsschool.org/)
@@ -99,6 +101,9 @@
 - [Linux run out of inodes](https://www.ctrl.blog/entry/how-to-all-out-of-inodes.html)
 - [Ubuntu Tutorials](https://techexpert.tips/category/ubuntu/)
 - [Calomel, linux and BSD stuff](https://calomel.org/)
+- [LinuxServer.IO](https://fleet.linuxserver.io/)
+- [TurnKey Linux (many pre made servers)](https://www.turnkeylinux.org/)
+- [Cockpit Project](https://cockpit-project.org/)
 
 #### Observability
 - [Setting up Zabbix](https://ogdenslake.ca/2021/03/04/setting-up-zabbix/)
@@ -111,6 +116,7 @@
 - [Quickly collect syslogs with containerized “TIG” stack](https://iosonounrouter.wordpress.com/2020/10/29/quickly-collect-syslogs-with-containerized-tig-stack/)
 - [Intro to TIG stack](https://hackmd.io/@lnu-iot/tig-stack)
 - [More TIG stack](https://aiven.io/blog/tig-stack-using-telegraf-influxdb-and-grafana-on-aiven)
+- [PFELK](https://github.com/pfelk/pfelk)
 - [ELK stack on Ubuntu 20.04](https://www.xmodulo.com/install-elk-stack-ubuntu.html)
 - [ELK stack for Pfsense](https://psychogun.github.io/docs/linux/ELK-stack-on-Ubuntu-with-pfSense/)
 - [ELK Stack on Docker](https://www.elastic.co/guide/en/elastic-stack-get-started/current/get-started-docker.html)
@@ -129,7 +135,10 @@
 - [Sematext, linux logging](https://sematext.com/blog/linux-logs/)
 - [Sematext, logging vs monitoring](https://sematext.com/blog/apm-vs-log-management/)
 - [Sematext, log management](https://sematext.com/guides/log-management/)
-- 
+
+#### AUTOMATION
+- [Ansible](https://docs.ansible.com/ansible/latest/installation_guide/index.html)
+- [Ansible for VMWare](https://docs.ansible.com/ansible/latest/collections/community/vmware/docsite/scenario_guide.html)
 
 #### CI/CD
 - [14 CI/CD tools](https://www.katalon.com/resources-center/blog/ci-cd-tools/)
@@ -261,6 +270,7 @@
 - [SIEM Lab at home series](https://unicornsec.com/home/siem-home-lab-series-part-1)
 - [Build a World-Class Monitoring System for Enterprise, Small Office or Home (from 2016)](https://www.austintaylor.io/suricata/elasticsearch/logstash/continuous/monitoring/intrusion/detection/system/2016/12/17/build-a-world-class-monitoring-system-enterprise-small-office-home/)
 - [Self Hosted Blog](https://eevans.co/blog/garage/)
+- [Get Labs Done (various labs)](https://getlabsdone.com/)
 
 #### Homelabs VMWare
 - [William Lam Homelab Considerations](https://williamlam.com/2020/03/homelab-considerations-for-vsphere-7.html)
@@ -276,6 +286,7 @@
 - [VMWare automated setups](https://github.com/virBeaver/vghetto-vsphere-automated-lab-deployment)
 
 #### Servers and Gear
+- [STH: List of OEM NICs](https://forums.servethehome.com/index.php?threads/list-of-nics-and-their-equivalent-oem-parts.20974/#post-195897)
 - [Intel CPU/ Socket Compendium (from JDM_WAAAT)](https://docs.google.com/spreadsheets/d/1LqQvwXoqhcft6dpMGgIF21XhqijBACOe9nU8cVK6Llk/htmlview)
 - [Understanding AMD processor names](https://glennsqlperformance.com/2020/07/22/understanding-amd-processor-names/)
 - [HP Microserver Gen8 additional drives upgrade](https://homeservershow.com/forums/topic/5960-hp-ms-g8-25-drive-bracket-revision-history-new-rev-35-and-rev-4-info/page/01/)
@@ -329,6 +340,7 @@
 - [Some Pfsense tutorials](https://psychogun.github.io/docs/pfsense)
 - [Network UPS Tool (NUT)](https://psychogun.github.io/docs/pfsense/Network-UPS-Tools/)
 - [Pfsense backup options-1](https://opensourcelibs.com/lib/breadspfsenseautobackup)
+- [PFELK](https://github.com/pfelk/pfelk)
 
 #### Sophos Firewalls
 - [Sophos XG official Documentation](https://www.sophos.com/en-us/support/documentation/sophos-xg-firewall.aspx?platform=Sophos-Firewall-OS-version-18-0#Sophos-Firewall-OS-version-18-0)
