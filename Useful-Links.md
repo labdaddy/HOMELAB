@@ -194,7 +194,10 @@
 - [Windows Lab Deployment Kit](https://docs.microsoft.com/en-us/microsoft-365/enterprise/modern-desktop-deployment-and-management-lab?view=o365-worldwide)
 - [Windows Server Free Trials](https://www.microsoft.com/en-us/windows-server/trial)
 - [Windows Server EVAL ISO Images](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019)
+- [Extend Windows Server Evaluation Period](https://docs.microsoft.com/en-us/answers/questions/133461/windows-server-2019-datacenter-what-happen-after-1.html)
 - [Reset Windows Server EVAL License](https://www.hyper-v.io/reset-120-day-rds-grace-period-windows-server-2016-without-gui/)
+- [Windows Server 2016 Evaluation License Keys](https://blog.techygeekshome.info/2017/04/windows-server-2016-evaluation-product-keys/)
+- [More Windows Server 2016 Evalution License Keys](https://getproductkey.net/windows-server-2016-product-key-free/)
 
 #### RAID
 - [RAID capacity calculator](https://wintelguy.com/raidcalc.pl)
