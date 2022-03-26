@@ -173,6 +173,7 @@
 - [Kubernetes the hard way, Virtualbox edition](https://github.com/sgargel/kubernetes-the-hard-way-virtualbox)
 - [Minimum viable kubernetes](https://eevans.co/blog/minimum-viable-kubernetes/)
 - [Deconstructing kubernetes networking](https://eevans.co/blog/deconstructing-kubernetes-networking/)
+- [Kubernetes cluster](https://www.armosec.io/blog/setting-up-kubernetes-cluster/)
 
 #### DevOps
 - [Devops project ideas](https://www.tutorialworks.com/devops-project-ideas/)
