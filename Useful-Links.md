@@ -180,6 +180,9 @@
 - [DevOps Roadmap](https://roadmap.sh/devops)
 
 #### Windows and Powershell
+- [MS Powershell docs](https://docs.microsoft.com/en-us/powershell/scripting/how-to-use-docs?view=powershell-7.20)
+- [Adam the automator](https://adamtheautomator.com/tutorials/)
+- [Pscx - PowerShell Community Extensions (includes `less` for powershell)](https://github.com/Pscx/Pscx)
 - [Youtube:Robert McMillen](https://www.youtube.com/user/clickx3/playlists)
 - [Powershell management cmdlets](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/?view=powershell-5.1)
 - [Always run windows terminal as administrator](https://pureinfotech.com/always-run-windows-terminal-administrator-windows-10/)
@@ -200,6 +203,7 @@
 - [Reset Windows Server EVAL License](https://www.hyper-v.io/reset-120-day-rds-grace-period-windows-server-2016-without-gui/)
 - [Windows Server 2016 Evaluation License Keys](https://blog.techygeekshome.info/2017/04/windows-server-2016-evaluation-product-keys/)
 - [More Windows Server 2016 Evalution License Keys](https://getproductkey.net/windows-server-2016-product-key-free/)
+- 
 
 #### RAID
 - [RAID capacity calculator](https://wintelguy.com/raidcalc.pl)
