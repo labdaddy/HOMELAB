@@ -182,6 +182,7 @@
 #### Windows and Powershell
 - [MS Powershell docs](https://docs.microsoft.com/en-us/powershell/scripting/how-to-use-docs?view=powershell-7.20)
 - [Adam the automator](https://adamtheautomator.com/tutorials/)
+- [Awesome powershell scripts](https://gist.github.com/pcgeek86)
 - [Pscx - PowerShell Community Extensions (includes `less` for powershell)](https://github.com/Pscx/Pscx)
 - [Youtube:Robert McMillen](https://www.youtube.com/user/clickx3/playlists)
 - [Powershell management cmdlets](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.management/?view=powershell-5.1)
