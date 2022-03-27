@@ -73,7 +73,7 @@
 #### CLOUD
 - [Cloud Resume](https://cloudirregular.substack.com/p/the-greatest-resume-ive-ever-seen)
 - [Officail AWS Cloud Workshops (free projects)](https://workshops.aws/)
-- [Official Amazon AWS training portal (free)](https://aws.amazon.com/training/)
+- [Official Amazon AWS training portal (free training)](https://aws.amazon.com/training/)
 - [Hands on Cloud Learning Platforms](https://iximiuz.com/en/posts/learn-by-doing-platforms/)
 - [Cloud strategy information](https://www.techment.com/5-elite-strategies-of-overcoming-barriers-to-cloud-adoption-and-maximizing-cloud-value/)
 - [Cloud Security Screwups](https://github.com/SummitRoute/csp_security_mistakes)
