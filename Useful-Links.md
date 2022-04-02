@@ -241,19 +241,15 @@
 
 
 ### ZFS
-- [ZFS capacity calculator](https://wintelguy.com/zfs-calc.pl)
+- [Jen Peterson ZFS tutorial](https://jenpeterson.net/zfs-blog/)
 - [ZFS posts](https://jrs-s.net/category/open-source/zfs/)
 - [ZFS in homelab example](https://www.johnkeen.tech/truenas-12-esxi-home-lab-storage-design/)
 - [Some ZFS explanation](https://www.breznet.com/truenas-block-storage-and-esxi-part-1/)
-- [Some deeply nerdy but useful ZFS explanation, part 1](https://www.truenas.com/community/threads/some-insights-into-slog-zil-with-zfs-on-freenas.13633/)
-- [Some deeply nerdy but useful ZFS explanation, part 2](https://www.truenas.com/community/threads/the-path-to-success-for-block-storage.81165/)
-- [ZFS 101](https://arstechnica.com/information-technology/2020/05/zfs-101-understanding-zfs-storage-and-performance/)
-- [Intro to ZFS (excellent)](https://www.truenas.com/community/resources/introduction-to-zfs.111/)
-- [Jen Peterson ZFS tutorial](https://jenpeterson.net/zfs-blog/)
-- [Chris's blog (some ZFS entries)](https://utcc.utoronto.ca/~cks/space/blog/solaris/)
-- [ZFS search results on dannyda.com](https://dannyda.com/?s=Zfs)
-- [ZREP, ZFS based real time sync and failover !](http://www.bolthole.com/solaris/zrep/)
-- [ZFS technical writeup](https://www.delphix.com/blog/delphix-engineering/zfs-raidz-stripe-width-or-how-i-learned-stop-worrying-and-love-raidz)
+- [Some deeply nerdy but useful ZFS info part 1](https://www.truenas.com/community/threads/some-insights-into-slog-zil-with-zfs-on-freenas.13633/)
+- [Some deeply nerdy but useful ZFS info part 2](https://www.truenas.com/community/threads/the-path-to-success-for-block-storage.81165/)
+- [Some deeply nerdy but useful ZFS info part 3](https://www.truenas.com/community/threads/some-differences-between-raidz-and-mirrors-and-why-we-use-mirrors-for-block-storage.44068/)
+- [ZFS blog posts](https://utcc.utoronto.ca/~cks/space/blog/solaris/)
+- [more ZFS blog posts](https://dannyda.com/?s=Zfs)
 
 #### TrueNAS
 - [Link to useful threads](https://www.truenas.com/community/resources/links-to-useful-threads.108/)
