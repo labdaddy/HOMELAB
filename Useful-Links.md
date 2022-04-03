@@ -144,6 +144,9 @@
 #### AUTOMATION
 - [Ansible](https://docs.ansible.com/ansible/latest/installation_guide/index.html)
 - [Ansible for VMWare](https://docs.ansible.com/ansible/latest/collections/community/vmware/docsite/scenario_guide.html)
+- [Hashicorp learn](https://learn.hashicorp.com/)
+- [Packer for windows images, github repo](https://github.com/ClintWyckoff/packer/tree/main/windows-2019-vmware)
+- [Packer for windows example](https://www.danielmartins.online/post/hashicorp-packer-build-hcl-windows-10-pro-using-vmware-vsphere-iso-builder)
 
 #### CI/CD
 - [14 CI/CD tools](https://www.katalon.com/resources-center/blog/ci-cd-tools/)
