@@ -1,6 +1,7 @@
 # Useful Links 
 ## Sections
 - [General knowledge links](#general-knowledge-links)
+- [Self Hosting](#self-hosted)
 - [Programming Stuff](#programming-stuff)
 - [Maker stuff](#maker-stuff)
 - [Cloud](#cloud)
@@ -21,7 +22,6 @@
 - [Homelabs VMWare](#homelabs-vmware)
 - [Servers and Gear](#servers-and-gear)
 - [CCTV](#cctv)
-- [Self Hosting](#self-hosted)
 - [Pfsense firewall](#pfsense-firewall)
 - [Sophos firewalls](#sophos-firewalls)
 - [General security stuff](#general-security-stuff)
@@ -60,6 +60,14 @@
 - [TP-Link Tutorials](https://techexpert.tips/category/tp-link/)
 - [APC UPS Tutorials](https://techexpert.tips/category/apc/)
 - [Network UPS Tools](https://psychogun.github.io/docs/pfsense/Network-UPS-Tools/)
+
+#### Self Hosted
+- [Awesome self hosted](https://github.com/bastienwirtz/awesome-selfhosted)
+- [Home: static home server page](https://github.com/bastienwirtz/homer)
+- [Sample Self Hosted Infrastructure](https://github.com/khuedoan/homelab)
+- [Intro to self hosting](https://georgev.design/blog/intro-to-self-hosting-how-to-get-started-hosting-your-applications)
+- [Phone backups with Syncthing](https://jonathanmenahem.digital/setting-up-truenas-to-backup-files-from-android-phone-using-syncthing/)
+- [Set Up Your Own Nextcloud Server](https://kiramclean.com/blog/how-to-set-up-your-own-nextcloud-server/)
 
 #### Programming Stuff
 - [Composing Programs](https://composingprograms.com/)
@@ -186,6 +194,7 @@
 #### DevOps
 - [Devops project ideas](https://www.tutorialworks.com/devops-project-ideas/)
 - [DevOps Roadmap](https://roadmap.sh/devops)
+- [DevOps articles](https://devopscube.com/)
 
 #### Windows and Powershell
 - [MS Powershell docs](https://docs.microsoft.com/en-us/powershell/scripting/how-to-use-docs?view=powershell-7.20)
@@ -244,6 +253,7 @@
 
 
 ### ZFS
+- [Basic ZFS setup](https://illumos.org/books/zfs-admin/setup-1.html)
 - [Jen Peterson ZFS tutorial](https://jenpeterson.net/zfs-blog/)
 - [ZFS posts](https://jrs-s.net/category/open-source/zfs/)
 - [ZFS in homelab example](https://www.johnkeen.tech/truenas-12-esxi-home-lab-storage-design/)
@@ -327,12 +337,6 @@
 - [H.264 vs H.265](https://securitycamcenter.com/h-264-h-265-cctv-systems/)
 - [CCTV lens calculator](https://www.jvsg.com/calculators/cctv-lens-calculator/)
 - [Exacqvision calculator](https://exacq.com/config/)
-
-#### Self Hosted
-- [Sample Self Hosted Infrastructure](https://github.com/khuedoan/homelab)
-- [Intro to self hosting](https://georgev.design/blog/intro-to-self-hosting-how-to-get-started-hosting-your-applications)
-- [Phone backups with Syncthing](https://jonathanmenahem.digital/setting-up-truenas-to-backup-files-from-android-phone-using-syncthing/)
-- [Set Up Your Own Nextcloud Server](https://kiramclean.com/blog/how-to-set-up-your-own-nextcloud-server/)
 
 #### Pfsense Firewall
 - [Converting single NIC mini-pc into pfSense router/firewall](https://www.joe0.com/2019/11/16/converting-single-nic-mini-pc-into-pfsense-router-firewall-by-using-virtual-lan-configuration-on-a-managed-switch/)
@@ -430,6 +434,7 @@
 - https://www.varonis.com/blog/netcat-commands/
 
 #### Networking
+- [Mitm firewall tool](https://github.com/joeferner/node-http-mitm-proxy)
 - [Computer Networking a Top Down Approach](https://media.pearsoncmg.com/ph/esm/ecs_kurose_compnetwork_8/cw/)
 - [Top down approach resources](https://www.pearson.com/us/higher-education/program/Kurose-Pearson-e-Text-Computer-Networking-Access-Card-8th-Edition/PGM2877610.html?tab=resources)
 - [Computernetworkingnotes.com](https://www.computernetworkingnotes.com/)
@@ -440,14 +445,15 @@
 - [Netbox, network documentation tool](https://netbox.readthedocs.io/en/stable/)
 
 #### Proxmox
+- [Proxmox video series](https://www.youtube.com/watch?v=GYOlulPwxlE&list=PLk3oVaFzBUufFbrE4Y0gnQcjzfmEmT93o)
+- [Proxmox playlist-learnlinuxtv](https://www.youtube.com/watch?v=LCjuiIswXGs&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
+- [Proxmox playlist-Practical IT](https://www.youtube.com/playlist?list=PLRR0y1Ha_dRc9CU7lRGP-0ayXaP-sVaIU)
+- [Proxmox playlist-Virtualize Everything](https://www.youtube.com/playlist?list=PL4i6XWPjbaYn1lPDYNjf-J4Cy_zEd2tOz)
+- [proxmox playlist-sportage12, includes ZFS](https://www.youtube.com/watch?v=wiK2pvOJCDE&list=PLQDoczDTdh1eRn5dI9I-SzbZTRBs0wTFh)
 - [Fix cannot shutdown VM in Proxmox](https://dannyda.com/2020/05/11/how-to-fix-proxmox-pve-cant-lock-file-var-lock-qemu-server-lock-xxx-conf-got-timeout-proxmox-cant-shutdown-virtual-machine/)
 - [Firewall on Proxmox with single nic pc](https://forum.proxmox.com/threads/setting-up-pfsense-with-one-nic.68179/)
 - [Firewall on Proxmox with single nic, additional](https://forum.proxmox.com/threads/proxmox-running-pfsense-fw-with-single-nic.63807/)
 - [Install proxmox and setup a ZFS pool](https://blog.quindorian.org/2019/08/how-to-install-proxmox-and-setup-a-zfs-pool.html/)
-- [Proxmox playlist-learnlinuxtv](https://www.youtube.com/watch?v=LCjuiIswXGs&list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
-- [Proxmox playlist-Practical IT](https://www.youtube.com/watch?v=Myl6nvPP9go&list=PLRR0y1Ha_dRc9CU7lRGP-0ayXaP-sVaIU)
-- [Proxmox playlist-Virtualize Everything](https://www.youtube.com/watch?v=df3BbdSyQx0&list=PL4i6XWPjbaYn1lPDYNjf-J4Cy_zEd2tOz)
-- [proxmox playlist-sportage12, includes ZFS](https://www.youtube.com/watch?v=wiK2pvOJCDE&list=PLQDoczDTdh1eRn5dI9I-SzbZTRBs0wTFh)
 - [Delete VM's in Proxmox](https://bobcares.com/blog/proxmox-delete-virtual-machine/)
 - [Proxmox Networking 1](https://www.flomain.de/2015/05/how-to-proxmox-networking/)
 - [Linux Bridge vs OpenVSwitch](https://ioflood.com/blog/2021/07/08/linux-bridge-vs-openvswitch-how-to-improve-virtualization-network-performance/)
@@ -496,6 +502,7 @@
 - [Download VMWare tools](https://customerconnect.vmware.com/downloads/details?downloadGroup=VMTOOLS1032&productId=745)
 
 #### VMWARE General Information
+- [Vsphere 7 editions and license features](https://www.mustbegeek.com/understanding-vmware-vsphere-7-editions-and-features/)
 - [ESXi storage changes between 6.7 & 7.0](https://core.vmware.com/resource/esxi-system-storage-changes#section3)
 - [Wiert corner](https://wiert.me/category/power-user/vmware/)
 - [VMWare Networking](https://www.nakivo.com/blog/category/vmware-administration/networking-vmware-administration/)
