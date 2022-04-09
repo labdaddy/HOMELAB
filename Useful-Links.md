@@ -376,7 +376,7 @@
 
 #### General Security Stuff
 - [Pentester labs](https://pentesterlab.com/)
-- [Exploit education lab](https://exploit.education/)
+- [Exploit education - Labs](https://exploit.education/)
 - [Mistborn suite](https://gitlab.com/cyber5k/mistborn)
 - [Center for Internet Security](https://www.cisecurity.org/)
 - [MITRE ATT&CK](https://attack.mitre.org/)
