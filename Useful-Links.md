@@ -375,7 +375,7 @@
 - [Collect sophos logs for troubleshooting](https://support.sophos.com/support/s/article/KB-000041274?language=en_US&name=KB-000041274)
 
 #### General Security Stuff
-- [Pentester labs]https://pentesterlab.com/)
+- [Pentester labs](https://pentesterlab.com/)
 - [Exploit education lab](https://exploit.education/)
 - [Mistborn suite](https://gitlab.com/cyber5k/mistborn)
 - [Hoppers Roppers !!!](https://www.hoppersroppers.org/training.html)
