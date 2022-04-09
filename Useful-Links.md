@@ -378,7 +378,6 @@
 - [Pentester labs](https://pentesterlab.com/)
 - [Exploit education lab](https://exploit.education/)
 - [Mistborn suite](https://gitlab.com/cyber5k/mistborn)
-- [Hoppers Roppers !!!](https://www.hoppersroppers.org/training.html)
 - [Center for Internet Security](https://www.cisecurity.org/)
 - [MITRE ATT&CK](https://attack.mitre.org/)
 - [SANS Cyber Aces](https://tutorials.cyberaces.org/tutorials.html)
