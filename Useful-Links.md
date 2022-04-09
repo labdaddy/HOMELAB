@@ -39,6 +39,7 @@
 - [The paradox of choice](https://azeria-labs.com/paradox-of-choice/)
 - [The importance of deep work](https://azeria-labs.com/the-process-of-mastering-a-skill/?roppers/)
 - [The process of mastery](https://azeria-labs.com/the-process-of-mastering-a-skill/?roppers/)
+- [Alicia Sykes Repos]https://github.com/Lissy93?tab=repositories)
 - [Excalidraw, visualitation tool](https://excalidraw.com/)
 - [Ryans tutorials](https://ryanstutorials.net/)
 - [Mastermnd Academy](https://academy.mastermnd.io/)
@@ -374,6 +375,8 @@
 - [Collect sophos logs for troubleshooting](https://support.sophos.com/support/s/article/KB-000041274?language=en_US&name=KB-000041274)
 
 #### General Security Stuff
+- [Pentester labs]https://pentesterlab.com/)
+- [Exploit education lab](https://exploit.education/)
 - [Mistborn suite](https://gitlab.com/cyber5k/mistborn)
 - [Hoppers Roppers !!!](https://www.hoppersroppers.org/training.html)
 - [Center for Internet Security](https://www.cisecurity.org/)
