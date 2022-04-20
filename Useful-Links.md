@@ -342,6 +342,7 @@
 #### Pfsense Firewall
 - [Converting single NIC mini-pc into pfSense router/firewall](https://www.joe0.com/2019/11/16/converting-single-nic-mini-pc-into-pfsense-router-firewall-by-using-virtual-lan-configuration-on-a-managed-switch/)
 - [Converting Intel NUC Mini-PC into state-of-the-art router running pfSense in VirtualBox](https://www.joe0.com/2019/11/07/converting-intel-nuc-mini-pc-into-state-of-the-art-router-running-pfsense-in-oracle-virtualbox/)
+- [Pfsense baseline guide](https://nguvu.org/pfsense/pfsense-baseline-setup/)
 - [General Pfsense tutorials](https://techexpert.tips/pfsense/pfsense-server-installation/)
 - [Pfsense high availability docs](https://docs.netgate.com/pfsense/en/latest/highavailability/index.html)
 - [Pfsense high availability recipe](https://docs.netgate.com/pfsense/en/latest/recipes/high-availability.html)
