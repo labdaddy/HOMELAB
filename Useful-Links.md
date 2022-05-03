@@ -504,6 +504,11 @@
 - [Install VMWare tools](https://kb.vmware.com/s/article/1018392)
 - [Download VMWare tools](https://customerconnect.vmware.com/downloads/details?downloadGroup=VMTOOLS1032&productId=745)
 
+#### VMWare CLI
+- [PowerCLI](https://vdc-repo.vmware.com/vmwb-repository/dcr-public/85a74cac-7b7b-45b0-b850-00ca08d1f238/ae65ebd9-158b-4f31-aa9c-4bbdc724cc38/doc/index.html)
+- [PowerCLI tutorial](https://adamtheautomator.com/powercli-tutorial/)
+- [Esxcli](https://developer.vmware.com/docs/11743/esxi-7-0-esxcli-command-reference/reference.html)
+
 #### VMWARE General Information
 - [Vsphere 7 editions and license features](https://www.mustbegeek.com/understanding-vmware-vsphere-7-editions-and-features/)
 - [ESXi storage changes between 6.7 & 7.0](https://core.vmware.com/resource/esxi-system-storage-changes#section3)
@@ -534,7 +539,9 @@
 - [Editing the .vmx file of a VMWare workstation machine](https://kb.vmware.com/s/article/2057902)
 - [Locating a hosted virtual machine's files](https://kb.vmware.com/s/article/1003880)
 
-#### VMWARE Performance
+#### VMWARE Performance)
+- [Maximizing performance](https://www.heroix.com/blog/vmware-vcpu-over-allocation/#:~:text=%E2%96%BA%20Best%20Practices%20recommendations&text=The%20exact%20amount%20of%20CPU,3%3A1%20is%20no%20problem)
+- [Guidelines for overcommitting resources](https://www.heroix.com/download/Guidelines_for_Overcommitting_VMware_Resources.pdf)
 - [VCSA with reduced memory](https://mulcas.com/how-to-install-vmware-vcsa-6-7-with-less-than-10gb-ram/)
 - [How to put vCenter on a RAM diet](https://www.reddit.com/r/homelab/comments/7p9kby/how_to_put_vcenter_on_a_ram_diet/)
 - [How to Install VMware VCSA 6.7 with less than 10GB RAM](https://mulcas.com/how-to-install-vmware-vcsa-6-7-with-less-than-10gb-ram/)
