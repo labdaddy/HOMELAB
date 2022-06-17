@@ -539,7 +539,7 @@
 - [Editing the .vmx file of a VMWare workstation machine](https://kb.vmware.com/s/article/2057902)
 - [Locating a hosted virtual machine's files](https://kb.vmware.com/s/article/1003880)
 
-#### VMWARE Performance)
+#### VMWARE Performance
 - [Maximizing performance](https://www.heroix.com/blog/vmware-vcpu-over-allocation/#:~:text=%E2%96%BA%20Best%20Practices%20recommendations&text=The%20exact%20amount%20of%20CPU,3%3A1%20is%20no%20problem)
 - [Guidelines for overcommitting resources](https://www.heroix.com/download/Guidelines_for_Overcommitting_VMware_Resources.pdf)
 - [VCSA with reduced memory](https://mulcas.com/how-to-install-vmware-vcsa-6-7-with-less-than-10gb-ram/)
@@ -550,3 +550,665 @@
 - [Maximizing performance](https://www.heroix.com/blog/vmware-vcpu-over-allocation/)
 - [Resource optimization](https://www.thomaspreischl.de/vcenter-homelab/)
 - [CPU selection](https://searchservervirtualization.techtarget.com/feature/Picking-the-right-CPU-for-virtualization)
+
+#### MORE LINKS
+ Bookmarks
+
+Bookmarks
+=========
+
+### Bookmarks bar
+
+### general
+
+### employment
+
+[A Complete Guide to Self-Promotion | Center for Creative Leadership](https://www.ccl.org/articles/leading-effectively-articles/complete-guide-to-self-promotion/)
+
+[The Cybersecurity career and job hunting guide.](https://www.cyberhuntingguide.net/)
+
+[Cybersecurity Career Pathway](https://www.cyberseek.org/pathway.html)
+
+[Workforce Framework for Cybersecurity (NICE Framework) | National Initiative for Cybersecurity Careers and Studies](https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework)
+
+[DoD Approved 8570 Baseline Certifications – DoD Cyber Exchange](https://public.cyber.mil/cw/cwmp/dod-approved-8570-baseline-certifications/)
+
+[Cybersecurity Certifications | Information Security Certifications | (ISC)²](https://www.isc2.org/Certifications)
+
+[10 Do's and Don'ts for Writing a Winning Cybersecurity Resume](https://securityintelligence.com/articles/10-dos-and-donts-for-writing-a-winning-cybersecurity-resume/)
+
+[How to start in Infosec · GitHub](https://gist.github.com/mubix/5737a066c8845d25721ec4bf3139fd31)
+
+[A strategy to land your first pentest job | by PentesterLab | PentesterLab](https://blog.pentesterlab.com/a-strategy-to-land-your-first-pentest-job-25209a351689)
+
+[Climatebase](https://climatebase.org/)
+
+[No Whiteboard](https://www.nowhiteboard.org/)
+
+[Not all can make top 5% salaries - by definition, but all would make more if they research salaries, job hop, negotiate, stack competing offers, rather than not. Here's how: : cscareerquestions](https://www.reddit.com/r/cscareerquestions/comments/ujjhpi/not_all_can_make_top_5_salaries_by_definition_but/)
+
+[How to Become a Networking Master with Jordan Harbinger | Science of People](https://www.scienceofpeople.com/networking-master/)
+
+[Top Business & Personal Development Podcast | Listen Now](https://www.jordanharbinger.com/at-a-glance/)
+
+[Should and Can I move from networking to Devops after 9 years behind a cisco router? : r/devops](https://www.reddit.com/r/devops/comments/rptd38/should_and_can_i_move_from_networking_to_devops/)
+
+[Whats next after Network Engineer? How about DevOps? : r/ITCareerQuestions](https://www.reddit.com/r/ITCareerQuestions/comments/s1232h/whats_next_after_network_engineer_how_about_devops/)
+
+[networming vs devops career path reddit - Google Search](https://www.google.com/search?q=networming+vs+devops+career+path+reddit&authuser=0&sxsrf=ALiCzsZXQ3BhtGH-Gnk5vkes_6SzfA2baQ%3A1655406397466&source=hp&ei=PX-rYoOiGIOE9PwPmOO1qAU&oq=networming+vs+devops+career+path&gs_lcp=ChFtb2JpbGUtZ3dzLXdpei1ocBABGAAyBwghEAoQoAEyBwghEAoQoAEyBQghEKsCOgsIABCABBCxAxCDAToOCC4QgAQQsQMQgwEQ1AI6CAgAELEDEIMBOhEILhCABBCxAxCDARDHARCjAjoOCC4QgAQQsQMQxwEQowI6EQguEIAEELEDEIMBEMcBENEDOggILhCxAxCDAToICAAQgAQQsQM6BQguEIAEOgsILhCABBCxAxDUAjoLCAAQgAQQsQMQyQM6BQgAEJIDOgoIABCxAxCDARAKOgoILhCxAxDUAhAKOgoIABCxAxDJAxAKOhAILhCxAxCDARDHARDRAxAKOgcIABCABBAKOgcIABCxAxAKOg0IABCxAxCDARDJAxAKOgQIABAKOgkIABANEEYQ-QE6BwgAEMkDEA06BAgAEA06BggAEB4QDToMCAAQHhAPEA0QBRAKOggIABAeEAgQDToKCAAQHhAPEAgQDToICCEQHhAWEB06BQgAEIYDUNIIWPloYPtwaAFwAHgAgAGxAogB4SySAQkxNi4yMi41LjGYAQCgAQGwAQA&sclient=mobile-gws-wiz-hp)
+
+### github repos
+
+[awesome · GitHub Topics · GitHub](https://github.com/topics/awesome)
+
+[Search · 100days · GitHub](https://github.com/search?q=100days&type=)
+
+[GitHub - Lissy93/personal-security-checklist: 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2021](https://github.com/Lissy93/personal-security-checklist)
+
+[GitHub - acantril/learn-cantrill-io-labs: Standard and Advanced Demos for learn.cantrill.io courses](https://github.com/acantril/learn-cantrill-io-labs)
+
+[GiftedGetsLifted/feeling-lost.md at main · GiftedLane/GiftedGetsLifted · GitHub](https://github.com/GiftedLane/GiftedGetsLifted/blob/main/feeling-lost.md)
+
+[Basic Unix Commands](https://gist.github.com/Tvkoushik/a2b33e392ba6a2cab47c80111fca8f90#file-basic-csv)
+
+[Advanced Unix Commands](https://gist.github.com/Tvkoushik/5ff2d537c7d882f33fbd23a34d792416)
+
+[mikeroyal (Michael Royal) / Repositories · GitHub](https://github.com/mikeroyal?tab=repositories)
+
+[GitHub - benbusby/whoogle-search: A self-hosted, ad-free, privacy-respecting metasearch engine](https://github.com/benbusby/whoogle-search)
+
+[GitHub - MichaelCade/90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.](https://github.com/MichaelCade/90DaysOfDevOps)
+
+[usrbinkat’s gists · GitHub](https://gist.github.com/usrbinkat)
+
+[usrbinkat (Kathryn Morgan) / Repositories · GitHub](https://github.com/usrbinkat?tab=repositories)
+
+[Home K8s Native FW / Router · GitHub](https://gist.github.com/usrbinkat/40c9c3009915581f451804b620e678da)
+
+[GitHub - veggiemonk/awesome-docker: A curated list of Docker resources and projects](https://github.com/veggiemonk/awesome-docker)
+
+[Rapid7 · GitHub](https://github.com/rapid7)
+
+[GitHub - stratokumulus/proxmox-k3s-setup](https://github.com/stratokumulus/proxmox-k3s-setup)
+
+[GitHub - ansible-community/awesome-ansible: Awesome Ansible List](https://github.com/ansible-community/awesome-ansible)
+
+### reddit
+
+[/r/homelab](https://teddit.net/r/homelab/)
+
+[/r/minilab](https://teddit.net/r/minilab/)
+
+[/r/devops](https://teddit.net/r/devops/)
+
+[/r/linuxupskillchallenge](https://teddit.net/r/linuxupskillchallenge)
+
+[/r/selfhosted](https://teddit.net/r/selfhosted/)
+
+[I caught a great deal this week and purchased an Optiplex 3070 for 129 USD. I am excited for my first server! Can’t wait do to things with it. : homelab](https://teddit.net/r/homelab/comments/v2j7dj/i_caught_a_great_deal_this_week_and_purchased_an/)
+
+[Site/blog with tutorials for selfhosting different services : selfhosted](https://teddit.net/r/selfhosted/comments/uwmx6t/siteblog_with_tutorials_for_selfhosting_different/)
+
+[Tools and Resources for Self-Hosting : selfhosted](https://teddit.net/r/selfhosted/comments/uvq1x3/tools_and_resources_for_selfhosting/)
+
+[The 10 best Subreddits to follow if you want to get into self-hosting! : selfhosted](https://teddit.net/r/selfhosted/comments/uwa4mc/the_10_best_subreddits_to_follow_if_you_want_to/)
+
+[In your opinion, what is and what isn’t worth self hosting? : selfhosted](https://teddit.net/r/selfhosted/comments/v68uby/in_your_opinion_what_is_and_what_isnt_worth_self/)
+
+[Learn Jenkins : devops](https://teddit.net/r/devops/comments/vc13gv/learn_jenkins/)
+
+[teddit](https://teddit.net/)
+
+[nitter](https://nitter.net/about)
+
+[Boards | Trello](https://trello.com/gregdevlin4/boards)
+
+[Classic Cars and Parts for Sale | Hemmings](https://www.hemmings.com/)
+
+[ewaste collective](https://ewastecollective.org/)
+
+[Before You Get Mad About The CentOS Stream Change, Think About…](https://crunchtools.com/before-you-get-mad-about-the-centos-stream-change-think-about/)
+
+### LAB
+
+### proxmox
+
+[Useful commands for your Proxmox VE CLI](https://www.proxmox.com/en/news/listid-1/mailid-89-useful-commands-for-your-proxmox-ve-cli?tmpl=component)
+
+[proxmox-h2dc](https://www.youtube.com/playlist?list=PLk3oVaFzBUufFbrE4Y0gnQcjzfmEmT93o)
+
+[proxmox-learnlinuxtv](https://www.youtube.com/playlist?list=PLT98CRl2KxKHnlbYhtABg6cF50bYa8Ulo)
+
+[proxmox-dbtech](https://www.youtube.com/playlist?list=PLhMI0SExGwfADAlk-rmC-IG_JcYz175NX)
+
+[proxmox-virtualize everything](https://www.youtube.com/playlist?list=PL4i6XWPjbaYn1lPDYNjf-J4Cy_zEd2tOz)
+
+[Proxmox-technotim](https://www.youtube.com/playlist?list=PL8cwSAAaP9W37Vnxkw6__sshVY-XohWNm)
+
+[Proxmox VE (PVE) default network settings & autostart, bridge, bond, basics about PVE network etc. > Blog-D without Nonsense](https://dannyda.com/2021/10/29/proxmox-ve-pve-default-network-settings-autostart-bridge-bond-basics-about-pve-network-etc/)
+
+[How to Add a Storage Drive to Proxmox (works with Proxmox 7) - YouTube](https://www.youtube.com/watch?v=ATuUBocesmA&t=65s)
+
+[ZFS on Linux - Proxmox VE](https://pve.proxmox.com/wiki/ZFS_on_Linux)
+
+[ZFS: Tips and Tricks - Proxmox VE](https://pve.proxmox.com/wiki/ZFS:_Tips_and_Tricks)
+
+[How to Add a Storage Drive to Proxmox (works with Proxmox 7) - YouTube](https://www.youtube.com/watch?v=ATuUBocesmA)
+
+[Proxmox VE (PVE) Archives > Blog-D without Nonsense](https://dannyda.com/category/technology/operating-system/proxmox/)
+
+[Proxmox VE (PVE) Archives > Blog-D without Nonsense](https://dannyda.com/category/technology/operating-system/proxmox/)
+
+[PCI(e) Passthrough - Proxmox VE](https://pve.proxmox.com/wiki/PCI(e)_Passthrough)
+
+### pfsense
+
+[Need help in shutting down pfsense when power is through UPS. : PFSENSE](https://www.reddit.com/r/PFSENSE/comments/oc3bnt/need_help_in_shutting_down_pfsense_when_power_is/)
+
+[Attached ups to pfsense, installed apcupsd, and don't get any status info. : PFSENSE](https://www.reddit.com/r/PFSENSE/comments/frelzk/attached_ups_to_pfsense_installed_apcupsd_and/)
+
+[NUT (or APCUPSD): Connect QNAP NAS as slave | Netgate Forum](https://forum.netgate.com/topic/69828/nut-or-apcupsd-connect-qnap-nas-as-slave/2)
+
+### VMWare
+
+### USB-NICs
+
+[Tips for using USB Network Adapters with VMware ESXi | virten.net](https://www.virten.net/2020/09/tips-for-using-usb-network-adapters-with-vmware-esxi/)
+
+### USB-storage
+
+[Disable passthrough for specific USB devices for use with ESXi](https://williamlam.com/2021/05/disable-passthrough-for-specific-usb-devices-for-use-with-esxi.html)
+
+[Creating a VMFS datastore greater than 2TB on a USB device in ESXi](https://williamlam.com/2022/02/creating-a-vmfs-datastore-greater-than-2tb-on-a-usb-device-in-esxi.html)
+
+[USB Devices as VMFS Datastore in vSphere ESXi 7.0 | virten.net](https://www.virten.net/2020/09/usb-devices-as-vmfs-datastore-in-vsphere-esxi-7-0/)
+
+[How to add a USB Disk as VMFS Datastore in ESXi 6.7 - IT-REACT](https://www.it-react.com/index.php/2020/04/26/how-to-add-a-usb-disk-as-vmfs-datastore-in-esxi-6-7/)
+
+[virten.net](https://www.virten.net/)
+
+### storage
+
+[What's the advantage of using ZFS RAIDZ over mdadm? I thought that mdadm was mor... | Hacker News](https://news.ycombinator.com/item?id=6401964)
+
+[mdadm vs zfs? : homelab](https://www.reddit.com/r/homelab/comments/rb75w9/mdadm_vs_zfs/)
+
+[RAID - ArchWiki](https://wiki.archlinux.org/title/RAID)
+
+[TrueNas Scale: State of the Beta Q4 2021 - YouTube](https://www.youtube.com/watch?v=tBZknK6Yktg)
+
+[Free Backup Solution - Veeam Backup & Replication Community Edition](https://www.veeam.com/virtual-machine-backup-solution-free.html)
+
+### tools
+
+[HomelabOS](https://homelabos.com/docs/)
+
+[GitHub - davestephens/ansible-nas: Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.](https://github.com/davestephens/ansible-nas)
+
+[DockSTARTer](https://dockstarter.com/)
+
+[alnoda-workspaces/workspaces/ansible-terraform-workspace at main · bluxmit/alnoda-workspaces · GitHub](https://github.com/bluxmit/alnoda-workspaces/tree/main/workspaces/ansible-terraform-workspace)
+
+[Alnoda Workspaces](https://docs.alnoda.org/)
+
+[Dashboards | Grafana Labs](https://grafana.com/grafana/dashboards/)
+
+### Self-hosted
+
+[Self Hosted Resources and Tools | Self Hosted Resource Archive](https://hosted.lol/guest/lists)
+
+[GitHub - mikeroyal/Self-Hosting-Guide: Self-Hosting Guide](https://github.com/mikeroyal/Self-Hosting-Guide)
+
+[GitHub - awesome-selfhosted/awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
+
+[Did anyone else pause Tim's video and think, well I guess I have a couple more channels to follow? : homelab](https://teddit.net/r/homelab/comments/va26x5/did_anyone_else_pause_tims_video_and_think_well_i/?sort=top)
+
+[firewall](https://192.168.25.1/)
+
+[(server1) - pve - Proxmox Virtual Environment](https://192.168.25.2:8006/#v1:0:18:4:::::::)
+
+[HOMELAB/Useful-Links.md at main · labdaddy/HOMELAB · GitHub](https://github.com/labdaddy/HOMELAB/blob/main/Useful-Links.md)
+
+[Calculate-UPS-runtime](https://www.apc.com/shop/us/en/products/APC-Back-UPS-Pro-1000S-1000VA-120V-Sinewave-AVR-LCD-2-USB-charging-ports-10-NEMA-outlets-4-surge-/P-BR1000MS)
+
+[SSD wipe before sale : homelab](https://teddit.net/r/homelab/comments/usb78x/ssd_wipe_before_sale/)
+
+[GitHub - PartialVolume/shredos.x86\_64: Shredos Disk Eraser 64 bit for all Intel 64 bit processors as well as processors from AMD and other vendors which make compatible 64 bit chips. ShredOS - Secure disk erasure/wipe](https://github.com/PartialVolume/shredos.x86_64#what-is-shredos)
+
+[Debloat Windows in 2022](https://christitus.com/debloat-windows-10-2020/)
+
+[Create a Windows 10 reference image (Windows 10) - Windows Deployment | Microsoft Docs](https://docs.microsoft.com/en-us/windows/deployment/deploy-windows-mdt/create-a-windows-10-reference-image)
+
+[TurnKey GNU/Linux | 100+ free ready-to-use system images for virtual machines, the cloud and bare metal](https://www.turnkeylinux.org/)
+
+[Top 6 open-source Self-hosted Bookmark Manager Solution](https://medevel.com/os-bookmark-archive/)
+
+### Cloud
+
+### AWS
+
+[Learn about Training by Role or Solution | Digital and Classroom Training | AWS](https://aws.amazon.com/training/learn-about/?nc2=sb_tr_la)
+
+[AWS Certification - Validate AWS Cloud Skills - Get AWS Certified](https://aws.amazon.com/certification/)
+
+[AWS Skill Builder](https://explore.skillbuilder.aws/learn)
+
+[AWS Certifications](https://www.reddit.com/r/AWSCertifications/)
+
+[I recently become 5 times AWS certified : AWSCertifications](https://www.reddit.com/r/AWSCertifications/comments/oz2td2/i_recently_become_5_times_aws_certified/)
+
+[How I Passed the AWS Solutions Architect Exam | Medium](https://labeveryday.medium.com/how-i-passed-the-aws-solutions-architect-exam-in-a-month-735f3c3f37f9)
+
+[Amazon Web Services In Plain English](https://expeditedsecurity.com/aws-in-plain-english/)
+
+[Overview of Amazon Web Services - AWS Whitepaper](https://d1.awsstatic.com/whitepapers/aws-overview.pdf)
+
+[How AWS Pricing Works - AWS Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/how-aws-pricing-works.pdf#welcomehttps://docs.aws.amazon.com/whitepapers/latest/how-aws-pricing-works/how-aws-pricing-works.pdf#welcome)
+
+[AWS Support Plan Comparison | Developer, Business, Enterprise, Enterprise On-Ramp | AWS Support](https://aws.amazon.com/premiumsupport/plans/?cp=sec&sec=prep)
+
+### AWS\_CCP
+
+[How I Passed the AWS Cloud Practitioner Exam | Medium](https://labeveryday.medium.com/how-i-passed-the-aws-cloud-practitioner-exam-in-a-week-8c47469e550f)
+
+[AWS Certified Cloud Practitioner Certification | AWS Certification | AWS](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
+[AWS-Certified-Cloud-Practitioner\_Exam-Guide.pdf](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
+
+[AWS Certified Cloud Practitioner - Services Review - YouTube](https://www.youtube.com/playlist?list=PLOSJE9vSDKMUZPOwzCFv0jKbBO5IFvdJI)
+
+[pass wgu c849 site:www.reddit.com - Google Search](https://www.google.com/search?q=pass+wgu+c849+site%3Awww.reddit.com&tbs=cdr%3A1%2Ccd_min%3A1%2F1%2F2021%2Ccd_max%3A5%2F6%2F2022&tbm=)
+
+[Home | IAM Pulse](https://www.iampulse.com/)
+
+[VM images](https://download.cloudlinux.com/cloudlinux/images/)
+
+[GitHub - GoogleCloudPlatform/PerfKitBenchmarker: PerfKit Benchmarker (PKB) contains a set of benchmarks to measure and compare cloud offerings. The benchmarks use default settings to reflect what most users will see. PerfKit Benchmarker is licensed under the Apache 2 license terms. Please make sure to read, understand and agree to the terms of the LICENSE and CONTRIBUTING files before proceeding.](https://github.com/GoogleCloudPlatform/PerfKitBenchmarker)
+
+[PerfKit Benchmarker for evaluating cloud network performance | Google Cloud Blog](https://cloud.google.com/blog/products/networking/perfkit-benchmarker-for-evaluating-cloud-network-performance)
+
+[Cloud Spectator | Cloud Performance Benchmarks](https://cloudspectator.com/)
+
+[CloudHarmony](https://cloudharmony.com/)
+
+[How I Passed the AWS Cloud Practitioner Exam | Medium](https://labeveryday.medium.com/how-i-passed-the-aws-cloud-practitioner-exam-in-a-week-8c47469e550f)
+
+[• Chart: Amazon Leads $180-Billion Cloud Market | Statista](https://www.statista.com/chart/18819/worldwide-market-share-of-leading-cloud-infrastructure-service-providers/)
+
+[Amazon EC2 Instance Comparison](https://instances.vantage.sh/)
+
+[How to Host a Website on S3 Without Getting Lost in the Sea | by Kyle Galbraith | Medium](https://medium.com/@kyle.galbraith/how-to-host-a-website-on-s3-without-getting-lost-in-the-sea-e2b82aa6cd38)
+
+[Adrian Cantrill on LinkedIn: Amazing day today ... I found out that "Jenny" (not real name) had](https://www.linkedin.com/posts/adriancantrill_amazing-day-today-i-found-out-that-jenny-activity-6942729074767196160-594b?utm_source=linkedin_share&utm_medium=member_desktop_web)
+
+### networking
+
+### Labs
+
+[Cisco CCNA Packet Tracer Ultimate labs: CCNA 200-301 labs | Udemy](https://www.udemy.com/course/cisco-ccna-packet-tracer-ultimate-labs-ccna-exam-prep-labs/)
+
+[CCNA Routing & Switching Packet Tracer Labs - YouTube](https://www.youtube.com/playlist?list=PLxbwE86jKRgMQ4HTuaJ7yQgA2BoNwY9ct)
+
+[Packet Tracer Labs Cisco CCNA 200-301 - YouTube](https://www.youtube.com/playlist?list=PLQQoSBmrXmrxDECc1N9BPYdjS8z0sbCwk)
+
+[Packet tracer labs](https://www.packettracerlab.com/)
+
+[Packet Tracer 8.1.1 labs - Packet Tracer Network](https://www.packettracernetwork.com/labs/packettracerlabs.html)
+
+[Wendell's CCNA Skills Blog | Wendell's CCNA Skills Blog | Announcing: New Config Labs, with Packet Tracer and CML Support](https://blog.certskills.com/category/hands-on/config-lab-200-301/)
+
+### DevNet
+
+[Cisco DevNet Makes no sense :( : ccna](https://www.reddit.com/r/ccna/comments/t1a7us/cisco_devnet_makes_no_sense/)
+
+[All your DevNet Associate Prep Resources in one place](https://learningnetwork.cisco.com/s/question/0D53i00000dHT08CAG/all-your-devnet-associate-prep-resources-in-one-place)
+
+[learning-plan-detail-standard](https://learningnetwork.cisco.com/s/learning-plan-detail-standard?ltui__urlRecordId=a1c3i0000007pnIAAQ)
+
+[Cisco DevNet Associate - 200-901 - Cisco Certification Training | CBT Nuggets](https://www.cbtnuggets.com/it-training/cisco/devnet-associate)
+
+### automation
+
+[Network Programmability Basics Video Course](https://developer.cisco.com/video/net-prog-basics/)
+
+[IPvZero](https://www.youtube.com/playlist?list=PLZ-4ZnYRIJpIwW7_6-zfdJ6dejC1a1T_L)
+
+[Netwizz](https://www.youtube.com/playlist?list=PLXFJeNNA18gJK0NV9gravF3x5qoIv62GF)
+
+[Full-Stack Automation Part 1 - Overview | Livio's Dump](https://livio.zanol.com.br/full-stack-it-automation-part-1)
+
+### gns3-on-proxmox
+
+[How to Import OVA to Proxmox » syncbricks](https://syncbricks.com/how-to-import-ova-to-proxmox/)
+
+[Import OVA as Proxmox VM | It's full of stars!](https://www.itsfullofstars.de/2019/07/import-ova-as-proxmox-vm/)
+
+[How to install GNS3 on proxmox : Proxmox](https://www.reddit.com/r/Proxmox/comments/u8n1st/how_to_install_gns3_on_proxmox/)
+
+[Cisco DevNet Makes no sense :( : ccna](https://www.reddit.com/r/ccna/comments/t1a7us/cisco_devnet_makes_no_sense/)
+
+[Best way to study for CCNA Exam in 2020? : ccna](https://www.reddit.com/r/ccna/comments/ks5gp4/best_way_to_study_for_ccna_exam_in_2020/gie4dt2/)
+
+[Computer Networks: A Systems Approach — Computer Networks: A Systems Approach Version 6.2-dev documentation](https://book.systemsapproach.org/)
+
+[Technical Walkthroughs - YouTube](https://www.youtube.com/playlist?list=PL3Y9eZjZCcsd42cC4mv2hrV2OBuI6uisK)
+
+[(great info ! !) Resources :: Christopher Hannan](https://cphannan.github.io/resources/)
+
+[nguvu.org (amazing pfsense info)](https://nguvu.org/)
+
+[Cisco Commands Cheat Sheet](https://www.netwrix.com/cisco_commands_cheat_sheet.html)
+
+[CCNA Study Guide](https://www.computernetworkingnotes.com/ccna-study-guide/)
+
+[Which VPN protocol to use](https://blog.vyos.io/which-vpn-software-to-use?utm_content=206764469&utm_medium=social&utm_source=twitter&hss_channel=tw-1958928739)
+
+[How To Set Up Port Forwarding - Port Forward](https://portforward.com/)
+
+[Julio Gomez, Author at Cisco Blogs - Page 5 of 5](https://blogs.cisco.com/author/juliogomez/page/5)
+
+[Hank Preston, Author at Cisco Blogs - Page 5 of 5](https://blogs.cisco.com/author/hankpreston/page/5)
+
+[Open Traffic Generator · GitHub](https://github.com/open-traffic-generator)
+
+### Programming
+
+### Gergeley-Orosz
+
+[Growing as a Developer](https://www.engguidebook.com/)
+
+[What a Good Developer Resume Looks Like: The Tech Resume Inside Out](https://thetechresume.com/)
+
+[The Pragmatic Engineer - The Pragmatic Engineer](https://blog.pragmaticengineer.com/)
+
+[The Pragmatic Engineer | Gergely Orosz | Substack](https://newsletter.pragmaticengineer.com/about)
+
+### python
+
+[Creating APIs with Python - Free 19-Hour Course](https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/)
+
+[Python Tutorial for Beginners: Learn Python Quickly • Python Land Tutorial](https://python.land/python-tutorial)
+
+### powershell
+
+[UTW – Under the Wire… PowerShell Training for the People](https://underthewire.tech/)
+
+[Craftware-!!!](https://craftware.xyz/ctf/underthewire/2018/05/10/UnderTheWire-Century.html)
+
+[Developer Roadmaps](https://roadmap.sh/)
+
+[Advanced Python](https://www.udemy.com/courses/search/?src=ukw&q=fred+baptiste)
+
+[git - the simple guide - no deep shit!](https://rogerdudler.github.io/git-guide/)
+
+[git/github resources](https://kbroman.org/github_tutorial/pages/resources.html)
+
+[git-cheat-sheet-education](https://education.github.com/git-cheat-sheet-education.pdf)
+
+[Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges - YouTube](https://www.youtube.com/watch?v=oBt53YbR9Kk&list=WL&index=2)
+
+[Write A Github README.md. When first trying to include a readme… | by Chris Houghton | Medium](https://chrishoughton2434.medium.com/write-a-github-readme-md-c822b3d7bb54)
+
+[How iPaaS bridges the gap between low-code and professional development | by Planet Crust | May, 2022 | Medium](https://planetcrust.medium.com/how-ipaas-bridges-the-gap-between-low-code-and-professional-development-c096cc89edba)
+
+[TIOBE Index - TIOBE](https://www.tiobe.com/tiobe-index/)
+
+[(learn 'scheme) - A Complete Environment for Learning Lisp](https://jaredkrinke.github.io/learn-scheme/)
+
+[Best Programming Languages to Learn in 2022 (for Job & Future)](https://hackr.io/blog/best-programming-languages-to-learn)
+
+### Security
+
+### Training
+
+[Free and Low Cost Online Cybersecurity Learning Content | NIST](https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content)
+
+[SEED Project](https://seedsecuritylabs.org/Labs_20.04/)
+
+[Letsdefend lab review](https://www.cyberhuntingguide.net/letsdefend-review.html)
+
+[Pick a Vulnerability to Learn About](https://www.hacksplaining.com/lessons)
+
+[PentesterLab: Learn Web Penetration Testing: The Right Way](https://pentesterlab.com/)
+
+[Full-Length Hacking Courses - YouTube](https://www.youtube.com/playlist?list=PLLKT__MCUeixqHJ1TRqrHsEd6_EdEvo47)
+
+[Blue Team Labs Online - Cyber Range](https://blueteamlabs.online/)
+
+[How to Set Up a Cybereason Test Environment with Virtual Machine](https://hub.metronlabs.com/how-to-set-up-a-cybereason-test-environment-with-virtual-machine/)
+
+[malwareunicorn.org](https://malwareunicorn.org/#/)
+
+[DA\_667's Infosec Funhouse – Came for the infosec, stayed for the shitposts](https://www.yeettheayys.cf/)
+
+[TJnull’s guide to building a Home Lab | NetSec Focus](https://www.netsecfocus.com/home/lab/2020/09/21/Tjnulls_guide_to_building_a_Home_Lab.html#)
+
+[Pentest Lab Setup Archives - Hacking Articles](https://www.hackingarticles.in/category/pentest-lab-setup/)
+
+[Active Directory Pentesting: Lab Setup - Hacking Articles](https://www.hackingarticles.in/active-directory-pentesting-lab-setup/)
+
+### sophos
+
+[Sophos (XG) Firewall - Sophos Product Support and Documentation | Sophos Customer Resource Centers](https://www.sophos.com/en-us/support/documentation/sophos-xg-firewall)
+
+[Getting started - Sophos Firewall](https://docs.sophos.com/nsg/sophos-firewall/18.5/Help/en-us/webhelp/onlinehelp/AdministratorHelp/GettingStarted/index.html)
+
+[Questions about VMware OVF virtual installer files - Discussions - Sophos Firewall - Sophos Community](https://community.sophos.com/sophos-xg-firewall/f/discussions/124867/questions-about-vmware-ovf-virtual-installer-files)
+
+[Sophos Central - Sophos Product Support and Documentation | Sophos Customer Resource Centers](https://www.sophos.com/en-us/support/documentation/sophos-central)
+
+[Instructions on how to install VMWare Esxi and deploy Sophos XG on VMWare Esxi – Techbast](https://techbast.com/2020/12/instructions-on-how-to-install-vmware-esxi-and-deploy-sophos-xg-on-vmware-esxi.html)
+
+[MySophos User Guide and FAQs](https://support.sophos.com/support/s/article/KB-000035574?language=en_US)
+
+[Sophos Support - YouTube](https://www.youtube.com/c/SophosSupport/playlists)
+
+[Firewalls.com - YouTube](https://www.youtube.com/c/firewallsDotCom/playlists)
+
+### opnsense
+
+[Download - OPNsense® is a true open source firewall and more](https://opnsense.org/download/)
+
+[Install OPNsense - High-End Security Made Easy™](https://opnsense.org/users/get-started/)
+
+[How to Run OPNsense in a Proxmox Virtual Machine for Evaluation Purposes](https://homenetworkguy.com/how-to/run-opnsense-in-proxmox-vm/)
+
+[How to Install OPNsense Firewall in Proxmox? | Step by Step. – GetLabsDone](https://getlabsdone.com/how-to-install-opnsense-firewall-in-proxmox-step-by-step/)
+
+[OPNsense Firewall Installation - sunnyvalley.io](https://www.sunnyvalley.io/docs/network-security-tutorials/opnsense-installation)
+
+### design
+
+[Security By Design Principles According To OWASP - Patchstack](https://patchstack.com/security-design-principles-owasp/)
+
+[Design Principles](https://www.cs.clemson.edu/course/cpsc420/material/Design%20Principles/Design%20Principles.pdf)
+
+[What Fundamental Security Design Principles? - Binary Terms](https://binaryterms.com/fundamental-security-design-principles.html)
+
+### Frameworks-Models
+
+### CMMC
+
+[CMMC Level 1 | Requirements & Steps to Achievement](https://www.neosystemscorp.com/solutions-services/hosting-security/cmmc/level-1/)
+
+[CMMC Level 1 certification and preparation (how-to)](https://www.cmmcaudit.org/cmmc-level-1-certification-and-preparation-how-to/)
+
+[Strategic Direction for Cybersecurity Maturity Model Certification (CMMC) Program > U.S. Department of Defense > Release](https://www.defense.gov/News/Releases/Release/Article/2833006/strategic-direction-for-cybersecurity-maturity-model-certification-cmmc-program/)
+
+[OUSD A&S - Cybersecurity Maturity Model Certification (CMMC)](https://www.acq.osd.mil/cmmc/)
+
+[Common Information Security Frameworks | N-able](https://www.n-able.com/blog/information-security-framework)
+
+[Cybersecurity Framework | NIST](https://www.nist.gov/cyberframework)
+
+[SOC 2, The Definitive Guide | Comprehensive SOC 2 Guide | A-LIGN](https://www.a-lign.com/resources/soc-2-the-definitive-guide)
+
+### insurance-market
+
+[Top 8 Cyber Insurance Companies for 2022 | eSecurity Planet](https://www.esecurityplanet.com/products/cyber-insurance-companies/)
+
+[Cyberinsurance Market To Reach $34 Billion By 2031](https://cybersecurityventures.com/cyberinsurance-market-to-reach-34-billion-by-2031/)
+
+### general
+
+[InfraGard](https://www.infragard.org/Application/General/NewApplication)
+
+[3 Ways to Stay Ahead on Supply Chain Security | FedTech Magazine](https://fedtechmagazine.com/article/2019/10/3-ways-stay-ahead-supply-chain-security)
+
+[NSA report: This is how you should be securing your network | ZDNet](https://www.zdnet.com/article/nsa-report-this-is-how-you-should-be-securing-your-network/)
+
+[IBM Study Shows Data Breach Costs on the Rise; Financial Impact Felt for Years - Jul 23, 2019](https://newsroom.ibm.com/2019-07-23-IBM-Study-Shows-Data-Breach-Costs-on-the-Rise-Financial-Impact-Felt-for-Years)
+
+[What is the difference between cyber security and ICT security? - Quora](https://www.quora.com/What-is-the-difference-between-cyber-security-and-ICT-security)
+
+[it-bigpicture\_orig.png (1100×719)](https://www.cyberhuntingguide.net/uploads/1/3/6/6/136612955/bigitpicture_orig.png)
+
+[CTF Write-ups](https://drewadwade.github.io/ctfs/ctfs.html)
+
+[vx-underground](https://www.vx-underground.org/index.html)
+
+[Noted is Self Hosted - Here's How I did It And Why](https://noted.lol/noted-is-self-hosted-heres-how-i-did-it/)
+
+### security-basics
+
+[Privacy Tools: Fight Mass Surveillance with Encryption](https://www.privacytools.io/#vpn)
+
+[A Complete Guide to Virtual Private Networks (VPNs) - Privacy Guides](https://www.privacytools.io/guides/a-complete-guide-to-virtual-private-networks-vpns)
+
+[Flex Pass](https://www.sparrowslockpicks.com/product_p/hpflex.htm)
+
+[Video Storage Calculator, DVR / NVR Hard Drive Calculator](https://videos.cctvcamerapros.com/video-storage-calculator#{%22number_of_cameras%22:3,%22days_of_footage%22:30,%22resolution%22:%227501%22,%22frame_rate%22:%221.25%22,%22activity%22:%220.9%22,%22encoding%22:%221%22})
+
+[GRC | ShieldsUP! — Internet Vulnerability Profiling](https://www.grc.com/shieldsup)
+
+### youtube
+
+### security
+
+[I.T Security Labs - YouTube](https://www.youtube.com/c/ITSecurityLabs/playlists)
+
+[Alban Gabillon - Cybersecurity - YouTube](https://www.youtube.com/channel/UCb6kvLtSv54WSr-nNlOF4cA/playlists)
+
+[CyberInsight - YouTube](https://www.youtube.com/c/CYBERINSIGHT/playlists)
+
+[G6 Technology Services - YouTube](https://www.youtube.com/c/G6TechnologyServices/playlists)
+
+[HackerSploit - YouTube](https://www.youtube.com/c/HackerSploit/playlists)
+
+[I.T Security Labs - YouTube](https://www.youtube.com/c/ITSecurityLabs/playlists)
+
+[Introduction to Cryptography by Christof Paar - YouTube](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
+
+[Null Byte - YouTube](https://www.youtube.com/c/NullByteWHT/playlists)
+
+### programming
+
+[Fireship - YouTube](https://www.youtube.com/c/Fireship/playlists)
+
+[chuck black - YouTube](https://www.youtube.com/c/chuckblack52weeks/playlists)
+
+[kubucation - YouTube](https://www.youtube.com/c/kubucation/playlists)
+
+[Michael Levan - YouTube](https://www.youtube.com/c/CloudDevEngineering/playlists)
+
+### sysadmin
+
+[Josh Madakor - Tech, Education, Career - YouTube](https://www.youtube.com/c/JoshMadakor/playlists)
+
+[Computers, Security & Gadgets - YouTube](https://www.youtube.com/c/ComputersSecurityGadgets/playlists)
+
+[Jeff Geerling - YouTube](https://www.youtube.com/c/JeffGeerling/playlists)
+
+[Level1Techs - YouTube](https://www.youtube.com/c/Level1Techs/playlists)
+
+[Level1Linux - YouTube](https://www.youtube.com/c/TekLinux/videos)
+
+[Jeffrey Kusters - YouTube](https://www.youtube.com/c/JeffreyKusters/playlists)
+
+[Learn Linux TV - YouTube](https://www.youtube.com/c/LearnLinuxtv/playlists)
+
+[MSFT WebCast - YouTube](https://www.youtube.com/c/MSFTWebCast/playlists)
+
+[theurbanpenguin - YouTube](https://www.youtube.com/c/theurbanpenguin/playlists)
+
+[Adam Driscoll - YouTube](https://www.youtube.com/c/AdamDriscoll/playlists)
+
+[Robert McMillen - YouTube](https://m.youtube.com/user/clickx3/playlists)
+
+[ReclaiMe Data Recovery - YouTube](https://m.youtube.com/c/Reclaime/playlists)
+
+[PhasedLogix IT Services - YouTube](https://m.youtube.com/c/PhasedLogixITServices/playlists)
+
+[OneMarcFifty - YouTube](https://m.youtube.com/c/OneMarcFifty/playlists)
+
+[Linux Tutorials - YouTube](https://www.youtube.com/playlist?list=PLRjzjpJ02WDNcjTTjUtzcITTYDmgjUp0-)
+
+[Sander van Vugt, RhatCertification - YouTube](https://www.youtube.com/c/Rhatcert/playlists)
+
+[Ansible Pilot - YouTube](https://www.youtube.com/c/AnsiblePilot/playlists)
+
+### networking
+
+[David Bombal - YouTube](https://www.youtube.com/c/DavidBombal/playlists)
+
+[Jeremy's IT Lab - YouTube](https://www.youtube.com/c/JeremysITLab/playlists)
+
+[Lawrence Systems - YouTube](https://www.youtube.com/user/TheTecknowledge/playlists)
+
+[NetShark - YouTube](https://www.youtube.com/c/NetSharkPro/playlists)
+
+[Network Direction - YouTube](https://www.youtube.com/c/NetworkDirection/playlists)
+
+[Network Savage - YouTube](https://www.youtube.com/c/NetworkSavage/playlists)
+
+[Practical Networking - YouTube](https://m.youtube.com/c/PracticalNetworking/playlists)
+
+### cloud
+
+[IAM Pulse - YouTube](https://www.youtube.com/channel/UCSI2zP4_fEzDTf24qTYueJg/videos)
+
+[LearnCantrill - YouTube](https://www.youtube.com/c/LearnCantrill/playlists)
+
+[Michael Crilly - YouTube](https://www.youtube.com/c/MichaelCrilly/playlists)
+
+### homelab
+
+[Learn Linux TV - YouTube](https://www.youtube.com/c/LearnLinuxtv/playlists)
+
+[Techno Tim - YouTube](https://www.youtube.com/c/TechnoTimLive/playlists)
+
+[Awesome Open Source - YouTube](https://www.youtube.com/c/AwesomeOpenSource)
+
+[The Digital Life - YouTube](https://www.youtube.com/c/TheDigitalLifeTech/playlists)
+
+[DB Tech - YouTube](https://www.youtube.com/c/DBTechYT/playlists)
+
+[The Digital Life - YouTube](https://m.youtube.com/c/TheDigitalLifeTech/playlists)
+
+### devops
+
+[DevOps Journey - YouTube](https://www.youtube.com/c/DevOpsJourney/playlists)
+
+[DevOps Toolkit - YouTube](https://www.youtube.com/c/DevOpsToolkit/playlists)
+
+[TechWorld with Nana - YouTube](https://www.youtube.com/c/TechWorldwithNana/playlists)
+
+[More than Certified - YouTube](https://m.youtube.com/c/MorethanCertified)
+
+[Thetips4you - YouTube](https://m.youtube.com/c/Thetips4you/playlists)
+
+[More than Certified - YouTube](https://m.youtube.com/c/MorethanCertified/playlists)
+
+[DevOps Directive - YouTube](https://m.youtube.com/c/DevOpsDirective/playlists)
+
+[Chris Titus Tech - YouTube](https://www.youtube.com/c/ChrisTitusTech/playlists)
+
+[Veronica Explains - YouTube](https://www.youtube.com/c/VeronicaExplains/playlists)
+
+[Lawrence Systems - YouTube](https://www.youtube.com/user/TheTecknowledge/playlists)
+
+[Raid Owl - YouTube](https://www.youtube.com/c/RaidOwl/playlists)
+
+[Vinsloev Academy - YouTube](https://m.youtube.com/c/VinsloevAcademy/playlists)
+
+[Tech Me Out - YouTube](https://m.youtube.com/c/TechMeOut5/playlists)
