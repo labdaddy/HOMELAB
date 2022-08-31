@@ -22,5 +22,14 @@
 - For some currently unknown reason, the recently downloaded image needs to be renamed so the file type is qcow2. Use this command: `mv ubuntu-22.04-minimal-cloudimg-amd64.img ubuntu-22.04.qcow2' The name could be whatever you want just make sure the extension is changed to qcow2.
 - Next the drive size needs to be selected with: `qemu-img resize ubuntu-22.04.qcow2 32G` Use whatever size you want, doesn't need to be 32G .
 - Next we need to import the disk to Proxmox with `qm importdisk 900 ubuntu-22.04.qcow2 local-lvm`. Local lvm does not need to be used, just replace with whatever storage location you intend to use.
+- Next go back to the proxmox GUI and go the hardware tab for the VM
+- At the bottom of the list is `Unused disk`, click on it and then click `Edit` at the top
+- Then on the popup click the checkbox next to `Disable`, 
+- Then, if you are using an SSD for the storage for this VM, click the checkbox next to `Advanced`
+- Make sure to check SSD Emulation then click on the blue `Add` button
+- Now on the next screen you can see that the hard disk is populated and in use
+- Next click on the Options section (the one below Summary) and then select `Boot order` and click `Edit`
+- Then on the `Boot order` popup click and hold the VM disk (will say scsi0 or similar) and drag it to the second position in the list and click `OK`
+- Then on the pve view on the main GUI console, right click on the VM you've been working on and click `Convert to tempplate`
 - 
-
+-  
