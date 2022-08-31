@@ -1,0 +1,22 @@
+###CREATE A MINIMAL UBUNTU SERVER CLOUD IMAGE
+- start the VM creation process
+- On the General tab: assign a number to the VM, provide a name, click next
+- On the OS tab: on ISO image select `Do not use any media`, next
+- On the System tab: click the box for `Qemu agent`, next
+- On the Disks tab: delete the storage disk displayed in the little box on the left side of the popup window, next
+- On the CPU tab: select cores, next
+- On the Memory tab: select memory, next
+- On the Network tab: choose the network you want and make sure `VirtIO (paravirtualized)` is selected, next
+- On the Confirm tab: review, make sure `Start after created` is NOT selected, click `Finish`
+- Once the VM is created go to the hardware tab for that new VM and select the `Cloudinit Drive`
+- On the popup choose local storage or whatever other storage provider you want to use then click add
+- Then go to the Cloud-Init section on the left (the section below Summary, not CloudInit drive attached to the machine) and click it
+- On this tab click `User` and enter the name you want
+- Then click on `Password` and enter the password you want
+- Then on `SSH key`, if you have a public SSH key you would like to use for this machine go ahead and add it here
+- Then on `Network`, set to DCHP (or don't, depending on your network needs)
+- Then click `Regenerate image`.
+- Open the shell on the proxmox host or SSH in and access the shell that way
+- Download the ubuntu cloud image using: `wget https://cloud-images.ubuntu.com/minimal/releases/jammy/release/ubuntu-22.04-minimal-cloudimg-amd64.img`
+- Once thats done, you need to run a qm command on the shell: `qm set <VM ID> --serial0 socket --vga serial0`
+- 
