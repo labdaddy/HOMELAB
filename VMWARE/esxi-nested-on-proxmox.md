@@ -19,10 +19,9 @@ BIOS: SeaBIOS (OVMF (UEFI) should work too)\
 Machine: q35
 
 - Hard Disk Tab\
-Bus/Device: SATA
-SSD emulation: Check
-
-Discard: Check
+Bus/Device: SATA\
+SSD emulation: Check\
+Discard: Check\
 
 - CPU Tab\
 Cores: as needed\
