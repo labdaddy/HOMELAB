@@ -10,7 +10,8 @@
 - `# NOT recommended for production use`
 - `deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription`
 - type `ctrl + O`, press `enter`, type `ctrl + X`, press `enter`
-- type `apt update` and `apt -y dist-upgrade`
+- type `apt -y update && apt -y upgrade`, press `enter`
+- then type `apt -y dist-upgrade` and press `enter`
 - when the update process finishes type `reboot`
 
 voila 
