@@ -21,6 +21,7 @@ Machine: q35
 - Hard Disk Tab\
 Bus/Device: SATA
 SSD emulation: Check
+
 Discard: Check
 
 - CPU Tab\
