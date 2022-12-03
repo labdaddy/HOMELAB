@@ -9,8 +9,10 @@ PROXMOX HOST CONSOLE
 #### CREATE THE VM
 Follow the normal VM creation process except as noted below:
 
-- OS tab\
-OS typ:e Other
+- OS Tab\
+Make sure for ISO Image, we have selected vSphere 7.0 installer iso file
+Type: Linux
+Version: 5.x – 2.6 Kernel
 
 - System Tab\
 Graphic card: Default\
