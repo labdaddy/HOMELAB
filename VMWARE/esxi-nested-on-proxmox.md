@@ -37,7 +37,7 @@ Ballooning Device: Uncheck
 - Network Tab\
 Model: VMware vmxnet3
 
-Finish VM creation but DO NOT start the VM yet
+### Finish VM creation but DO NOT start the VM yet
 
 #### Go back to the proxmox console
 
