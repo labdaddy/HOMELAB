@@ -99,13 +99,13 @@ Install Filebeat.
 
 ### STEP 19
 Edit the /etc/filebeat/filebeat.yml file with your favorite text editor to add the following entry to connect to our elasticsearch service.
-# ================================== Outputs ===================================
+================================== Outputs ===================================
 
-# Configure what output to use when sending the data collected by the beat.
+Configure what output to use when sending the data collected by the beat.
 
-# ---------------------------- Elasticsearch Output ----------------------------
+---------------------------- Elasticsearch Output ----------------------------
 output.elasticsearch:
-# Array of hosts to connect to.
+Array of hosts to connect to.
 hosts: ["192.168.1.150:9200"]
 
 Now we’ve set up some basic logging to send logs to elasticsearch over port 9200! We’ll want to test it now to make sure it’s collecting logs and sending it for proper indexing. (NOTE: We will have to change this once we start enabling security features.)
