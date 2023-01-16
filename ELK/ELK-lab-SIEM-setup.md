@@ -82,23 +82,44 @@ Edit the /etc/kibana/kibana.yml file with your favorite text editor to add the f
 
 ### STEP 15
 Start and enable the Kibana service and restart elasticsearch (this is always a good practice when restarting either service as Kibana and elasticsearch are very dependent on each other).
-- `sudo systemctl start kibana`
-- `sudo systemctl enable kibana`
+- `sudo systemctl start kibana && sudo systemctl enable kibana`
 - `sudo systemctl restart elasticsearch`
 
-
 ### STEP 16
-
+Check the status of both the elasticsearch and Kibana services before moving on to the next step (NOTE: If you run the command as pictured in the screenshot, you will have to press “Q” to see the next output):
+- `sudo systemctl status kibana && sudo systemctl status elasticsearch`
 
 ### STEP 17
-
+Now that we’ve established the kibana and elasticsearch services on our machine, we can add Logstash to help with any potential logs that elasticsearch may not know how to index by default and filebeat to get some other cool features and monitoring on our VM itself. 
+- `sudo apt install logstash -y && sudo systemctl start logstash && sudo systemctl enable logstash`
 
 ### STEP 18
-
+Install Filebeat.
+- `sudo apt install filebeat -y`
 
 ### STEP 19
+Edit the /etc/filebeat/filebeat.yml file with your favorite text editor to add the following entry to connect to our elasticsearch service.
+# ================================== Outputs ===================================
 
+# Configure what output to use when sending the data collected by the beat.
 
+# ---------------------------- Elasticsearch Output ----------------------------
+output.elasticsearch:
+# Array of hosts to connect to.
+hosts: ["192.168.1.150:9200"]
+
+Now we’ve set up some basic logging to send logs to elasticsearch over port 9200! We’ll want to test it now to make sure it’s collecting logs and sending it for proper indexing. (NOTE: We will have to change this once we start enabling security features.)
+
+### STEP 20
+Run the Filebeat setup commands with the following arguments to tell Filebeat we don’t need Logstash logging and to ensure we have the proper host configured in our yml file:
+- `sudo filebeat setup --index-management -E output.logstash.enabled=false 'output.elasticsearch.hosts=["192.168.1.150:9200"]' && sudo systemctl start filebeat && sudo systemctl enable filebeat`
+
+### STEP 21
+### STEP 22
+### STEP 23
+### STEP 24
+### STEP 20
+### STEP 20
 ### STEP 20
 
 
