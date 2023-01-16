@@ -1,4 +1,4 @@
-## ELK LAB (SIEM) SETUP
+## ELK LAB (SIEM) SETUP 
 
 This setup used the wonderful series of articles at LevelEffect.com, [How to setup your own home lab with ELK](https://www.leveleffect.com/blog/how-to-set-up-your-own-home-lab-with-elk)
 
@@ -115,6 +115,9 @@ Run the Filebeat setup commands with the following arguments to tell Filebeat we
 - `sudo filebeat setup --index-management -E output.logstash.enabled=false 'output.elasticsearch.hosts=["192.168.1.150:9200"]' && sudo systemctl start filebeat && sudo systemctl enable filebeat`
 
 ### STEP 21
+Run another curl command to check and make sure our indices are working properly to ingest the logs from Filebeat.
+- `curl -XGET http://192.168.1.150:9200/_cat/indices?v`
+
 ### STEP 22
 ### STEP 23
 ### STEP 24
@@ -122,6 +125,34 @@ Run the Filebeat setup commands with the following arguments to tell Filebeat we
 ### STEP 20
 ### STEP 20
 
+This is part two of a four-part series on how to set up your own home lab with ELK. Read part one.
+
+You may have noticed that the URLs we’ve been using to test our running services are using http. This can be okay in a home lab environment; however, it can be extremely insecure for anyone who could be monitoring a given network—no bueno. Plus, we also lose out on some great features of the ELK stack—also, no bueno.
+We’ve intentionally neglected some pieces of the setup specifically to make sure we’re not having to change anything unnecessarily in our stack for this reason and at this point in the article, we do not have a fully functioning stack as a result. So buckle up—we’re about to finish this thing out and make a fully functional SIEM and implement some security in transit for our data.
+
+To start, we need some form of verifying identities here by using certificates. These certificates in essence will be no different than the certificates you see while browsing the web over HTTPS; however, instead of being “verified” by a trusted entity, they’ll be verified by we, ourselves, and us.
+
+There’s no reason to make this more difficult, however, so let’s start by creating a “template” to use to automatically generate some certificates for us using some elasticsearch utilities.
+Helpful Jump Links
+
+Section 1: Creating a Certificate Authority
+Section 2: Applying Proper Permissions
+Section 3: Configuring the Services
+Section 4: Password Generation
+Section 5: Log in to ELK
+1. Start by navigating to the /usr/share/elasticsearch/ directory.
+
+Untitled
+
+cd /usr/share/elasticsearch/
+
+2. Create a new file here called instances.yml using your favorite text editor.
+
+sudo vim instances.yml
+
+3. Paste the following entries in the new file. These will be used to associate each service name with the IP of our machine. IMPORTANT NOTE: If you did not install logstash in the previous steps, remove it from this file and the subsequent certificate steps to avoid any “file or directory not found” errors.
+
+instances:
 
 
 
