@@ -56,7 +56,7 @@ Edit the /etc/elasticsearch/elasticsearch.yml file to add the following (NOTE: Y
 - `cluster.name: <your lab name here>`
 - `nnetwork.host: 192.168.1.150`
 - `http.port: 9200`
-- `discovery.type: single-node [this line does not exist in the config file and will need to be added below the ones listed above]
+- `discovery.type: single-node` [this line does not exist in the config file and will need to be added below the ones listed above]
 
 ### STEP 10
 After you’ve updated the configuration file, start and enable the elasticsearch.service service. This may take a minute or two.
