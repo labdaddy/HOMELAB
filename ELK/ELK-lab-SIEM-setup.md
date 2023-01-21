@@ -26,7 +26,7 @@ Login to your new server and run the following commands:
 
 ### STEP 3
 Install apt-transport-https to enable TLS/SSL-encrypted downloads from repositories and validate their certificates:
-`sudo apt install apt-transport-https -y`
+- `sudo apt install apt-transport-https -y`
 
 ### STEP 4
 Add the elastic GnuPrivacyGuard (GPG) key to our VM and add the repo to our apt sources.
