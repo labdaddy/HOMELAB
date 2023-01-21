@@ -30,7 +30,7 @@ Install apt-transport-https to enable TLS/SSL-encrypted downloads from repositor
 
 ### STEP 4
 Add the elastic GnuPrivacyGuard (GPG) key to our VM and add the repo to our apt sources.
-`wget -qO - [<https://artifacts.elastic.co/GPG-KEY-elasticsearch>](<https://artifacts.elastic.co/GPG-KEY-elasticsearch>) | sudo apt-key add - && echo "deb [<https://artifacts.elastic.co/packages/7.x/apt>](<https://artifacts.elastic.co/packages/7.x/apt>) stable main" | sudo tee /etc/apt/sources.list.d/elastic-7.x.list`
+- `wget -qO - [<https://artifacts.elastic.co/GPG-KEY-elasticsearch>](<https://artifacts.elastic.co/GPG-KEY-elasticsearch>) | sudo apt-key add - && echo "deb [<https://artifacts.elastic.co/packages/7.x/apt>](<https://artifacts.elastic.co/packages/7.x/apt>) stable main" | sudo tee /etc/apt/sources.list.d/elastic-7.x.list`
 
 We should see an OK to indicate that the GPG key is added and an echo of our /etc/apt/sources entry as a successful output. This will allow us to pull from the elasticsearch repository when we look to install the ELK components and verify that the packages are coming from a trusted source by verifying its GPG key!
 
