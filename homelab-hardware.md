@@ -34,9 +34,9 @@ Secure network (Cybersecurity for small networks book)
 
 Wireguard VPN (with Turnkey linux), site to site access to AWD
 
-- WIFI: setup WAP for SDR practice
-- 
-- CCTV: setup AVA camera, use practice cam traffic [Testcamera software](https://support.networkoptix.com/hc/en-us/articles/360018067074-TestCamera-IP-Camera-Emulator "‌")
+WIFI: setup WAP for SDR practice
+
+CCTV: setup AVA camera, use practice cam traffic [Testcamera software](https://support.networkoptix.com/hc/en-us/articles/360018067074-TestCamera-IP-Camera-Emulator "‌")
 
 [Setup a SIEM: ELK stack](https://www.leveleffect.com/blog/how-to-set-up-your-own-home-lab-with-elk "‌") 
 
@@ -52,3 +52,10 @@ Wireguard VPN (with Turnkey linux), site to site access to AWD
 - HP Proliant Microserver Gen8
 - Specs: Xeon E3-1230 V2, 4C/8T, 16gb ram, 250gb boot drive, 4 x 6tb hdd
 - Hypervisor: TrueNAS SCALE
+
+DONE:
+
+WAITING:
+Photoprism
+
+Camera VMS
