@@ -4,6 +4,7 @@
 - Peripherals: Intel T-350 Quad GBE NIC(using proprietary PCIE riser card)
 
 DONE:
+
 [vcenter server](https://www.nakivo.com/blog/vmware-vsphere-7-installation-setup/)
 
 [pfsense](https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-esxi.html) firewall, routing, dhcp
