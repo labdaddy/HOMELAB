@@ -1,7 +1,4 @@
-## Homelab Hardware
-
-
-### SRV01 (prod network)
+## SRV01 (prod network)
 - Lenovo M720q Tiny
 - Specs: i5-8500, 6C/6T, 32gb ram, 2tb nvme
 - Peripherals: Intel T-350 Quad GBE NIC(using proprietary PCIE riser card)
@@ -24,7 +21,7 @@ WAITING:
 
 OpenVPN (with Turnkey linux) [Example](https://www.wundertech.net/how-to-set-up-openvpn-on-pfsense/)
  
-### SRV02 (test network)
+## SRV02 (test network)
 - Dell Optiplex 3060 Micro
 - Specs: Intel i7-8700T, 6C/12T, 64gb ram, 1tb SSD
 - Hypervisor: Proxmox VE 7.3
@@ -50,7 +47,7 @@ Wireguard VPN (with Turnkey linux), site to site access to AWD
 
 [Zabbix for Proxmox (monitoring)](https://homegrowntechie.com/installing-zabbix-for-homelab-monitoring/)
 
-### NAS01 (storage)
+## NAS01 (storage)
 - HP Proliant Microserver Gen8
 - Specs: Xeon E3-1230 V2, 4C/8T, 16gb ram, 250gb boot drive, 4 x 6tb hdd
 - Hypervisor: TrueNAS SCALE
