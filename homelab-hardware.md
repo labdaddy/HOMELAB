@@ -30,7 +30,8 @@ OpenVPN (with Turnkey linux) [Example](https://www.wundertech.net/how-to-set-up-
 - Dell Optiplex 3060 Micro
 - Specs: Intel i7-8700T, 6C/12T, 64gb ram, 1tb SSD
 - Hypervisor: ESXi 7.0, VCSA
-- DONE:
+
+DONE:
 Proxmox 7.3
 
 WAITING:
