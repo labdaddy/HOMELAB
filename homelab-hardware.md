@@ -4,6 +4,7 @@
 ### SRV01 (prod network)
 - Lenovo M720q Tiny
 - Specs: i5-8500, 6C/6T, 32gb ram, 2tb nvme
+- Peripherals: Intel T-350 Quad GBE NIC(using proprietary PCIE riser card)
 
 DONE:
 [esxi 7.0](https://www.nakivo.com/blog/vmware-vsphere-7-installation-setup/)
