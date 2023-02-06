@@ -9,8 +9,8 @@ Click `remove`.
 Then go to the shell and enter the commands below:
 
 -----------------
-`lvremove /dev/pve/data`
-`lvresize -l +100%FREE /dev/pve/root`
-`resize2fs /dev/mapper/pve-root`
+- `lvremove /dev/pve/data`
+- `lvresize -l +100%FREE /dev/pve/root`
+- `resize2fs /dev/mapper/pve-root`
 
 Voila, the whole drive is available !
