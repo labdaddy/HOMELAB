@@ -1,8 +1,10 @@
-### TO ADD ZFS POOL AND DATASETS
+### CREATE AND ADD ZFS POOL
 - Go to node_name and click on `Disks` then click on `ZFS`
 - On the ZFS page click on `create`, then give your pool a name, then select the RAID level in the dropdown. 
 - Make SURE to uncheck the box that says `Add storage`. This is super strange and unintuitive but if this box is left checked, you will not be able to use this storage pool for most types of data storage. So make sure it is UNCHECKED.
-- Leave `compression` and `ashift` as is and click `create`
+- Leave `compression` and `ashift` as is and click `create`. Now the pool is created.
+
+### CREATE AND ADD DATASETS
 - Once the pool is created go back to node_name and click on `shell`
 - In the shell enter `zfs create pool_name/data_set_name -o mountpoint=/mnt_point`. Replace pool_name with the name of the pool you just created. Replace data_set_name with the name you want for your dataset. Replace mount_point with the mountpoint of your choice.
 - Once finished go back to the main Proxmox GUI and click on `datacenter` then click on `storage`.
