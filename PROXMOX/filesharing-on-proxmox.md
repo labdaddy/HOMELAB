@@ -8,4 +8,15 @@ Install debian 11 LXC
 - This will display a popup window with a long list of available LXC container templates.
 - From the list, select Debian 11 standard and click on `Download` in the bottom right corner of this popup window.
 - The template will download a .tar file with the filesystem of a standard Debian system but without the kernel and kernel modules. Those will be inherited from the host. The container has is own networking, permissions etc but no kernel or drivers.
+- Next go to create CT (in the upper right corner)
+- On the container configuration page leave `unpriveleged container` checked.
+- Provide a hostname, password and ssh key (if you want)
+- On the next page select the container template from the Template dropdown menu
+- On the next page assign a small amount of storage for the OS (8gb is fine)
+- On the next page assign CPU (1 core is fine)
+- On the next page assign RAM (1 gb is fine)
+- On the next page assign an interface, bridge (if using bridges) and IP address
+- On the next page assign DNS (optional)
+- On the next page click confirm
+- Once the container is created start it up.
 - 
