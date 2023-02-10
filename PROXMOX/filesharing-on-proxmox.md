@@ -30,7 +30,7 @@ This tutorial assumes that a zfs pool has been created and is available for use.
 - Then in the browser go to the server address: ip.add.re.ss::9090 and login
 
 ### Install Cockpit-Filesharing
-- Go to the github page: [45 Drives Cockpit Filesharing:](https://github.com/45Drives/cockpit-file-sharing)
+- Go to the github page: [45 Drives Cockpit Filesharing](https://github.com/45Drives/cockpit-file-sharing)
 
 ### Install Cockpit-Navigator
 - Go to the github page: [45 Drives Cockpit Navigator](https://github.com/45Drives/cockpit-navigator)
