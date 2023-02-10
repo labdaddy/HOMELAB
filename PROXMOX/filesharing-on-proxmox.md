@@ -24,7 +24,7 @@ This tutorial assumes that a zfs pool has been created and is available for use.
 - Go to the command line in the container and enter: `nano /etc/apt/sources.list
 - At the bottom of the page add: `deb http://deb.debian.org/debian bullseye-backports main contrib and save
 - Then: `apt update && apt full-upgrade`
-- Then: `apt install -t bullseye-backports cockpit --no-install-recommends
+- Then: `apt install -t bullseye-backports cockpit --no-install-recommends`
 - Then: `nano /etc/cockpit/disallowed-users`. 
 - Then remove the entry for `root` and save
 - Then in the browser go to the server address: ip.add.re.ss::9090 and login
