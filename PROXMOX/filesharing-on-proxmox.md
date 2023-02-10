@@ -1,7 +1,7 @@
-### FILE SHARING ON PROXMOX
+## FILE SHARING ON PROXMOX
 This tutorial assumes that a zfs pool has been created and is available for use.
 
-Install debian 11 LXC
+### Install Debian 11 LXC Container
 - Go node_name in the proxmox interface.
 - Click on local storage below the node_name.
 - On the right select `CT templates`, and to the right of that, select `Templates`.
@@ -19,4 +19,12 @@ Install debian 11 LXC
 - On the next page assign DNS (optional)
 - On the next page click confirm
 - Once the container is created start it up.
-- 
+
+### Install Cockpit-Filesharing, Cockpit-Navigator and Cockpit-Identies
+- Go to the command line in the container and enter: `nano /etc/apt/sources.list
+- At the bottom of the page add: `deb http://deb.debian.org/debian bullseye-backports main contrib and save
+- Then: `apt update && apt full-upgrade`
+- Then: `apt install -t bullseye-backports cockpit --no-install-recommends
+- Then: `nano /etc/cockpit/disallowed-users`. 
+- Then remove the entry for `root` and save
+- Then in the browser go to the server address: ip.add.re.ss::9090 and login
