@@ -20,11 +20,20 @@ This tutorial assumes that a zfs pool has been created and is available for use.
 - On the next page click confirm
 - Once the container is created start it up.
 
-### Install Cockpit-Filesharing, Cockpit-Navigator and Cockpit-Identies
+### Install Cockpit web GUI
 - Go to the command line in the container and enter: `nano /etc/apt/sources.list
-- At the bottom of the page add: `deb http://deb.debian.org/debian bullseye-backports main contrib and save
+- At the bottom of the page add: `deb http://deb.debian.org/debian bullseye-backports main contrib` and save
 - Then: `apt update && apt full-upgrade`
 - Then: `apt install -t bullseye-backports cockpit --no-install-recommends`
 - Then: `nano /etc/cockpit/disallowed-users`. 
 - Then remove the entry for `root` and save
 - Then in the browser go to the server address: ip.add.re.ss::9090 and login
+
+### Install Cockpit-Filesharing
+- Go to the github page: [45 Drives Cockpit Filesharing:](https://github.com/45Drives/cockpit-file-sharing)
+
+### Install Cockpit-Navigator
+- Go to the github page: [45 Drives Cockpit Navigator](https://github.com/45Drives/cockpit-navigator)
+
+### Install Cockpit-Identies
+- Go to the github page: [45 Drives Cockpit Identities](https://github.com/45Drives/cockpit-identities)
