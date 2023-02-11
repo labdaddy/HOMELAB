@@ -60,4 +60,8 @@ Next click on file sharing on the left. There will be a notice asking to fix Sam
 - In the `Disk Size` section enter a quota, which is the maximum size of this storage. 
 - Add more mount points if needed
 - Now the container has access to an amount of storage equal to what you just configured above. This can be exported to other machines on the network as SMB shares.
-- 
+
+### Create User Groups
+- In the Cockpit GUI (in the browser) go to `Identities` on the left and then on the right (main) part of the screen click on `Groups`
+- Click on the plus sign, fill in the group name of your choice, click on `create` and the group will be created
+- Now go to `Identities` again on the left and click `Users`. Click on 'New Users` and fill out the relevant fields for your user. Make sure `login shell` is set to `/bin/bash`.  
