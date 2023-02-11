@@ -55,4 +55,9 @@ Go back to the cockpit GUI in the browser, refresh the page and now the new modu
 Next click on file sharing on the left. There will be a notice asking to fix Samba misconfiguration. Click `fix now` and it will be done.
 
 ### Add Storage to the Container to Export as SMB Shares
-
+- Go to the container you created, click on `Resources` and then in the `Add` drop down menu click on `Mount Point`.
+- In the popup for the mount point configuration select the storage pool and then enter the path: `/mnt/slowdrive` or similar
+- In the `Disk Size` section enter a quota, which is the maximum size of this storage. 
+- Add more mount points if needed
+- Now the container has access to an amount of storage equal to what you just configured above. This can be exported to other machines on the network as SMB shares.
+- 
