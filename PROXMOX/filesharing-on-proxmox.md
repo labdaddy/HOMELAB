@@ -2,7 +2,7 @@
 This tutorial assumes that a zfs pool has been created and is available for use.
 
 ### Install Debian 11 LXC Container
-- Go node_name in the proxmox interface.
+- Go to node_name in the proxmox interface.
 - Click on local storage below the node_name.
 - On the right select `CT templates`, and to the right of that, select `Templates`.
 - This will display a popup window with a long list of available LXC container templates.
