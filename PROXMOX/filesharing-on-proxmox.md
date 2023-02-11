@@ -64,4 +64,4 @@ Next click on file sharing on the left. There will be a notice asking to fix Sam
 ### Create User Groups
 - In the Cockpit GUI (in the browser) go to `Identities` on the left and then on the right (main) part of the screen click on `Groups`
 - Click on the plus sign, fill in the group name of your choice, click on `create` and the group will be created
-- Now go to `Identities` again on the left and click `Users`. Click on 'New Users` and fill out the relevant fields for your user. Make sure `login shell` is set to `/bin/bash`.  
+- Now go to `Identities` again on the left and click `Users`. Click on 'New Users.` Fill out the relevant fields for your user. Make sure `login shell` is set to `/bin/bash`.  
