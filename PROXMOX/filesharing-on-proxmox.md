@@ -31,9 +31,28 @@ This tutorial assumes that a zfs pool has been created and is available for use.
 
 ### Install Cockpit-Filesharing
 - Go to the github page: [45 Drives Cockpit Filesharing](https://github.com/45Drives/cockpit-file-sharing)
+- Go to the Releases section on the right side of the page and copy the link for the latest release (will be a .deb file)
+- Go back to the command line in the container and paste in the link (wget http://link.link.etc).
+- The package will be downloaded
 
 ### Install Cockpit-Navigator
 - Go to the github page: [45 Drives Cockpit Navigator](https://github.com/45Drives/cockpit-navigator)
+- Go to the Releases section on the right side of the page and copy the link for the latest release (will be a .deb file)
+- Go back to the command line in the container and paste in the link (wget http://link.link.etc).
+- The package will be downloaded
 
 ### Install Cockpit-Identies
 - Go to the github page: [45 Drives Cockpit Identities](https://github.com/45Drives/cockpit-identities)
+- Go to the Releases section on the right side of the page and copy the link for the latest release (will be a .deb file)
+- Go back to the command line in the container and paste in the link (wget http://link.link.etc).
+- The package will be downloaded
+
+After this there will be an entry that looks a bit like an error. `Download is performed unsandboxed as root as file xyz.abc couldn't be accessed by user apt etc etc.` This is because apt performed the install but the file is owned by root. To fix enter: `ls' to show the files in the current directory which should be all three cockpit packages. Then enter `rm * .deb to delete these three files. 
+Enter `ls` again and there should be no cockpit packages.
+
+Go back to the cockpit GUI in the browser, refresh the page and now the new modules will be visible in the services on the left side.
+
+Next click on file sharing on the left. There will be a notice asking to fix Samba misconfiguration. Click `fix now` and it will be done.
+
+### Add Storage to the Container to Export as SMB Shares
+
