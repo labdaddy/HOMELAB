@@ -11,7 +11,6 @@
 - `deb http://download.proxmox.com/debian/pve bullseye pve-no-subscription`
 - type `ctrl + O`, press `enter`
 - `apt -y update && apt -y upgrade`, press `enter`
-- `apt -y dist-upgrade` and press `enter`
 - when the update process finishes type `reboot`
 
 voila 
