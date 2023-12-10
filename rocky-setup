@@ -3,8 +3,8 @@
 sudo dnf update -y
 
 #install & enable qemu guest agent for proxmox (on host)
-sudo yum install qemu-guest-agent
-sudo systemctl enable qemu-guest-agent
+sudo yum install qemu-guest-agent -y
+sudo systemctl enable qemu-guest-agent -y
 
 #install cockpit on rocky server
 sudo dnf install cockpit -y
@@ -36,3 +36,5 @@ newgrp docker
 
 #test run docker
 docker run hello-world
+
+#sudo reboot
