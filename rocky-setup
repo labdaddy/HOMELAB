@@ -37,4 +37,5 @@ newgrp docker
 #test run docker
 docker run hello-world
 
-#sudo reboot
+#reboot system
+sudo reboot
