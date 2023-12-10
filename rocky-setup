@@ -1,0 +1,38 @@
+#rocky linux setup script
+#first update system
+sudo dnf update -y
+
+#install & enable qemu guest agent for proxmox (on host)
+sudo yum install qemu-guest-agent
+sudo systemctl enable qemu-guest-agent
+
+#install cockpit on rocky server
+sudo dnf install cockpit -y
+
+#start, enable and check status of the cockpit service
+sudo systemctl start cockpit.socket
+sudo systemctl enable cockpit.socket
+sudo systemctl status cockpit.socket
+
+#install docker on rocky 8 or 9
+#update package database
+sudo dnf check-update -y
+
+#add the official Docker repository
+sudo dnf config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo -y
+
+#install docker
+sudo dnf install docker-ce docker-ce-cli containerd  -y
+
+#start the docker daemon, enable it and verify its running
+sudo systemctl start docker
+sudo systemctl enable docker
+sudo systemctl status docker
+
+#make sure you can execute docker commands without typing sudo #every damn time
+#add user to the docker group
+sudo usermod -aG docker $(whoami)
+newgrp docker
+
+#test run docker
+docker run hello-world
