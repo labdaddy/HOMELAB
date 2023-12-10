@@ -4,7 +4,7 @@
 sudo apt update && sudo apt upgrade -y
 
 #install qemu guest agent (for proxmox)
-sudo apt install qemu-guest-agent
+sudo apt install qemu-guest-agent -y
 
 #enable guest agent on host
 sudo systemctl enable qemu-guest-agent
@@ -46,3 +46,6 @@ newgrp docker
 
 #test run docker
 docker run hello-world
+
+#reboot system
+sudo reboot
