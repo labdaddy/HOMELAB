@@ -17,7 +17,7 @@ options zfs zfs_arc_max=8589934592
 
 options zfs zfs_arc_min=2147483648
 
-Save that file, then execute update-initramfs -u
+Save that file, then execute `update-initramfs -u`
 
 Reboot.
 
