@@ -6,7 +6,10 @@ You can change the ARC usage limit for the current boot (a reboot resets this ch
 
 `echo "$[10  _1024_1024*1024]" >/sys/module/zfs/parameters/zfs_arc_max`
 
-To permanently change the ARC limits create the file: /etc/modprobe.d/zfs.conf and write memory limits in it : (for example, this is for 16G max and 4G min)
+## To permanently change the ARC limits create the file: 
+`vi /etc/modprobe.d/zfs.conf` and write memory limits in it : 
+
+(for example, this is for 16G max and 4G min)
 
 `options zfs zfs_arc_max=17179869184`
 
