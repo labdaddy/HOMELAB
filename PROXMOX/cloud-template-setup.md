@@ -1,4 +1,4 @@
-## Credit where its due: I used the commands and outline provided in this tutorial, [Creating a VM template in Proxmox](https://tcude.net/creating-a-vm-template-in-proxmox/)
+### Credit where its due: I used the commands and outline provided in this tutorial, [Creating a VM template in Proxmox](https://tcude.net/creating-a-vm-template-in-proxmox/)
 
 # CLOUD TEMPLATE SETUP
 1. Start by creating a vm.
