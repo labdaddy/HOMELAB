@@ -24,7 +24,7 @@
 - Next we need to import the disk to Proxmox with `qm importdisk <vm id > ubuntu-22.04.qcow2 local-lvm`. Local lvm does not need to be used, just replace with whatever storage location you intend to use.
 - Next go back to the proxmox GUI and go the hardware tab for the VM
 - At the bottom of the list is `Unused disk`, click on it and then click `Edit` at the top
-- Then on the popup click the checkbox next to `Disable`, 
+- Then on the popup click the checkbox next to `Discard` to enable thin provisioning
 - Then, if you are using an SSD for the storage for this VM, click the checkbox next to `Advanced`
 - Make sure to check SSD Emulation then click on the blue `Add` button
 - Now on the next screen you can see that the hard disk is populated and in use
