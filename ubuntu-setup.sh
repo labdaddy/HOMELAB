@@ -10,15 +10,15 @@ sudo apt install qemu-guest-agent -y
 sudo systemctl enable qemu-guest-agent
 
 #install cockpit on ubuntu server
-apt-get install cockpit -y
+sudo apt-get install cockpit -y
 
 #install podman (required)
-apt-get install cockpit-podman -y
+sudo apt-get install cockpit-podman -y
 
 #start, enable and check status of the cockpit service
-systemctl start cockpit
-systemctl enable cockpit
-systemctl status cockpit
+sudo systemctl start cockpit
+sudo systemctl enable cockpit
+sudo systemctl status cockpit
 
 #install cockpit on rocky server
 sudo dnf install cockpit -y
