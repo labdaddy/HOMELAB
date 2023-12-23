@@ -17,9 +17,9 @@
 - Then on `Network`, set to DCHP (or don't, depending on your network needs)
 - Then click `Regenerate image`.
 - Open the shell on the proxmox host or SSH in and access the shell that way
-- Download the ubuntu cloud image using: `wget https://cloud-images.ubuntu.com/minimal/releases/jammy/release/ubuntu-22.04-minimal-cloudimg-amd64.img`
+- Download the ubuntu cloud image using: `wget https://cloud-images.ubuntu.com/jammy/current/jammy-server-cloudimg-amd64-disk-kvm.img`
 - Once thats done, you need to run a qm command on the shell: `qm set <VM ID> --serial0 socket --vga serial0`
-- For some currently unknown reason, the recently downloaded image needs to be renamed so the file type is qcow2. Use this command: `mv ubuntu-22.04-minimal-cloudimg-amd64.img ubuntu-22.04.qcow2` The name could be whatever you want just make sure the extension is changed to qcow2.
+- For some currently unknown reason, the recently downloaded image needs to be renamed so the file type is qcow2. Use this command: `mv ubuntu-22.04-server-cloudimg-amd64-disk-kvm.img ubuntu-22.04.qcow2` The name could be whatever you want just make sure the extension is changed to qcow2.
 - Next the drive size needs to be selected with: `qemu-img resize ubuntu-22.04.qcow2 32G` Use whatever size you want, doesn't need to be 32G .
 - Next we need to import the disk to Proxmox with `qm importdisk 900 ubuntu-22.04.qcow2 local-lvm`. Local lvm does not need to be used, just replace with whatever storage location you intend to use.
 - Next go back to the proxmox GUI and go the hardware tab for the VM
