@@ -21,7 +21,7 @@
 - Once thats done, you need to run a qm command on the shell: `qm set <VM ID> --serial0 socket --vga serial0`
 - For some currently unknown reason, the recently downloaded image needs to be renamed so the file type is qcow2. Use this command: `mv ubuntu-22.04-server-cloudimg-amd64-disk-kvm.img ubuntu-22.04.qcow2` The name could be whatever you want just make sure the extension is changed to qcow2.
 - Next the drive size needs to be selected with: `qemu-img resize ubuntu-22.04.qcow2 32G` Use whatever size you want, doesn't need to be 32G .
-- Next we need to import the disk to Proxmox with `qm importdisk 900 ubuntu-22.04.qcow2 local-lvm`. Local lvm does not need to be used, just replace with whatever storage location you intend to use.
+- Next we need to import the disk to Proxmox with `qm importdisk <vm id > ubuntu-22.04.qcow2 local-lvm`. Local lvm does not need to be used, just replace with whatever storage location you intend to use.
 - Next go back to the proxmox GUI and go the hardware tab for the VM
 - At the bottom of the list is `Unused disk`, click on it and then click `Edit` at the top
 - Then on the popup click the checkbox next to `Disable`, 
