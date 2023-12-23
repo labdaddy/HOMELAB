@@ -30,7 +30,7 @@
 - Now on the next screen you can see that the hard disk is populated and in use
 - Next click on the Options section (the one below Summary) and then select `Boot order` and click `Edit`
 - Then on the `Boot order` popup click and hold the VM disk (will say scsi0 or similar) and drag it to the second position in the list and click `OK`
-- Then on the pve view on the main GUI console, right click on the VM you've been working on and click `Convert to tempplate`
+- Then on the pve view on the main GUI console, right click on the VM you've been working on and click `Convert to template`
 - Now, to actually create a VM from this template, right click on the template and then click `Clone`
 - In the popup menu assign a different ID, set the `Mode` to `Full clone` and then give the clone a name
 - A few seconds later the new VM is created
