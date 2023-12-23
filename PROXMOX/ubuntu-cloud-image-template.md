@@ -1,4 +1,5 @@
-### CREATE A MINIMAL UBUNTU SERVER CLOUD IMAGE
+## CREATE A MINIMAL UBUNTU SERVER CLOUD IMAGE
+
 - start the VM creation process
 - On the General tab: assign a number to the VM, provide a name, click next
 - On the OS tab: on ISO image select `Do not use any media`, next
@@ -34,7 +35,6 @@
 - Now, to actually create a VM from this template, right click on the template and then click `Clone`
 - In the popup menu assign a different ID, set the `Mode` to `Full clone` and then give the clone a name
 - A few seconds later the new VM is created
-- 
 
 
 ## Adding the QEMU Agent
