@@ -34,3 +34,16 @@
 - Now, to actually create a VM from this template, right click on the template and then click `Clone`
 - In the popup menu assign a different ID, set the `Mode` to `Full clone` and then give the clone a name
 - A few seconds later the new VM is created
+- 
+
+
+## Adding the QEMU Agent
+Now that your template has been set up, the last step before actually converting it to a proper template (which is an irreversible process), is to add the qemu-guest-agent.  You can do this with the following steps:
+
+1. Power up the template/VM you have created
+2. Install the agent with sudo apt update && sudo apt upgrade -y && sudo apt install qemu-guest-agent
+3. Enable the agent with sudo systemctl enable qemu-guest-agent
+4. Reset the machine-id with cat /dev/null > /etc/machine-id
+5. Another command to reset the machine-id: cat /dev/null > /var/lib/dbus/machine-id
+6. Run cloud-init clean
+7. Finally, run shutdown -h now
