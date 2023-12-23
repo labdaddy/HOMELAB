@@ -41,9 +41,9 @@
 Now that your template has been set up, the last step before actually converting it to a proper template (which is an irreversible process), is to add the qemu-guest-agent.  You can do this with the following steps:
 
 1. Power up the template/VM you have created
-2. Install the agent with sudo apt update && sudo apt upgrade -y && sudo apt install qemu-guest-agent
-3. Enable the agent with sudo systemctl enable qemu-guest-agent
-4. Reset the machine-id with cat /dev/null > /etc/machine-id
-5. Another command to reset the machine-id: cat /dev/null > /var/lib/dbus/machine-id
-6. Run cloud-init clean
-7. Finally, run shutdown -h now
+2. Install the agent with `sudo apt update && sudo apt upgrade -y && sudo apt install qemu-guest-agent`
+3. Enable the agent with `sudo systemctl enable qemu-guest-agent`
+4. Reset the machine-id with `cat /dev/null > /etc/machine-id`
+5. Another command to reset the machine-id: `cat /dev/null > /var/lib/dbus/machine-id`
+6. Run `cloud-init clean`
+7. Finally, run `shutdown -h now`
