@@ -8,7 +8,7 @@
 - On the Memory tab: select memory, next
 - On the Network tab: choose the network you want and make sure `VirtIO (paravirtualized)` is selected, next
 - On the Confirm tab: review, make sure `Start after created` is NOT selected, click `Finish`
-- Once the VM is created go to the hardware tab for that new VM and select the `Cloudinit Drive`
+- Once the VM is created go to the hardware tab for that new VM and add a `Cloudinit Drive`
 - On the popup choose local storage or whatever other storage provider you want to use then click add
 - Then go to the Cloud-Init section on the left (the section below Summary, not CloudInit drive attached to the machine) and click it
 - On this tab click `User` and enter the name you want
