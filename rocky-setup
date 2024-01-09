@@ -1,41 +1,45 @@
-#rocky linux setup script
-#first update system
-sudo dnf update -y
+#!/bin/bash
 
-#install & enable qemu guest agent for proxmox (on host)
-sudo yum install qemu-guest-agent -y
-sudo systemctl enable qemu-guest-agent -y
+#this script installs:
+#snapd
+#qemu agent
+#docker
+#cockpit
 
-#install cockpit on rocky server
+#update the system, install dnf utilities, epel repo
+sudo dnf check-update
+sudo dnf install dnf-utils
+sudo dnf install epel-release
+sudo dnf upgrade
+
+#snapd, enable snapd socket, then create a symlink to enable classic Snap support
+sudo dnf install snapd
+sudo snap install core
+sudo systemctl enable --now snapd.socket
+sudo ln -s /var/lib/snapd/snap /snap
+
+
+# Install and enable QEMU guest agent
+sudo dnf install qemu-guest-agent -y
+sudo systemctl start qemu-guest-agent
+sudo systemctl enable qemu-guest-agent
+
+# Install and enable Cockpit
 sudo dnf install cockpit -y
+sudo systemctl start cockpit
+sudo systemctl enable cockpit
 
-#start, enable and check status of the cockpit service
-sudo systemctl start cockpit.socket
-sudo systemctl enable cockpit.socket
-sudo systemctl status cockpit.socket
-
-#install docker on rocky 8 or 9
-#update package database
+# Install and enable Docker Engine
 sudo dnf check-update -y
-
-#add the official Docker repository
-sudo dnf config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo -y
-
-#install docker
-sudo dnf install docker-ce docker-ce-cli containerd  -y
-
-#start the docker daemon, enable it and verify its running
+sudo dnf config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
+sudo dnf install docker-ce docker-ce-cli containerd.io -y
 sudo systemctl start docker
 sudo systemctl enable docker
-sudo systemctl status docker
 
-#make sure you can execute docker commands without typing sudo #every damn time
-#add user to the docker group
-sudo usermod -aG docker $(whoami)
+# Add the current user to the docker group
+sudo usermod -aG docker $(whoami) 
 newgrp docker
 
-#test run docker
-docker run hello-world
-
-#reboot system
 sudo reboot
+
+
