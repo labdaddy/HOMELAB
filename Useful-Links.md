@@ -67,7 +67,7 @@
 - [Awesome self hosted](https://github.com/bastienwirtz/awesome-selfhosted)
 - [Home: static home server page](https://github.com/bastienwirtz/homer)
 - [Sample Self Hosted Infrastructure](https://github.com/khuedoan/homelab)
-- [Intro to self hosting](https://georgev.design/blog/intro-to-self-hosting-how-to-get-started-hosting-your-applications)
+- [A Homelab Replaced 11 SaaS Subscriptions. The Bill: Just Under 10 GB of RAM.](https://calder-brief.pages.dev/self-hosted-ram-cost-11-saas-apps)
 - [Phone backups with Syncthing](https://jonathanmenahem.digital/setting-up-truenas-to-backup-files-from-android-phone-using-syncthing/)
 - [Set Up Your Own Nextcloud Server](https://kiramclean.com/blog/how-to-set-up-your-own-nextcloud-server/)
 
